@@ -1,0 +1,53 @@
+<!--HTML Links - Different Colors
+-An HTML link is displayed in a different color depending on whether it has been visited, is unvisited, or is active.
+
+//HTML Link Colors
+
+-By default, a link will appear like this (in all browsers):
+	+An unvisited link is underlined and blue
+	+A visited link is underlined and purple
+	+An active link is underlined and red
+
+-You can change the link state colors, by using CSS:
+//Example - an unvisited link will be green with no underline. A visited link will be pink with no underline. An active link will be yellow and underlined. In addition, when mousing over a link (a:hover) it will become red and underlined:
+-->
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>HTML Links - Different Colors</title>
+	<style>
+			a:link
+			{
+				color: green;
+				background-color: transparent;
+				text-decoration: none;
+			}
+			a:visited /*khi k co tac dong gi*/
+			{
+				color: pink;
+				background-color: transparent;
+				text-decoration: none;
+			}
+			a:hover /*khi di chuot qua*/
+			{
+				color: red;
+				background-color: transparent;
+				text-decoration: underline;
+			}
+			a:active  /*khi nhan vao*/
+			{
+				color: yellow;
+				background-color: transparent;
+				text-decoration: underline;
+			}
+
+	</style>
+</head>
+<body>
+
+			<h2>Link Colors</h2>
+			<p>I can change the default colors of links</p>
+			<a href="https://icon-icons.com/en/" target="_blank">Get Icon</a>
+</body>
+</html>

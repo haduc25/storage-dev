@@ -1,0 +1,2 @@
+=>(array2-1a.cpp)
+/*cong 2 ma tran */

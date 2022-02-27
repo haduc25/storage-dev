@@ -1,0 +1,9 @@
+=>(array-1a.cpp)
+//sort tang dan
+
+=>(array-1b.cpp)
+//sort tang, giam dan, xoa phan tu
+
+
+=>(array-1c.cpp)
+//sort tang, giam dan, kt hop le

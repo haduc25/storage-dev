@@ -1,0 +1,17 @@
+=>(chuanhoa-5a.cpp)
+/* a, ham doi tat ca chua hoa thanh chu thuong (k dung strlwr)*/
+
+=>(chuanhoa-4b.cpp)
+/* a,(0.5)Nhap va in ra 1 xau co toi da 100 ki tu
+   b,(1.5)Viet ham kiem tra xau s1 co trung khop voi xau s2 hay khong,
+   ham tra ve gia tri 1 neu trung khop nguoc lai tra ve 0 */
+
+
+=>(chuanhoa-5b.cpp)
+//Chu cai dau viet hoa
+
+=>(chuanhoa-5c.cpp)
+/* a,(0,5)Nhap vao 1 xau in ra 100 ki tu
+   b,Viet ham doi ki tu co trog xau s thanh chu HOA(khong dung ham "strupr")
+   vi du: "Nhap Mon LAP Trinh C"
+   ket qua la : "NHAP MON LAP TRINH C" */      

@@ -1,0 +1,6 @@
+=>(chuanhoa-2ab.cpp)
+/* 
+a, Nhap va in ra 1 xau s co toi da 100 ki tu
+b, Viet ham tra ve xau sau khi da xoa cac khoang trang ben trai va ben phai cua xau s
+*/
+

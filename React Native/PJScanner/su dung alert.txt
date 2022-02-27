@@ -1,0 +1,2 @@
+        Alert.alert('Clicked','click cai cc?');
+        console.log('Clicked');

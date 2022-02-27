@@ -1,0 +1,630 @@
+<!--
+//HTML Input Types
+-Here are the different input types you can use in HTML:
+	<input type="button">
+	<input type="checkbox">
+	<input type="color">
+	<input type="date">
+	<input type="datetime-local">
+	<input type="email">
+	<input type="file">
+	<input type="hidden">
+	<input type="image">
+	<input type="month">
+	<input type="number">
+	<input type="password">
+	<input type="radio">
+	<input type="range">
+	<input type="reset">
+	<input type="search">
+	<input type="submit">
+	<input type="tel">
+	<input type="text">
+	<input type="time">
+	<input type="url">
+	<input type="week">
+
+*Tip: The default value of the "type" attribute is "text".
+
+
+//Input Type Text
+-The <input type="text"> defines a single-line text input field:
+
+//Example
+-->
+<!DOCTYPE html>
+<html>
+<head>
+	<title>HTML Input Types</title>
+</head>
+<body>
+
+			<h2>Text field</h2>
+			<p>The <strong>input type="text"</strong>defines a one-line text input field:</p>
+
+			<form action="https://www.w3schools.com/action_page.php" target="_blank">
+				<label for="fname">Fisrt Name:</label><br>
+				<input type="text" id="fname" name="fname"><br>
+				<label for="lname">Last Name:</label><br>
+				<input type="text" id="lname" name="lname"><br><br>
+				<input type="submit" value="Submit">
+			</form>
+
+			<p>Note that the form itself is not visible.</p>
+			<p>Also note that the default width of a text field is 20 characters.</p>
+</body>
+</html>
+
+
+<!--
+//Input Type Password
+-The <input type="password"> defines a password field:
+
+//Example
+-->
+<!DOCTYPE html>
+<html>
+<body>
+
+			<h2>Password field</h2>
+			<p>The <strong>input type="password"</strong>defines a password field:</p>
+
+			<form action="https://www.w3schools.com/action_page.php" target="_blank" method="post">
+				<label for="user">Username:</label><br>
+				<input type="text" id="user" name="user"><br>
+				<label for="pwd">Password:</label><br>
+				<input type="password" id="pwd" name="pwd"><br><br>
+				<input type="submit" value="Submit">
+			</form>
+
+			<p>The characters in a password field are masked (shown as asterisks or circles).</p>
+</body>
+</html>
+
+
+<!--
+//Input Type Submit
+-The <input type="submit"> defines a button for submitting form data to a form-handler.
+-The form-handler is typically a server page with a script for processing input data.
+-The form-handler is specified in the form's "action" attribute:
+
+//Example
+-->
+<!DOCTYPE html>
+<html>
+<body>
+
+			<h2>Submit Button</h2>
+			<p>The <strong>input type="submit"</strong> defines a button for submitting form data to a form-handler:</p>
+
+			<form action="https://www.w3schools.com/action_page.php" target="_blank" method="post">
+				<label for="fname">Full Name:</label><br>
+				<input type="text" id="fname" name="fname" value="Ha Minh Duc"><br>
+				<input type="submit">
+			</form>
+
+			<p>If you click "Submit", the form-data will be sent to a page called "https://www.w3schools.com/action_page.php".</p>
+			<p><strong>*Note:</strong> If you omit the submit button's value attribute, the button will get a default text.</p>
+
+</body>
+</html>
+
+<!--
+//Input Type Reset
+-The <input type="reset"> defines a reset button that will reset all form values to 
+  their default values:
+
+//Example
+-->
+<!DOCTYPE html>
+<html>
+<body>
+
+			<h2>Reset Button</h2>
+			<p>The <strong>input type="reset"</strong> defines a reset button that resets all form values to their default values:</p>
+
+			<form action="https://www.w3schools.com/action_page.php" target="_blank">
+				<label for="fname">First Name:</label><br>
+				<input type="text" id="fname" name="fname"><br>
+				<label for="lname">Last Name:</label><br>
+				<input type="text" id="lname" name="lname"><br>
+				<input type="submit">
+				<input type="reset">
+			</form>
+
+			<p>If you change the input values and then click the "Reset" button, the form-data will be reset to the default values.</p>
+
+</body>
+</html>
+
+<!--
+-If you change the input values and then click the "Reset" button, the form-data will be reset to the default values.
+
+
+//Input Type Radio
+-The <input type="radio"> defines a radio button.
+-Radio buttons let a user select ONLY ONE of a limited number of choices:
+
+//Example
+-->
+<!DOCTYPE html>
+<html>
+<body>
+
+			<h2>Radio Buttons</h2>
+			<p>The <strong>input type="radio"</strong> defines a radio button:</p>
+
+			<p>Choose your favorite Web language:</p>
+			<form action="https://www.w3schools.com/action_page.php" target="_blank">
+				<input type="radio" id="html" name="fav_language" value="HTML">
+				<label for="html">HTML</label><br>
+				<input type="radio" id="css" name="fav_language" value="CSS">
+				<label for="css">CSS</label><br>
+				<input type="radio" id="javascript" name="fav_language" value="JavaScript">
+				<label for="javascript">JavaScript</label><br><br>
+				<input type="submit">
+			</form>
+</body>
+</html>
+
+
+
+<!--
+//Input Type Checkbox
+-The <input type="checkbox"> defines a checkbox.
+-Checkboxes let a user select ZERO or MORE options of a limited number of choices.
+
+//Example
+-->
+<!DOCTYPE html>
+<html>
+<body>
+
+			<h2>Checkboxes</h2>
+			<p>The <strong>input type="checkbox"</strong> defines a checkbox:</p>
+
+			<form action="https://www.w3schools.com/action_page.php" target="_blank">
+			  <input type="checkbox" id="vehicle1" name="vehicle1" value="Bike">
+			  <label for="vehicle1"> I have a bike</label><br>
+			  <input type="checkbox" id="vehicle2" name="vehicle2" value="Car">
+			  <label for="vehicle2"> I have a car</label><br>
+			  <input type="checkbox" id="vehicle3" name="vehicle3" value="Boat">
+			  <label for="vehicle3"> I have a boat</label><br><br>
+			  <input type="submit" value="Submit">
+			</form>
+</body>
+</html>
+
+
+<!--
+//Input Type Button
+-The <input type="button"> defines a button:
+
+//Example
+-->
+<!DOCTYPE html>
+<html>
+<body>
+
+			<h2>Input Botton</h2>
+			<input type="button" onclick="alert('Fk u bcs Clicked')" value="Click Me!">
+</body>
+</html>
+
+
+
+<!--
+//Input Type Color
+-The <input type="color"> is used for input fields that should contain a color.
+-Depending on browser support, a color picker can show up in the input field.
+
+//Example
+-->
+<!DOCTYPE html>
+<html>
+<body>
+
+			<h2>Show a Color Picker</h2>
+			<p>The <strong>input type="color"</strong> is used for input fields that should contain a color.</p>
+
+			<form action="https://www.w3schools.com/action_page.php" target="_blank">
+				<label>Select your favorite	color:</label>
+				<input type="color" id="fav_color" name="fav_color" value="#000000">
+				<input type="submit" value="Submit">
+			</form>
+
+			<p><b>Note:</b> type="color" is not supported in Internet Explorer 11 or Safari 9.1 (or earlier).</p>
+</body>
+</html>
+
+
+<!--
+//Input Type Date
+-The <input type="date"> is used for input fields that should contain a date.
+-Depending on browser support, a date picker can show up in the input field.
+
+//Example
+-->
+<!DOCTYPE html>
+<html>
+<body>
+
+			<h2>Date Field</h2>
+			<p>The <strong>input type="date"</strong> is used for input fields that should contain a date.</p>
+
+			<form action="https://www.w3schools.com/action_page.php" target="_blank">
+				<label for="birthday">Birthday:</label>
+				<input type="date" id="birthday" name="birthday">
+				<input type="submit" value="Submit">
+			</form>
+
+			<p><strong>Note:</strong> type="date" is not supported in Safari or Internet Explorer 11 (or earlier).</p>
+</body>
+</html>
+
+<!--
+-You can also use the "min" and "max" attributes to add restrictions to dates:
+//Example
+-->
+<!DOCTYPE html>
+<html>
+<body>
+
+			<h2>Date Field Restrictions</h2>
+			<p>Use the min and max attributes to add restrictions to dates:</p>
+
+			<form action="https://www.w3schools.com/action_page.php" target="_blank">
+				<label for="date_min">Enter a date after 2000-01-01:</label>
+				<input type="date" id="date_min" name="date_min" min="2000-01-01"><br><br>
+
+				<label>Enter a date before 1980-01-01</label>
+				<input type="date" id="date_max" name="date_max" max="1980-01-01"><br><br>
+
+				<input type="submit" value="Submit">
+			</form>
+
+			<p><strong>Note:</strong> type="date" is not supported in Safari or Internet Explorer 11 (or earlier).</p>
+</body>
+</html>
+
+
+<!--
+//Input Type Datetime-local
+-The <input type="datetime-local"> specifies a date and time input field, with no time zone.
+-Depending on browser support, a date picker can show up in the input field.
+
+//Example
+-->
+<!DOCTYPE html>
+<html>
+<body>
+
+			<h2>Local Date Field</h2>
+			<p>The <strong>input type="datetime-local"</strong> specifies a date and time input field, with no time zone.</p>
+
+			<form action="https://www.w3schools.com/action_page.php" target="_blank">
+				<label for="birthday_time">Birthday (date and time):</label>
+				<input type="datetime-local" id="birthday_time" name="birthday_time">
+				<input type="submit">
+			</form>
+
+			<p><strong>Note:</strong> type="datetime-local" is not supported in Firefox, Safari or Internet Explorer 12 (or earlier).</p>
+</body>
+</html>
+
+
+<!--
+//Input Type Email
+-The <input type="email"> is used for input fields that should contain an e-mail address.
+-Depending on browser support, the e-mail address can be automatically validated when 
+  submitted.
+-Some smartphones recognize the email type, and add ".com" to the keyboard to match 
+  email input.
+
+ //Example
+-->
+<!DOCTYPE html>
+<html>
+<body>
+
+			<h2>Email Field</h2>
+			<p>The <strong>input type="email"</strong> is used for input fields that should contain an e-mail address:</p>
+
+			<form action="https://www.w3schools.com/action_page.php" target="_blank">
+				<label for="email">Enter your email:</label>
+				<input type="email" id="email" name="email">
+				<input type="submit">
+			</form>
+</body>
+</html>
+
+
+<!--
+//Input Type File
+-The <input type="file"> defines a file-select field and a "Browse" button for file uploads.
+
+//Example
+-->
+<!DOCTYPE html>
+<html>
+<body>
+
+			<h1>File upload</h1>
+			<p>Show a file-select field which allows a file to be chosen for upload:</p>
+
+			<form action="https://www.w3schools.com/action_page.php" target="_blank">
+				<label for="myfile">Select a file:</label>
+				<input type="file" id="myfile" name="myfile"><br><br>
+				<input type="submit" value="Submit">
+			</form>
+</body>
+</html>
+
+
+<!--
+//Input Type Hidden
+-The <input type="hidden"> defines a hidden input field (not visible to a user).
+-A hidden field let web developers include data that cannot be seen or modified by users
+   when a form is submitted.
+-A hidden field often stores what database record that needs to be updated when the form
+   is submitted.
+*Note: While the value is not displayed to the user in the page's content, it is visible
+   (and can be edited) using any browser's developer tools or "View Source" functionality. Do not use hidden inputs as a form of security!
+
+//Example
+-->
+<!DOCTYPE html>
+<html>
+<body>
+
+			<h1>A Hidden Field (look in source code)</h1>
+
+			<form action="https://www.w3schools.com/action_page.php" target="_blank">
+				<label for="user">Username:</label>
+				<input type="text" id="user" name="user"><br><br>
+				<input type="hidden" id="cust_ID" name="cust_ID" value="2509">
+				<input type="submit" value="Submit">
+			</form>
+
+			<p><strong>Note:</strong> The hidden field is not shown to the user, but the data is sent when the form is submitted.</p>
+</body>
+</html>
+
+
+<!--
+//Input Type Month
+-The <input type="month"> allows the user to select a month and year.
+-Depending on browser support, a date picker can show up in the input field.
+
+//Example
+-->
+<!DOCTYPE html>
+<html>
+<body>
+
+			<h2>Month Field</h2>
+			<p>The <strong>input type="month"</strong> allows the user to select a month and year.</p>
+
+			<form action="https://www.w3schools.com/action_page.php" target="_blank">
+				<label for="birthday_month">Birthday (month or year):</label>
+				<input type="month" id="birthday_month" name="birthday_month">
+				<input type="submit" value="Submit">
+			</form>
+
+			<p><strong>Note:</strong> type="month" is not supported in Firefox, Safari, or Internet Explorer 11 (or earlier).</p>
+</body>
+</html>
+
+
+<!--
+//Input Type Number
+-The <input type="number"> defines a numeric input field.
+-You can also set restrictions on what numbers are accepted.
+-The following example displays a numeric input field, where you can enter a value from
+   1 to 5:
+-->
+<!DOCTYPE html>
+<html>
+<body>
+
+					<h2>Number Field</h2>
+					<p>The <strong>input type="number"</strong> defines a numeric input field.</p>
+					<p>You can use the min and max attributes to add numeric restrictions in the input field:</p>
+
+					<form action="https://www.w3schools.com/action_page.php" target="_blank">
+							<label for="quantity">Quantity (between 1 and 5):</label>
+							<input type="number" id="quantity" name="quantity" min="1" max="5">
+							<input type="submit" value="Submit">
+
+					</form>
+</body>
+</html>
+
+
+<!--
+//Input Restrictions
+-Here is a list of some common input restrictions:
+
+Attribute														Description
+
+checked							Specifies that an input field should be pre-selected when the page 
+											loads (for type="checkbox" or type="radio")
+disabled						Specifies that an input field should be disabled
+max									Specifies the maximum value for an input field
+maxlength						Specifies the maximum number of character for an input field
+min									Specifies the minimum value for an input field
+pattern							Specifies a regular expression to check the input value against
+readonly						Specifies that an input field is read only (cannot be changed)
+required						Specifies that an input field is required (must be filled out)
+size								Specifies the width (in characters) of an input field
+step								Specifies the legal number intervals for an input field
+value								Specifies the default value for an input field
+
+
+
+//Example - Displays a numeric input field, where you can enter a value from 0 to 100, in steps of 10. The default value is 30:
+-->
+<!DOCTYPE html>
+<html>
+<body>
+
+					<h2>Numberic Steps</h2>
+					<p>Depending on browser support: Fixed steps will apply in the input field.</p>
+
+					<form action="https://www.w3schools.com/action_page.php" target="_blank">
+							<label for="quantity">Quantity:</label>
+							<input type="number" id="quantity" name="quantity" min="0" max="100" step="10" value="50">
+							<input type="submit" value="Submit">
+					</form>
+</body>
+</html>
+
+
+<!--
+//Input Type Range
+-The <input type="range"> defines a control for entering a number whose exact value is not important (like a slider control). Default range is 0 to 100. However, you can set restrictions on what numbers are accepted with the "min", "max", and "step" attributes:
+
+//Example
+-->
+<!DOCTYPE html>
+<html>
+<body>
+
+					<h2>Range Field</h2>
+					<p>Depending on browser support: The input type "range" can be displayed as a slider control.</p>
+
+					<form action="https://www.w3schools.com/action_page.php" target="_blank">
+							<label for="vol">Volume (between 0 and 100)</label>
+							<input type="range" id="vol" name="vol" min="0" max="100">
+							<input type="submit" value="Submit">
+					</form>
+</body>
+</html>
+
+
+<!--
+//Input Type Search
+-The <input type="search"> is used for search fields (a search field behaves like a regular text field).
+
+//Example
+-->
+<!DOCTYPE html>
+<html>
+<body>
+
+					<h2>Search Field</h2>
+					<p>The <strong>input type="search"</strong> is used for search fields (behaves like a regular text field):</p>
+
+					<form action="https://www.w3schools.com/action_page.php" target="_blank">
+							<label for="gsearch">Search Google:</label>
+							<input type="search" id="gsearch" name="gsearch">
+							<input type="submit" value="Go">
+					</form>
+</body>
+</html>
+
+
+<!--
+//Input Type Tel
+-The <input type="tel"> is used for input fields that should contain a telephone number.
+
+//Example
+-->
+<!DOCTYPE html>
+<html>
+<body>
+
+					<h2>Telephone Field</h2>
+					<p>The <strong>input type="tel"</strong> is used for input fields that should contain a telephone number:</p>
+
+					<form action="https://www.w3schools.com/action_page.php" target="_blank">
+							<label for="phone">Enter a phone number:</label><br><br>
+							<input type="tel" id="phone" name="phone" placeholder="0123-456-789" pattern="[0-9]{4}-[0-9]{3}-[0-9]{3}" required><br>
+							<small>Format: 0123-456-789</small><br><br>
+							<input type="submit" value="Submit">
+					</form>
+</body>
+</html>
+
+
+<!--
+//Input Type Time
+-The <input type="time"> allows the user to select a time (no time zone).
+-Depending on browser support, a time picker can show up in the input field.
+
+//Example
+-->
+<!DOCTYPE html>
+<html>
+<body>
+
+					<h1>Show a Time Input Control</h1>
+					<p>The <strong>input type="time"</strong> allows the user to select a time (no time zone):</p>
+					<p>If the browser supports it, a time picker pops up when entering the input field.</p>
+
+					<form action="https://www.w3schools.com/action_page.php" target="_blank">
+							<label for="appt">Select a time:</label>
+							<input type="time" id="appt" name="appt" required>
+							<input type="submit" value="Submit">
+
+							<p><strong>Note:</strong> type="time" is not supported in Safari or Internet Explorer 12 (or earlier).</p>
+					</form>
+</body>
+</html>
+
+
+<!--
+//Input Type Url
+-The <input type="url"> is used for input fields that should contain a URL address.
+-Depending on browser support, the url field can be automatically validated when 
+  submitted.
+-Some smartphones recognize the url type, and adds ".com" to the keyboard to match url 
+  input.
+
+//Example
+-->
+<!DOCTYPE html>
+<html>
+<body>
+
+					<h1>Display a URL Input Field</h1>
+					<p>The <strong>input type="url"</strong> is used for input fields that should contain a URL address:</p>
+
+					<form action="https://www.w3schools.com/action_page.php" target="_blank">
+							<label for="homepage">Add your Homepage:</label>
+							<input type="url" id="homepage" name="homepage" placeholder="www.example.com">
+							<input type="submit" value="Submit">
+					</form>
+</body>
+</html>
+
+
+<!--
+//Input Type Week
+-The <input type="week"> allows the user to select a week and year.
+-Depending on browser support, a date picker can show up in the input field.
+
+//Example
+-->
+<!DOCTYPE html>
+<html>
+<body>
+
+					<h1>Display a Week Input Control</h1>
+					<p>The <strong>input type="week"</strong> allows the user to select a week and year.</p>
+					<p>If the browser supports it, a date picker pops up when entering the input field.</p>
+
+					<form action="https://www.w3schools.com/action_page.php" target="_blank">
+							<label for="week">Select a week:</label>
+							<input type="week" id="week" name="week">
+							<input type="submit" value="Submit">
+					</form>
+</body>
+</html>
+
+
+<!--
+//HTML Input Type Attribute
+		Tag													Description
+<input type="">				Specifies the input type to display
+-->

@@ -1,0 +1,20 @@
+Error: `createStackNavigator()` has been moved to `react-navigation-stack`. See https://reactnavigation.org/docs/stack-navigator.html for more details.
+
+
+`createStackNavigator()` has been moved to `react-navigation-stack`
+
+
+
+https://stackoverflow.com/questions/57817573/createstacknavigator-has-been-moved-to-react-navigation-stack
+
+As said by the error, in react-navigation version 4, all navigators have been moved to separate repos so you have to install them separately.
+
+For the StackNavigator you have to install react-navigation-stack using:
+
+npm i react-navigation-stack   //or yarn add react-navigation-stack
+after that, go to the file where you define createStackNavigator and change:
+
+import { createStackNavigator } from 'react-navigation'
+to:
+
+import { createStackNavigator } from 'react-navigation-stack'

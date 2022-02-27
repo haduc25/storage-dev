@@ -1,0 +1,84 @@
+Link: http://tuhocweb.com/php-co-ban-tim-hieu-ve-toan-tu-trong-php-102.html
+
+
+*Toán tử số học trong PHP
+Là dạng toán tử đơn giản gồm các phép tính cộng, trừ, nhân, chia và chia lấy dư (%).
+
+		Toán tử 		 Tên 				 Ví dụ		 Kết quả
+		 +				Cộng 2 số hạng		1+1 			2
+		 -				Trừ 2 số hạng		2-1				1
+		 *				Nhân 2 số hạng		2*2				4
+		 / 				Chia				2/2				1
+		 %				Trả về số dư		3%2				1
+
+*Toán tử so sánh trong PHP
+Toán tử so sánh là toán tử được sử dụng để so sánh hai giá trị (số hoặc chuỗi).
+
+		Toán tử			 Tên									 Ví dụ		  Kết quả
+		==				So sánh bằng							1==1			true
+		===				Đồng nhất (bằng nhau và cùng kiểu dl)	1===1			true
+		!=				Không bằng								1!=2			true
+		<>				Không bằng								1<>1			false
+		!==				Không đồng nhất							1!==1			false
+		>				Lớn hơn									1>2				false
+		<				Nhỏ hơn     							1<2				true
+		>=				Lớn hơn hoặc bằng						1>=2			false
+		<=				Nhỏ hơn hoặc bằng						1<=2			true
+
+*Toán tử gán trong PHP
+Toán tử gán trong PHP được sử dụng bằng cách lấy giá trị của toán hạng bên phải gán vào toán hạng bên trái.
+
+		Toán tử			 Tên				 Ví dụ		 Kết quả
+		=				Gán bằng			$x=10		$x=10
+		+=				Gán cộng			$x+=10		$x=$x+10
+		-=				Gán trừ				$x-=10		$x=$x-10
+		*=				Gán nhân			$x*=10		$x=$x*10
+		/=				Gán chia			$x/=10		$x=$x/10
+		%=				Gán lấy dư			$x%=10		$x=$x
+
+*Toán tử logic trong PHP
+Toán tử logic là các tổ hợp các giá trị boolean ,được sử dụng để kết hợp các câu điều kiện.
+
+		Toán tử 		 Tên        							 					 Ví dụ           	  Kết quả
+		and   			and (Đúng khi cả 2 cùng đúng)								True and true		true
+		or 				or (Đúng khi 1 trong 2 hoặc cả 2 cùng đúng)					true or false		true
+		xor				xor (Đúng khi 1 trong 2 cùng đúng nhưng không phải cả 2)	true xor true		false
+		&&				and (Đúng khi cả 2 cùng đúng)								false && false		true
+		|| 				or (Đúng khi 1 trong 2 hoặc cả 2 cùng đúng)					true || false		true
+		!				not (Không đúng)											!true				flase
+
+*Toán tử kết hợp
+Trong PHP chúng ta sẽ thường phải tăng hay giảm lượng biến một số nguyên nào đó.
+Toán tử kết hợp được sử dụng để tăng, giảm giá trị của một biến.
+
+		Toán tử            	Tên                				 Ví dụ    			 Kết quả
+		++$a        	Tăng trước khi thực hiện    		$a=1;echo ++$a;			2
+		$a++        	Thực hiện rồi tăng        			$a=1;echo $a++;			1
+		--$a        	Giảm trước khi thực hiện    		$a=1;echo --$a;			0
+		$a--        	Thực hiện rồi giảm        			$a=1;echo ++$a;			1
+
+*Toán tử chuỗi trong PHP
+PHP cung cấp hai toán tử thiết kế đặc biệt cho các chuỗi.
+
+		Toán tử        		Tên        		 Ví dụ      
+		.        		Nối chuỗi 	  	 	$txta.$txtb 
+		.=      		Gán chuỗi    		$txta.=$txtb
+
+*Toán tử mảng trong PHP
+Các toán tử mảng trong PHP được sử dụng để so sánh các mảng.
+
+		Toán tử        	 	Tên       	 	 Ví dụ        Kết quả
+		+      			Kết hợp	 			$x + $y		Kết hợp của $x và $y.
+		==        		Bằng nhau        	$x==$y		Trả về true nếu $x và $y có key/value tương tự.
+		===        		Giống nhau			$x===$y		Trả về true nếu $x và $y có key/value tương tự và cùng loại.
+		!=        		Không bằng			$x!=$y		Trả về true nếu $x không bằng $y.
+		<>        		Không bằng			$x<>$y		Trả về true nếu $x không bằng $y.
+		!==        		Không giống nhau	$x!==$y		Trả về true nếu $x là không giống với $y
+
+*Độ ưu tiên của các toán tử trong PHP
+Độ ưu tiên là thứ tự các phép tính mà PHP sẽ thực hiện trong một biểu thức.
+Thứ tự lần lượt từ trên xuống dưới như trong toán học:
+
+	- Toán tử một ngôi ++,-- từ phải sang trái.
+	- Toán tử ^, *, /, %, +, - từ trái sang phải.
+	- Toán tử = từ phải sang trái.

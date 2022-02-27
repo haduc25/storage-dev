@@ -1,0 +1,6 @@
+DANH SACH MAY TINH SAU KHI SAP XEP THEO CPU:
+  1                   1         2         3         1
+  2                   5         2         2         2
+  3                   2         1       151         1
+  4                   1         1         1         1
+  5                   1         1         1         1

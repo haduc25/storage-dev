@@ -1,0 +1,17 @@
+=>(chuanhoa-1a.c)
+/*
+a, viet ham nhap xuat 1 xau bat ki, tinh do dai, viet hoa xau vua nhap
+*/
+
+=>(chuanhoa-1b.c)
+/*
+b, Viet ham tra ve xau tuong ung sau khi da xoa cac khoang trang giua cac tu trong xau s (chi giu lai mot khoang trang phan cach giua cac tu)
+Vi du : s = " Nhap  Mon  Lap  Trinh  C "
+ket qua s = "Nhap Mon Lap Trinh C "
+*/
+
+=>(chuanhoa-1c.c)
+// xoa tat ca cac khoang trang thua o giua xau
+
+=>(chuanhoa-1d.c)
+/*xoa tat ca cac khoang trang thua o giua xau va viet in hoa tinh do dai */

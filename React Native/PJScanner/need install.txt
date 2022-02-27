@@ -1,0 +1,19 @@
+npm install -g react-devtools
+
+//(cho dev)
+npm install --save-dev react-devtools //(cho dev)
+
+them 
+    "react-devtools": "react-devtools"
+
+vao scripts -> (packet.json)
+
+
+npm run react-devtools
+
+
+--------------------navigation--------------------
+
+npm install react-navigation
+
+npm install react-navigation-stack

@@ -1,0 +1,16 @@
+font default of computer:
+-monospace
+
+//html
+-To display a less than sign (<) we must write: &lt; or &#60;
+-A commonly used entity in HTML is the non-breaking space: &nbsp;
+-Tip: The non-breaking hyphen (&#8209;) is used to define a hyphen character (‑) that does not break into a new line.
+
+
+
+
+
+
+
+
+

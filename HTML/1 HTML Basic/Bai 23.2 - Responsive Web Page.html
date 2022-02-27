@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>Responsive Web Page</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<style>
+			*
+			{
+				box-sizing: border-box;
+			}
+
+			/*class menu*/
+			.menu
+			{
+				float: left;
+				width: 20%;
+				text-align: center;
+			}
+
+			/*class menu a*/
+			.menu a
+			{
+				background-color: #e5e5e5;
+				padding: 8px;
+				margin-top: 7px;
+				display: block;
+				width: 100%;
+				color: black;
+			}
+
+			/*class main*/
+			.main
+			{
+				float: left;
+				width: 60%;
+				padding: 0 20px;
+			}
+
+			/*class right*/
+			.right
+			{
+				background-color: #e5e5e5;
+				float: left;
+				width: 20%;
+				padding: 15px;
+				margin-top: 7px;
+				text-align: center;
+			}
+
+			@media only screen and (max-width: 620px)
+			{
+				/*for mobile phone*/
+				.menu, .main, .right
+				{
+					width: 100%;
+				}
+			}
+
+			/*More class*/
+
+			/*Cus Header*/
+			.cus_header
+			{
+				background-color: #e5e5e5;
+				padding: 15px;
+				text-align: center;
+			}
+
+			/*Cus Footer*/
+			.cus_footer
+			{
+				background-color: #e5e5e5;
+				text-align: center;
+				padding: 10px;
+				margin-top: 7px;
+			}
+
+		</style>
+</head>
+<body style="font-family: Verdana; color: #aaaaaa;">
+
+			<!--Cus Header-->
+			<div class="cus_header">
+				<h1>Hello Work</h1>
+			</div>
+
+			<!--Menu-->
+			<div style="overflow:auto;">
+					<div class="menu">
+						<a href="https://www.ldoceonline.com/" target="_blank">LongMan</a>
+						<a href="https://www.facebook.com/" target="_blank">Facebook</a>
+						<a href="https://translate.google.com/?hl=vi&sl=en&tl=vi&op=translate" target="_blank">Translate</a>
+						<a href="https://www.youtube.com/?gl=VN" target="_blank">Youtube</a>
+					</div>
+
+					<!--Main-->
+					<div class="main">
+						<h2>Lorum Ipsum</h2>
+						<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.</p>	
+					</div>
+
+					<!--Right-->
+					<div class="right">
+						<h2>About</h2>
+						<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</p>
+					</div>
+			</div>
+			
+			<!--Cus Footer-->
+			<div class="cus_footer">
+				@Copyright haduc25.com
+			</div>
+</body>
+</html>

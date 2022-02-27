@@ -1,0 +1,11 @@
+=>(chuanhoa-4a.cpp)
+/* a,(0,5)Nhap va in ra 1 xau s co toi da 100 ki tu
+   b,1,5)Viet ham kiem tra chuoi s co phai la chuoi doi xung hay khong?
+   Vd:s="abcdcba" -> s chuoi doi xung
+      s="abdfghc" -> s khong la chuoi doi xung 
+*/
+
+=>(chuanhoa-4b.cpp)
+/* a,(0.5)Nhap va in ra 1 xau co toi da 100 ki tu
+   b,(1.5)Viet ham kiem tra xau s1 co trung khop voi xau s2 hay khong,
+   ham tra ve gia tri 1 neu trung khop nguoc lai tra ve 0 */

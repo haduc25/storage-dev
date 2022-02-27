@@ -1,0 +1,13 @@
+=>(array-1ab.c)
+/*
+a, Viet ham nhap/xuat mang a cac so nguyen co n phan tu tu ban phim dieu kien gia tri cua n phai thoa man 1<n<100 
+	neu khong thoa man dieu kien tren thi yeu cau nhap lai 
+b, Viet ham tinh gia tri trung binh cac phan tu co gia tri tuong duong trong mang 1 chieu a co n phan tu. 
+	Ham tra ve gia tri trung binh cac phan tu co gia tri duong. Nguoc lai ham tra ve gia tri 0
+*/
+
+=>(array-1c.c)
+/*
+	Viet ham nhap vao so nguyen x gom 3 chu so va xuat ra man hinh theo thu tu tang dan cua cac chu so 
+	VD : x = 291. xuat ra 129 
+*/

@@ -1,0 +1,195 @@
+<!--
+//HTML Video
+-The HTML "<video>" element is used to show a video on a web page.
+
+//Example - Courtesy of Big Buck Bunny:
+-->
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>HTML Video</title>
+</head>
+<body>
+		<h2>HTML Video</h2>
+
+		<video width="800" controls>
+			<source src="Video/mov_bbb.mp4" type="video/mp4">
+			<source src="mov_bbb.ogg" type="video/ogg">
+			Your browser does not support HTML video.
+		</video>
+
+		<p>
+			Video courtesy of <a href="https://www.bigbuckbunny.org/" target="_blank">Big Buck Bunny</a>.
+		</p>
+</body>
+</html>
+
+
+<!--
+//The HTML <video> Element
+-To show a video in HTML, use the "<video>" element:
+-->
+<!DOCTYPE html>
+<html>
+<body>
+		<h2>The HTML video Element</h2>
+
+		<video width="750" height="600" controls>
+			<source src="Video/movie.mp4" type="video/mp4">
+			<source src="mov_bbb.ogg" type="video/ogg">
+			Your browser does not support HTML video.
+		</video>	
+</body>
+</html>
+
+
+<!--
+//How it Works
+-The "controls" attribute adds video controls, like play, pause, and volume.
+-It is a good idea to always include "width" and "height" attributes. If height and
+   width are not set, the page might flicker while the video loads.
+-The "<source>" element allows you to specify alternative video files which the 
+   browser may choose from. The browser will use the first recognized format.
+-The text between the "<video>" and "</video>" tags will only be displayed in
+   browsers that do not support the "<video>" element.
+
+
+//HTML <video> Autoplay
+-To start a video automatically, use the "autoplay" attribute:
+
+//Example
+-->
+<!DOCTYPE html>
+<html>
+<body>
+		<h2>HTML video Autoplay</h2>
+
+		<video width="750" height="600" autoplay>
+			<source src="Video/movie.mp4" type="video/mp4">
+			<source src="mov_bbb.ogg" type="video/ogg">
+			Your browser does not support HTML video.
+		</video>	
+</body>
+</html>
+
+
+<!--
+*Note: Chromium browsers do not allow autoplay in most cases. However, muted autoplay is always allowed.
+-Add "muted" after "autoplay" to let your video start playing automatically 
+  (but muted):
+
+//Example
+-->
+<!DOCTYPE html>
+<html>
+<body>
+		<h2>HTML video Autoplay (but muted)</h2>
+
+		<video width="750" height="600" autoplay muted>
+			<source src="Video/movie.mp4" type="video/mp4">
+			<source src="mov_bbb.ogg" type="video/ogg">
+			Your browser does not support HTML video.
+		</video>	
+
+		<h2>HTML video Autoplay (but loop)</h2>
+		<video width="750" height="600" autoplay loop>
+			<source src="Video/movie.mp4" type="video/mp4">
+			<source src="mov_bbb.ogg" type="video/ogg">
+			Your browser does not support HTML video.
+		</video>
+</body>
+</html>
+
+
+<!--
+//HTML Video - Media Types
+
+File Format				Media Type
+MP4						video/mp4
+WebM					video/webm
+Ogg						video/ogg
+
+
+
+//HTML Video - Methods, Properties, and Events
+-The HTML DOM defines methods, properties, and events for the "<video>" element.
+-This allows you to load, play, and pause videos, as well as setting duration and
+   volume.
+-There are also DOM events that can notify you when a video begins to play, is
+   paused, etc.
+
+//Example: - Using JavaScript
+-->
+<!DOCTYPE html>
+<html>
+<body>
+		<h2>HTML Video - Methods, Properties, and Events</h2>
+
+		<div style="text-align: left;">
+			<button onclick="playPause()">PLay/Pause</button>
+			<button onclick="makeBig()">Big</button>
+			<button onclick="makeSmall()">Small</button>
+			<button onclick="makeNormal()">Normal</button>
+			<button onclick="makeLoop()">Loop</button>
+			<button onclick="makeMute()">Mute</button>
+			<br><br>
+		</div>
+		<video id="video1" width="750">
+			<source src="Video/mov_bbb.mp4" type="video/mp4">
+			<source src="mov_bbb.ogg" type="video/ogg">
+			Your browser does not support HTML video.
+		</video>
+
+		<!--Use JavaScript-->
+		<script>
+			var myVideo = document.getElementById("video1");
+
+			function playPause()
+			{
+				if(myVideo.paused)
+				{
+					myVideo.play();
+				}else
+				{
+					myVideo.pause();
+				}
+			} 
+
+			function makeBig()
+			{
+				myVideo.width = 1050;
+			}
+
+			function makeSmall()
+			{
+				myVideo.width = 550;
+			}
+
+			function makeNormal()
+			{
+				myVideo.width = 750;
+			}
+
+			function makeLoop()
+			{
+  				myVideo.loop = true;
+			}	
+
+			function makeMute()
+			{
+				myVideo.muted = true;
+			}			
+		</script>
+</body>
+</html>
+
+
+<!--
+//HTML Video Tags
+	Tag							Description
+<video>				Defines a video or movie
+<source>				Defines multiple media resources for media elements, such as <video>
+						  </h4>and <audio>
+<track>				Defines text tracks in media players
+-->

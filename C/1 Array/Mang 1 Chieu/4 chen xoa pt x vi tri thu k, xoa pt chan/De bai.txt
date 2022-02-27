@@ -1,0 +1,19 @@
+=>(array-4abcd.cpp)
+/*
+1,   a,Nhap/Xuat mang
+     b,chen 1 phan tu x vao vi tri k trong mang
+     c,xap xep mang theo thu tu tang dan
+     d,tinh trung binh cong cac so nguyen to trong mang
+*/ 
+
+=>(array-4efg.cpp)
+/*
+     e,Nhap/Xuat mang
+     f,chen 1 phan tu x vao vi tri k trong mang
+     g,xoa 1 phan tu x vao vi tri k trong mang
+*/ 
+
+=>(array-4h.cpp)
+/*
+     h, Xóa số chẵn
+*/ 

@@ -1,0 +1,149 @@
+<!--
+//HTML Drag and Drop API
+-In HTML, any element can be dragged and dropped.
+
+
+//Drag and Drop
+-Drag and drop is a very common feature. It is when you "grab" an object and drag it to a different location.
+
+//HTML Drag and Drop Example
+-The example below is a simple drag and drop example:
+
+//Example
+-->
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>HTML Drag and Drop API</title>
+		<style>
+			#div1
+			{
+				width: 350px;
+				height: 70px;
+				padding: 10px;
+				border: 1px solid #aaaaaa;
+			}
+		</style>
+
+		<script>
+			function allowDrop(ev)
+			{
+				ev.preventDefault();
+			}
+
+			function drag(ev)
+			{
+				ev.dataTransfer.setData("text", ev.target.id);
+			}
+
+			function drop(ev)
+			{
+				ev.preventDefault();
+				var data = ev.dataTransfer.getData("text");
+				ev.target.appendChild(document.getElementById(data));
+			}
+		</script>
+</head>
+<body>
+
+			<h2>HTML Drag and Drop Example</h2>
+			<p>Drag the W3Schools image into the rectangle:</p>
+
+			<div id="div1" ondrop="drop(event)" ondragover="allowDrop(event)"> </div>
+			<br>
+			<img id="drag1" src="Image/img_logo.gif" draggable="true" ondragstart="drag(event)" width="336" height="69">
+</body>
+</html>
+
+
+<!--
+//Make an Element Draggable
+-First of all: To make an element draggable, set the "draggable" attribute to true:
+				<img draggable="true">
+
+
+//What to Drag - ondragstart and setData()
+-Then, specify what should happen when the element is dragged.
+-In the example above, the "ondragstart" attribute calls a function, drag(event), that specifies what data to be dragged.
+-The "dataTransfer.setData()" method sets the data type and the value of the dragged data:
+				function drag(ev) {
+				  ev.dataTransfer.setData("text", ev.target.id);
+				}
+
+-In this case, the data type is "text" and the value is the id of the draggable element ("drag1").
+
+
+//Where to Drop - ondragover
+-The "ondragover" event specifies where the dragged data can be dropped.
+-By default, data/elements cannot be dropped in other elements. To allow a drop, we must prevent the default handling of the element.
+-This is done by calling the "event.preventDefault()" method for the ondragover event:
+				event.preventDefault()
+
+
+//Do the Drop - ondrop
+-When the dragged data is dropped, a drop event occurs.
+-In the example above, the ondrop attribute calls a function, drop(event):
+				function drop(ev) {
+				  ev.preventDefault();
+				  var data = ev.dataTransfer.getData("text");
+				  ev.target.appendChild(document.getElementById(data));
+				}
+
+
+*Code explained:
+	+Call preventDefault() to prevent the browser default handling of the data (default is open as link on drop)
+	+Get the dragged data with the dataTransfer.getData() method. This method will return any data that was set to the same type in the setData() method
+	+The dragged data is the id of the dragged element ("drag1")
+	+Append the dragged element into the drop element
+
+//More Examples
+
+//Example - How to drag (and drop) an image back and forth between two <div> elements:
+-->
+<!DOCTYPE html>
+<html>
+<head>
+		<style>
+			#div2, #div3
+			{
+				float: left;
+				width: 100px;
+				height: 35px;
+				margin: 10px;
+				padding: 10px;
+				border: 2px solid black;
+			}
+		</style>
+
+		<script>
+			function allowDrop2(ev)
+			{
+				ev.preventDefault();
+			}
+
+			function drag2(ev)
+			{
+				ev.dataTransfer.setData("text", ev.target.id);
+			}
+
+			function drop2(ev)
+			{
+				ev.preventDefault();
+				var data2 = ev.dataTransfer.getData("Text");
+				ev.target.appendChild(document.getElementById(data2));
+			}
+		</script>
+</head>
+<body>
+
+			<h2>Drag and Drop</h2>
+			<p>Drag the image back and forth between the two div elements.</p>
+
+			<div id="div2" ondrop="drop2(event)" ondragover="allowDrop2(event)">
+				<img id="drag2" src="Image/img_logo.gif" draggable="true" ondragstart="drag2(event)" width="88" width="31">
+			</div>
+
+			<div id="div3" ondrop="drop2(event)" ondragover="allowDrop2(event)"></div>
+</body>
+</html>

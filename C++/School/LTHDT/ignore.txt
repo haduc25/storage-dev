@@ -1,0 +1,13 @@
+cin.ignore thay thecho fflush(stdin)
+Ex:
+void nhap()
+{
+	cin.ignore();
+	cout<<"Nhap ma sinh vien: ";
+	cin.getline(ma_SV,10);
+	cout<<"Nhap ho ten: ";
+	cin.getline(ho_Ten,20);
+	cout<<"Nhap DTB: ";
+	cin>>diem_TB;
+	cout<<"\n";
+}

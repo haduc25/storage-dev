@@ -1,0 +1,9 @@
+npm install react-navigation
+
+npm install react-navigation-stack
+
+
+npm install firebase
+
+//flashlight
+npm install --save react-native-torch

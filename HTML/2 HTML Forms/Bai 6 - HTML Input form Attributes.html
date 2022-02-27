@@ -1,0 +1,227 @@
+<!--HTML Input form* Attributes
+-This chapter describes the different form* attributes for the HTML <input> element.
+
+//The form Attribute
+-The input form attribute specifies the form the <input> element belongs to.
+-The value of this attribute must be equal to the id attribute of the <form> element
+   it belongs to.
+
+//Example - An input field located outside of the HTML form (but still a part of the 
+form):
+-->
+<!DOCTYPE html>
+<html>
+<head>
+	<title>HTML Input form* Attributes</title>
+</head>
+<body>
+
+			<h1>The input form attribute</h1>
+			<p>The form attribute specifies the form an input element belongs to.</p>
+
+			<form action="https://www.w3schools.com/action_page.php" target="_blank" id="form1">
+				<label for="fname">First Name:</label>
+				<input type="text" id="fname" name="fname"><br><br>
+				<input type="submit" value="Submit">
+			</form>
+
+			<p>The "Last name" field below is outside the form element, but still part of the form.</p>
+
+			<label for="lname">Last Name:</label>
+			<input type="text" id="lname" name="lname" form="form1">
+</body>
+</html>
+
+
+<!--
+//The formaction Attribute
+-The input "formaction" attribute specifies the URL of the file that will process the 
+   input when the form is submitted.
+
+*Note: This attribute overrides the "action" attribute of the "<form>" element.
+
+-The "formaction" attribute works with the following input types: submit and image.
+
+//Example - An HTML form with two submit buttons, with different actions:
+-->
+<!DOCTYPE html>
+<html>
+<body>
+
+			<h1>The input formaction attribute</h1>
+			<p>The formaction attribute specifies the URL of a file that will process the input when the form is submitted.</p>
+
+			<form action="https://www.w3schools.com/action_page.php" target="_blank">
+				<label for="fname">First Name:</label>
+				<input type="text" id="fname" name="fname"><br><br>
+				<label for="lname">Last Name:</label>
+				<input type="text" id="lname" name="lname"><br><br>
+				<input type="submit" value="Submit">
+				<input type="submit" formaction="https://www.w3schools.com/action_page.php" value="Submit as Admin">
+			</form>
+</body>
+</html>
+
+
+<!--
+//The formenctype Attribute
+-The input "formenctype" attribute specifies how the form-data should be encoded when submitted (only for forms with method="post").
+
+*Note: This attribute overrides the enctype attribute of the "<form>" element.
+
+-The "formenctype" attribute works with the following input types: submit and image.
+
+//Example - A form with two submit buttons. The first sends the form-data with default encoding, the second sends the form-data encoded as "multipart/form-data":
+-->
+<!DOCTYPE html>
+<html>
+<body>
+
+			<h1>The input formenctype attribute</h1>
+			<p>The formenctype attribute specifies how the form data should be encoded when submitted.</p>
+
+			<form action="https:/www.w3schools.com/action_page_binary.asp" target="_blank" method="post">
+				<label for="fname">Full Name:</label>
+				<input type="text" id="fname" name="fname"><br><br>
+				<input type="submit" value="Submit">
+				<input type="submit" formenctype="multipart/form-data" 	value="Submit as Multipart/form-data">
+			</form>
+</body>
+</html>
+
+
+<!--
+//The formmethod Attribute
+-The input "formmethod" attribute defines the HTTP method for sending form-data to the action URL.
+
+*Note: This attribute overrides the method attribute of the "<form>" element.
+
+-The "formmethod" attribute works with the following input types: submit and image.
+-The form-data can be sent as URL variables (method="get") or as an HTTP post transaction (method="post").
+
+*Notes on the "get" method:
+	-This method appends the form-data to the URL in name/value pairs
+	-This method is useful for form submissions where a user want to bookmark the
+	  	result
+	-There is a limit to how much data you can place in a URL (varies between 
+		browsers), therefore, you cannot be sure that all of the form-data will be correctly transferred
+	-Never use the "get" method to pass sensitive information! (password or other 	
+		sensitive information will be visible in the browser's address bar)
+
+*Notes on the "post" method:
+	-This method sends the form-data as an HTTP post transaction
+	-Form submissions with the "post" method cannot be bookmarked
+	-The "post" method is more robust and secure than "get", and "post" does not 
+	 	have size limitations
+
+//Example - A form with two submit buttons. The first sends the form-data with method="get". The second sends the form-data with method="post":
+-->
+<!DOCTYPE html>
+<html>
+<body>
+
+			<h1>The input formmethod Attribute</h1>
+			<p>The formmethod attribute defines the HTTP method for sending form-data to the action URL.</p>
+
+			<form action="https://www.w3schools.com/action_page.php" target="_blank" method="get">
+				<label for="fname">First Name:</label>
+				<input type="text" id="fname" name="fname"><br><br>
+				<label for="lname">Last Name:</label>
+				<input type="text" id="lname" name="lname"><br><br>
+				<input type="submit" value="Submit using GET">
+				<input type="submit" formmethod="post" value="Submit using POST">
+			</form>
+</body>
+</html>
+
+
+<!--
+//The formtarget Attribute
+-The input "formtarget" attribute specifies a name or a keyword that indicates where
+     to display the response that is received after submitting the form.
+
+*Note: This attribute overrides the target attribute of the "<form>" element.
+
+-The "formtarget" attribute works with the following input types: submit and image.
+-->
+<!DOCTYPE html>
+<html>
+<body>
+
+			<h1>The input formtarget attribute</h1>
+			<p>The formtarget attribute specifies a name or a keyword that indicates where to display the response that is received after submitting the form.</p>
+
+			<form action="https://www.w3schools.com/action_page.php">
+				<label for="fname">First Name:</label>
+				<input type="text" id="fname" name="fname"><br><br>
+				<label for="lname">Last Name:</label>
+				<input type="text" id="lname" name="lname"><br><br>
+				<input type="submit" value="Submit">
+				<input type="submit" formtarget="_blank" value="Submit to a new window/tab">
+			</form>
+</body>
+</html>
+
+
+<!--
+//The formnovalidate Attribute
+-The input "formnovalidate" attribute specifies that an <input> element should not 
+    be validated when submitted.
+
+*Note: This attribute overrides the novalidate attribute of the "<form>" element.
+
+-The "formnovalidate" attribute works with the following input types: submit.
+
+//Example - A form with two submit buttons (with and without validation):
+-->
+<!DOCTYPE html>
+<html>
+<body>
+
+			<h1>The input formnovalidate attribute</h1>
+
+			<form action="https://www.w3schools.com/action_page.php" target="_blank">
+				<label for="email">Enter your E-mail:</label>
+				<input type="email" id="email" name="email" required><br><br>
+				<input type="submit" value="Submit">
+				<input type="submit" formnovalidate="formnovalidate" value="Submit without validation">
+			</form>
+
+			<p><strong>Note:</strong> The formnovalidate attribute of the input tag is not supported in Safari 10 (or earlier).</p>
+</body>
+</html>
+
+
+<!--
+//The novalidate Attribute
+-The "novalidate" attribute is a "<form>" attribute.
+-When present, novalidate specifies that all of the form-data should not be 
+	validated when submitted.
+
+//Example - Specify that no form-data should be validated on submit:
+-->
+<!DOCTYPE html>
+<html>
+<body>
+
+			<h1>The form novalidate attribute</h1>
+			<p>The novalidate attribute specifies that the form data should not be validated when submitted.</p>
+
+			<form action="https://www.w3schools.com/action_page.php" target="_blank" novalidate>
+				<label for="email">Enter your E-mail:</label>
+				<input type="email" id="email" name="email" required>
+				<input type="submit" value="Submit">
+			</form>
+
+			<p><strong>Note:</strong> The novalidate attribute of the form tag is not supported in Safari 10 (or earlier).</p>
+</body>
+</html>
+
+<!--
+//HTML Form and Input Elements
+
+
+	  Tag									Description
+	<form>				Defines an HTML form for user input
+	<input>				Defines an input control
+-->

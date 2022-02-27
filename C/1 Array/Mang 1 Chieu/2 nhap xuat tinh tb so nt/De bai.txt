@@ -1,0 +1,8 @@
+=>(array-2ab.cpp)
+/* 
+a, Viet ham nhap/xuat mang a cac so nguyen co n phan tu tu ban phim dieu kien gia tri 
+  	cua n phai thoa man (1<n<100) neu khong thoa man dieu kien tren thi yeu cau nhap lai  
+b, Viet ham tinh gia tri trung binh cac so nguyen to trong mang mot chieu a co 
+   	 n phan tu. Ham tra ve gia tri trung binh cua cac phan tu la so nguyen to
+*/
+

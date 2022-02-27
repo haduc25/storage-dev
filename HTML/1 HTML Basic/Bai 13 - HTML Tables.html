@@ -1,0 +1,769 @@
+<!--HTML Tables
+
+-HTML tables allow web developers to arrange data into rows and columns
+//Example
+-->
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>HTML Tables</title>
+		<style>
+			table
+			{
+				font-family: arial, sans-serif;
+				border-collapse: collapse;
+				width: 100%;
+			}
+
+			td,th
+			{
+				border:  1px solid #dddddd;
+				text-align: left;
+				padding: 8px;
+			}
+
+			tr:nth-child(even)
+			{
+				background-color: #dddddd;	
+			}
+		</style>
+</head>
+<body>
+
+			<h2>HTML Table</h2>
+
+			<table>
+				<tr>
+					<th>Company</th>
+					<th>Contact</th>
+					<th>Country</th>
+				</tr>
+
+				<tr>
+					<td>Alfreds Futterkiste</td>
+					<td>Maria Anders</td>
+					<td>Germany</td>
+				</tr>
+
+				<tr>
+					<td>HaDuc Entertainment</td>
+					<td>haduc25@gmail.com</td>
+					<td>Viet Nam</td>
+				</tr>
+
+				<tr>
+				    <td>Centro comercial Moctezuma</td>
+				    <td>Francisco Chang</td>
+				    <td>Mexico</td>
+				</tr>
+				 
+				<tr>
+				    <td>Ernst Handel</td>
+				    <td>Roland Mendel</td>
+				    <td>Austria</td>
+				</tr>
+
+				<tr>
+				    <td>Island Trading</td>
+				    <td>Helen Bennett</td>
+				    <td>UK</td>
+				</tr>
+
+				<tr>
+				    <td>Laughing Bacchus Winecellars</td>
+				    <td>Yoshi Tannamuri</td>
+				    <td>Canada</td>
+				</tr>
+
+				<tr>
+				    <td>Magazzini Alimentari Riuniti</td>
+				    <td>Giovanni Rovelli</td>
+				    <td>Italy</td>
+				</tr>
+
+			</table>
+</body>
+</html>
+
+<!--
+*Note: The <td> elements are the data containers of the table.
+They can contain all sorts of HTML elements; text, images, lists, other tables, etc.
+
+//HTML Table - Add a Border
+
+-To add a border to a table, use the CSS border property:
+//Example - (Bai 13.1 - HTML Table_Add a Border.html)
+<!DOCTYPE html>
+<html>
+  <head>
+      <style>
+        table, th, td 
+          {
+            border: 1px solid black;
+          }
+      </style>
+  </head>
+<body>
+
+<h2>Table With Border</h2>
+
+<p>Use the CSS border property to add a border to the table.</p>
+
+<table style="width:100%">
+        <tr>
+          <th>Firstname</th>
+          <th>Lastname</th> 
+          <th>Age</th>
+        </tr>
+
+        <tr>
+          <td>Ha</td>
+          <td>Duc</td>
+          <td>20</td>
+        </tr>
+
+        <tr>
+          <td>Eve</td>
+          <td>Jackson</td>
+          <td>94</td>
+        </tr>
+
+        <tr>
+          <td>John</td>
+          <td>Doe</td>
+          <td>80</td>
+        </tr>
+
+      </table>
+
+</body>
+</html>
+
+
+*Note: Remember to define borders for both the table and the table cells.
+
+//HTML Table - Collapsed Borders
+
+-To let the borders collapse into one border, add the CSS border-collapse property:
+//Example - (Bai 13.2 - HTML Table - Collapsed Borders.html)
+<!DOCTYPE html>
+<html>
+    <head>
+        <style>
+        table, th, td 
+          {
+              border: 1px solid black;
+              border-collapse: collapse;
+          }
+        </style>
+        <title>Collapsed Borders</title>
+    </head>
+<body>
+
+        <h2>Collapsed Borders</h2>
+        <p>If you want the borders to collapse into one border, add the CSS border-collapse property.</p>
+
+        <table style="width:100%">
+          <tr>
+            <th>Firstname</th>
+            <th>Lastname</th> 
+            <th>Age</th>
+          </tr>
+
+          <tr>
+            <td>Ha</td>
+            <td>Duc</td>
+            <td>21</td>
+          </tr>
+
+          <tr>
+            <td>Thuy</td>
+            <td>Kieu</td>
+            <td>25</td>
+          </tr>
+
+          <tr>
+            <td>Nguyen</td>
+            <td>Thuy</td>
+            <td>18</td>
+          </tr>
+        </table>
+
+</body>
+</html>
+
+
+
+//HTML Table - Add Cell Padding
+
+-Cell padding specifies the space between the cell content and its borders.
+-If you do not specify a padding, the table cells will be displayed without padding.
+-To set the padding, use the CSS padding property:
+//Example: - (Bai 13.3 - HTML Table_Add Cell Padding.html)
+<!DOCTYPE html>
+<html>
+    <head>
+        <style>
+          table, th, td 
+            {
+              border: 1px solid black;
+              border-collapse: collapse;
+            }
+           th, td 
+           {
+               padding: 15px;
+           }
+        </style>
+      </head>
+<body>
+
+        <h2>Cellpadding</h2>
+        <p>Cell padding specifies the space between the cell content and its borders.</p>
+
+  <table style="width:100%">
+
+      <tr>
+        <th>Firstname</th>
+        <th>Lastname</th> 
+        <th>Age</th>
+      </tr>
+
+      <tr>
+        <td>Jill</td>
+        <td>Smith</td>
+        <td>50</td>
+      </tr>
+
+      <tr>
+        <td>Eve</td>
+        <td>Jackson</td>
+        <td>94</td>
+      </tr>
+
+      <tr>
+        <td>John</td>
+        <td>Doe</td>
+        <td>80</td>
+      </tr>
+
+    </table>
+
+<p><strong>Tip:</strong> Try to change the padding to 5px.</p>
+
+</body>
+</html>
+
+
+
+//HTML Table - Left-align Headings
+-By default, table headings are bold and centered.
+-To left-align the table headings, use the CSS text-align property:
+//Example
+<!DOCTYPE html>
+<html>
+      <head>
+          <style>
+          table, th, td 
+            {
+              border: 1px solid black;
+              border-collapse: collapse;
+            }
+          th, td 
+            {
+              padding: 5px;
+            }
+          th 
+            {	
+              text-align: left;
+            }
+          </style>
+          <title>Left-align Headings</title>
+      </head>
+<body>
+
+        <h2>Left-align Headings</h2>
+        <p>To left-align the table headings, use the CSS text-align property.</p>
+
+        <table style="width:100%">
+          <tr>
+            <th>Firstname</th>
+            <th>Lastname</th> 
+            <th>Age</th>
+          </tr>
+
+          <tr>
+            <td>Ha</td>
+            <td>Duc</td>
+            <td>21</td>
+          </tr>
+
+          <tr>
+            <td>Thuy</td>
+            <td>Kieu</td>
+            <td>25</td>
+          </tr>
+
+          <tr>
+            <td>Nguyen</td>
+            <td>Thuy</td>
+            <td>18</td>
+          </tr>
+        </table>
+
+</body>
+</html>
+
+
+
+
+//HTML Table - Add Border Spacing
+-Border spacing specifies the space between the cells.
+-To set the border spacing for a table, use the CSS "border-spacing" property:
+
+//Example - (Bai 13.5 - HTML Table - Add Border Spacing.html)
+<!DOCTYPE html>
+<html>
+    <head>
+        <style>
+        table, th, td
+        {
+          border: 1px solid black;
+          padding: 5px;
+        }
+        table 
+        {
+          border-spacing: 15px;
+        }
+        </style>
+    </head>
+<body>
+
+        <h2>Border Spacing</h2>
+        <p>Border spacing specifies the space between the cells.</p>
+
+        <table style="width:100%">
+          <tr>
+            <th>Firstname</th>
+            <th>Lastname</th> 
+            <th>Age</th>
+          </tr>
+
+          <tr>
+            <td>Ha</td>
+            <td>Duc</td>
+            <td>21</td>
+          </tr>
+
+          <tr>
+            <td>Thuy</td>
+            <td>Kieu</td>
+            <td>25</td>
+          </tr>
+
+          <tr>
+            <td>Nguyen</td>
+            <td>Thuy</td>
+            <td>18</td>
+          </tr>
+        </table>
+
+        <p><strong>Tip:</strong> Try to change the border-spacing to 5px.</p>
+        
+</body>
+</html>
+
+*Note: If the table has collapsed borders, border-spacing has no effect.
+
+
+//HTML Table - Cell that Spans Many Columns
+
+-To make a cell span more than one column, use the "colspan" attribute:
+//Example: - (Bai 13.6 - HTML Table _Cell that Spans Many Columns.html)
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>HTML Table Cell that Spans Many Columns</title>
+  <style>
+    table, th, td
+    {
+      border: 1px solid black;
+      border-collapse: collapse;
+    }
+
+    th, td
+    {
+      padding: 5px;
+      text-align: left;
+    }
+
+  </style>
+</head>
+<body>
+
+      <h2>Cell that spans two columns</h2>
+      <p>To make a cell span more than one column, use the colspan attribute.</p>
+
+      <table style="width: 100%;">
+        <tr>
+          <th>Name</th>
+          <th colspan="2">Telephone</th>
+          //colspan="2" so cot trong Telephone toi da la 2
+        </tr>
+        
+        <tr>
+          <td>Bill Gates</td>
+          <td>123456789</td>
+          <td>987654321</td>
+
+        </tr>
+      </table>
+
+</body>
+</html>
+
+
+//HTML Table - Cell that Spans Many Rows
+
+-To make a cell span more than one row, use the "rowspan" attribute:
+//Example: - (Bai 13.7 - HTML Table _Cell that Spans Many Rows.html)
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>HTML Table Cell that Spans Many Rows</title>
+  <style>
+    table, th, td
+    {
+      border: 1px solid black;
+      border-collapse: collapse;
+    }
+
+    th, td
+    {
+      padding: 5px;
+      text-align: left;
+    }
+
+  </style>
+</head>
+<body>
+
+      <h2>Cell that spans two rows</h2>
+      <p>To make a cell span more than one column, use the colspan attribute.</p>
+
+      <table style="width: 100%;">
+        <tr>
+          <th>Name</th>
+          <td>Bill Gates</td>
+        </tr>
+        
+        <tr>
+          <th rowspan="2">Telephone</th>
+          //rowspan="2" so hang trong Telephone toi da la 2
+          <td>123456789</td>
+        </tr>
+
+        <tr>
+          <td>987654321</td>
+        </tr>
+      </table>
+
+</body>
+</html>
+
+
+
+//HTML Table - Add a Caption
+
+-To add a caption to a table, use the "<caption>" tag:
+//Example: - (Bai 13.8 - HTML Table_Add a Caption.html)
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>HTML Table - Add a Caption</title>
+  <style>
+    
+    table, th, td
+    {
+      border: 1px solid black;
+      border-collapse: collapse;
+    }
+
+    th, td
+    {
+      padding: 5px;
+      text-align: left;
+    }
+
+  </style>
+</head>
+<body>
+
+      <h2>Table Caption</h2>
+      <p>To add a caption to a table, use the caption tag.</p>
+
+      <table style="width: 100%">
+        <caption>Monthly savings</caption>
+        //"<caption>Monthly savings</caption>": is Table Caption
+          <tr>
+            <th>Month</th>
+            <th>Savings</th>
+          </tr>
+
+          <tr>
+            <td>Ha Duc</td>
+            <td>100$</td>
+          </tr>
+
+          <tr>
+            <td>Lan Ngoc</td>
+            <td>500$</td>
+          </tr>
+      </table>
+</body>
+</html>
+
+*Note: The <caption> tag must be inserted immediately after the <table> tag.
+
+
+//A Special Style for One Table
+-To define a special style for one particular table, add an id attribute to the table:
+//Example
+  <table id="t01">
+      <tr>
+        <th>Firstname</th>
+        <th>Lastname</th>
+        <th>Age</th>
+      </tr>
+      <tr>
+        <td>Eve</td>
+        <td>Jackson</td>
+        <td>94</td>
+      </tr>
+  </table>
+
+
+-Now you can define a special style for this table:
+
+//Example - (Bai 13.9 - HTML_Special Style for One Table.html)
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Special Style for One Table</title>
+    <style>
+        
+        table, th, td
+        {
+          border: 1px solid black;
+          border-collapse: collapse;
+        }
+
+        th, td
+        {
+          padding: 15px;
+          text-align: left;
+        }
+
+        /*defind a id, here id=#t01*/
+        #t01
+        {
+          width: 100%;
+          background-color: #f1f1c1;
+        }
+
+    </style>
+</head>
+<body>
+
+      <h2>Styling Tables</h2>
+      <table style="width: 100%">
+          <tr>
+            <th>First Name</th>
+            <th>Last Name</th>
+            <th>Age</th>
+          </tr>
+
+          <tr>
+            <td>Ha</td>
+            <td>Duc</td>
+            <td>20</td>
+          </tr>
+
+          <tr>
+            <td>Le</td>
+            <td>Huyen</td>
+            <td>18</td>
+          </tr>
+
+          <tr>
+            <td>Nguyen</td>
+            <td>Van</td>
+            <td>21</td>
+          </tr>
+      </table>
+
+      <h2>Table but Custom</h2>
+      <table id="t01">
+          <tr>
+            <th>First Name</th>
+            <th>Last Name</th>
+            <th>Age</th>
+          </tr>
+
+          <tr>
+            <td>Ha</td>
+            <td>Duc</td>
+            <td>20</td>
+          </tr>
+
+          <tr>
+            <td>Le</td>
+            <td>Huyen</td>
+            <td>18</td>
+          </tr>
+
+          <tr>
+            <td>Nguyen</td>
+            <td>Van</td>
+            <td>21</td>
+          </tr>
+      </table>
+</body>
+</html>
+
+
+//And add more styles:
+//Example - (Bai 13.10 - HTML_Special Style and Add more style.html)
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Special Style & Add more Style</title>
+    <style>
+        table
+        {
+          width: 100%;
+        }
+
+        table, th, td
+        {
+          border: 1px solid black;
+          border-collapse: collapse;
+        }
+
+        th, td
+        {
+          padding: 15px;
+          text-align: left;
+        }
+
+        #table01 tr:nth-child(even)
+        {
+          background-color: #eee;
+        }
+        #table01 tr:nth-child(odd)
+        {
+          background-color: #fff;
+        }
+        #table01 th
+        {
+          background-color: black;
+          color: white;
+        }
+    </style>
+</head>
+<body>
+
+      <h2>Styling Tables</h2>
+      <table>
+          <tr>
+            <th>First Name</th>
+            <th>Last Name</th>
+            <th>Age</th>
+          </tr> 
+
+          <tr>
+            <td>Ha</td>
+            <td>Duc</td>
+            <td>25</td>
+          </tr>
+
+          <tr>
+            <td>Nguyen</td>
+            <td>Linh</td>
+            <td>22</td>
+          </tr>
+
+          <tr>
+            <td>Van</td>
+            <td>Dung</td>
+            <td>26</td>
+          </tr>
+      </table>
+
+      <h2>Styling Tables but Custom</h2>
+      <table id="table01">
+          <tr>
+            <th>First Name</th>
+            <th>Last Name</th>
+            <th>Age</th>
+          </tr> 
+
+          <tr>
+            <td>Ha</td>
+            <td>Duc</td>
+            <td>25</td>
+          </tr>
+
+          <tr>
+            <td>Nguyen</td>
+            <td>Linh</td>
+            <td>22</td>
+          </tr>
+
+          <tr>
+            <td>Van</td>
+            <td>Dung</td>
+            <td>26</td>
+          </tr>
+      </table>      
+</body>
+</html>
+
+
+
+//Chapter Summary
+
++Use the HTML <table> element to define a table
++Use the HTML <tr> element to define a table row
++Use the HTML <td> element to define a table data
++Use the HTML <th> element to define a table heading
++Use the HTML <caption> element to define a table caption
++Use the CSS "border" property to define a border
++Use the CSS "border-collapse" property to collapse cell borders
++Use the CSS "padding" property to add padding to cells
++Use the CSS "text-align" property to align cell text
++Use the CSS "border-spacing" property to set the spacing between cells
++Use the "colspan" attribute to make a cell span many columns
++Use the "rowspan" attribute to make a cell span many rows
++Use the "id" attribute to uniquely define one table
+
+
+//HTML Table Tags
+
+  Tag                  Description
+  <table>          Defines a tablex
+  <th>             Defines a header cell in a table
+  <tr>             Defines a row in a table
+  <td>             Defines a cell in a table
+  <caption>        Defines a table caption
+  <colgroup>       Specifies a group of one or more columns in a table for formatting
+  <col>            Specifies column properties for each column within a <colgroup> element
+  <thead>          Groups the header content in a table
+  <tbody>          Groups the body content in a table
+  <tfoot>          Groups the footer content in a table
+-->

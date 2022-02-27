@@ -1,0 +1,8 @@
+c++
+cin.get()
+getline()
+--xoa man hinh--
+use libary (windows.h)
+system("cls");
+con tro c++
+-> thay .

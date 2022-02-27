@@ -1,0 +1,5 @@
+=>(chuanhoa-3a.cpp)
+/* a, Viet ham dem so tu trong xau */
+
+=>(chuanhoa-3b.cpp)
+//Kiem tra xem xau ki tu tat ca la so hay k?

@@ -1,0 +1,21 @@
+https://stackoverflow.com/questions/55358811/error-unable-to-resolve-module-react-native-gesture-handler
+
+
+
+In my case react-native-gesture-handler was installed but I uninstalled it and re-installed again.
+
+1: uninstall
+
+npm uninstall react-native-gesture-handler --save
+2: install
+
+npm install react-native-gesture-handler --save
+3: link
+
+react-native link react-native-gesture-handler
+4: Restart npm
+
+npm restart 
+or
+
+npm start

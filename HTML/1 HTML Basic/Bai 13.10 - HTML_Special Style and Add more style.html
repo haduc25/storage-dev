@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>Special Style & Add more Style</title>
+		<style>
+				table
+				{
+					width: 100%;
+				}
+
+				table, th, td
+				{
+					border: 1px solid black;
+					border-collapse: collapse;
+				}
+
+				th, td
+				{
+					padding: 15px;
+					text-align: left;
+				}
+
+				#table01 tr:nth-child(even)
+				{
+					background-color: #eee;
+				}
+				#table01 tr:nth-child(odd)
+				{
+					background-color: #fff;
+				}
+				#table01 th
+				{
+					background-color: black;
+					color: white;
+				}
+		</style>
+</head>
+<body>
+
+			<h2>Styling Tables</h2>
+			<table>
+					<tr>
+						<th>First Name</th>
+						<th>Last Name</th>
+						<th>Age</th>
+					</tr>	
+
+					<tr>
+						<td>Ha</td>
+						<td>Duc</td>
+						<td>25</td>
+					</tr>
+
+					<tr>
+						<td>Nguyen</td>
+						<td>Linh</td>
+						<td>22</td>
+					</tr>
+
+					<tr>
+						<td>Van</td>
+						<td>Dung</td>
+						<td>26</td>
+					</tr>
+			</table>
+
+			<h2>Styling Tables but Custom</h2>
+			<table id="table01">
+					<tr>
+						<th>First Name</th>
+						<th>Last Name</th>
+						<th>Age</th>
+					</tr>	
+
+					<tr>
+						<td>Ha</td>
+						<td>Duc</td>
+						<td>25</td>
+					</tr>
+
+					<tr>
+						<td>Nguyen</td>
+						<td>Linh</td>
+						<td>22</td>
+					</tr>
+
+					<tr>
+						<td>Van</td>
+						<td>Dung</td>
+						<td>26</td>
+					</tr>
+			</table>			
+</body>
+</html>

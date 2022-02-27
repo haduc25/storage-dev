@@ -1,0 +1,15 @@
+=>(array-3a.c)
+/* 
+nhap xuat n dk (n<2 || n>99)
+*/
+
+=>(array-3b.c)
+/* 
+nhap xuat n dk co hang so max = 100 (n<2 || n>99)
+*/
+
+=>(array-3c.cpp)
+/* a,(3)Viet ham nhap/xuat mang a cac so nguyen co n phan tu tu ban phim dieu kien gia tri 
+   cua n phai thoa man 1<n<100 neu khong thoa man dieu kien tren thi yeu cau nhap lai  
+   b,(3)Viet ham tra ve gia tri cuoi cung cua x xuat hien trong mang 1 chieu a co n phan tu*/
+

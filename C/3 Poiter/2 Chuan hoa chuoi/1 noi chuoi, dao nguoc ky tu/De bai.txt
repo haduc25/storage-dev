@@ -1,0 +1,7 @@
+=>(chuanhoa-1a.cpp)
+//Noi Chuoi bang con tro
+
+=>(chuanhoa-1b.cpp)
+//Dao Nguoc Ki Tu
+
+

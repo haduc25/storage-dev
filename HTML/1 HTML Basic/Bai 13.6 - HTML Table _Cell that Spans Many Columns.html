@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>HTML Table Cell that Spans Many Columns</title>
+	<style>
+		table, th, td
+		{
+			border: 1px solid black;
+			border-collapse: collapse;
+		}
+
+		th, td
+		{
+			padding: 5px;
+			text-align: left;
+		}
+
+	</style>
+</head>
+<body>
+
+			<h2>Cell that spans two columns</h2>
+			<p>To make a cell span more than one column, use the colspan attribute.</p>
+
+			<table style="width: 100%;">
+				<tr>
+					<th>Name</th>
+					<th colspan="2">Telephone</th>
+					<!--colspan="2" so cot trong Telephone toi da la 2-->
+				</tr>
+				
+				<tr>
+					<td>Bill Gates</td>
+					<td>123456789</td>
+					<td>987654321</td>
+
+				</tr>
+			</table>
+
+</body>
+</html>
