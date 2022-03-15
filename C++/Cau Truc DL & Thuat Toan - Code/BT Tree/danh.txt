@@ -1,0 +1,125 @@
+-  Danh sách kế tiếp đơn
+
+  typedef int item;
+
+typedef struct {
+
+  int element[100];
+
+  int size;
+
+}List;
+
+Danh sách liên kết đơn
+
+typedef int item;
+
+typedef struct Node{
+
+  int data;
+
+  Node *next;
+
+};
+
+-  Danh sách liên kết kép
+
+Typedef int item;
+
+Typedef strcut Node{
+
+Item data;
+
+Node *left;
+
+Node *right;
+
+};
+
+Typedef struct Dlist{
+
+Node *head; // con trỏ đầu
+
+Node *Tail; // con trỏ cuối
+
+-  Ngăn xếp kế tiếp
+
+#define N 100
+
+Typedef int item;
+
+Typedef struct Stack{
+
+Item elems[N];
+
+Int top;
+
+};
+
+-  Ngăn Xếp Liên Kết
+
+Typedef int item;
+
+Typedef struct Stack{
+
+Item data;
+
+Node * next;
+
+};
+
+Typedef Node * SingleLinkedStack;
+
+SingleLinkedStack Top;
+
+-  Hàng đợi kế tiếp
+
+#define N 100
+
+Typedef struct Queue{
+
+  Item elems[N];
+
+  Int Front;
+
+  Int Rear;
+
+}Queue Q;
+
+-  Hàng đợi liên kết
+
+Typedef int Item;
+
+Typedef struct Node{
+
+  Item data;
+
+  Node *next;
+
+}Node;
+
+Typedef strcut Queue{
+
+Node * Front;
+
+Node *Rear; // Node dau va Node cuoi
+
+};
+
+- Cây :
+
+typedef int item; 
+
+struct Node
+
+{
+
+     item key;
+
+     Node *Left, *Right;
+
+};
+
+typedef Node *Tree; 
+
+

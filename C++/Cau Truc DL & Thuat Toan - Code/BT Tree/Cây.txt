@@ -1,0 +1,120 @@
+-  Cây nhị phân
+
+Sử dụng con trỏ
+
+
+// dinh nghia mot Node tren cay
+
+typedef struct Node
+
+{
+
+item data;
+
+Node *left,*right;
+
+}Node;
+
+Node *bTree2;
+
+Tìm con trái
+
+bTree2 leftChild(bTree2 T)
+
+{
+
+if (T!=NULL) return T->left;
+
+else return NULL;
+
+}
+
+Tìm con phải của Node P
+
+
+bTree2 rightChild(bTree2 T)
+
+{
+
+if (T!=NULL) return n->right;
+
+else return NULL;
+
+}
+
+Xác định con phải của nút thứ p
+
+bTree2 rightChild(bTree2 T)
+
+{
+
+if (T!=NULL) return n->right;
+
+else return NULL;
+
+}
+
+  Tìm cha của cây
+
+...
+
+
+Hàm duyệt theo thứ tự trước:
+
+void preOrder(bTree2 * r)
+
+{
+
+if (r != NULL)
+
+{
+
+printf("%c", r->data);
+
+preOrder(r->lefltChild);
+
+preOrder(r->rightChild);
+
+}
+
+}
+
+Hàm duyệt theo thứ tự giữa:
+
+void inOrder(bTree2 * r)
+
+{
+
+if (r != NULL)
+
+{
+
+inOrder (r->leftChild);
+
+printf("%c", r->data);
+
+inOrder (r->rightChild);
+
+}
+
+}
+
+Hàm duyệt theo thứ tự sau:
+
+void postOrder(bTree2 * r)
+
+{
+
+if (r != NULL)
+
+{
+
+postOrder (r->leftChild);
+
+5.4 Cây tìm kiếm nhị phân (TKNP) 157
+
+postOrder (r->rightChild);
+
+printf("%c", r->data);
+
+}

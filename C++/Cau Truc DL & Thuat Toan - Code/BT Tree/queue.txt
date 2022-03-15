@@ -1,0 +1,129 @@
+#include <stdio.h>
+#define MAX 50
+
+typedef struct Queue
+{
+	int elems[MAX];
+	int Front,Rear;
+	int size;
+	int count;
+};
+void Init(Queue &q)
+{
+	q.count=0;
+	q.Front = 0;
+	q.Rear = -1;
+}
+//check empty
+int isEmpty(Queue q)
+{
+	if(q.count == 0)
+		return 1;
+	return 0;
+}
+//check full
+int isFull(Queue q)
+{
+	if(q.count == MAX)
+		return 1;
+	return 0;
+}
+
+// them phan tu vao Queue
+void enQueue(Queue &q, int x)
+{
+	if(q.count==MAX)
+		printf("Queue da day !");
+	else
+	{
+		q.elems[++q.Rear]=x;
+		q.count++; //tang bien dem
+	}
+}
+// xoa phan tu dau khoi Queue
+int deQueue(Queue &q)
+{
+	if(isEmpty(q))
+		printf("Queue rong !");
+	else
+	{
+		int i;
+		int x=q.elems[q.Front];
+		for(i=q.Front;i<q.Rear;i++)
+		{
+			q.elems[i]=q.elems[i+1];
+		}
+		q.Rear--;
+		q.count--;
+		return x;
+	}
+}
+//nhap
+void nhap(Queue &q)
+{
+	int i,n,x;
+	do
+	{
+		printf("Nhap so phan tu Queue [Yeu Cau: Phan tu < %d]=> ",MAX);
+		scanf("%d",&n);
+	}while(n>MAX || n<1);
+	for (i=0;i<n;i++)
+	{
+		printf("Nhap phan tu [%d]: ",i+1);
+		scanf("%d",&x);
+		enQueue(q,x);
+	}
+}
+//xuat
+void xuat(Queue q)
+{
+	while(q.Rear!=-1)
+	{
+		int value=deQueue(q);
+		printf("%d\t",value);
+	}
+}
+//xoa phan tu cuoi Queue
+void deLast(Queue &q, Queue &q1)
+{
+	Init(q1);
+	while(q.Rear!=0)
+	{
+		int value=deQueue(q);
+		enQueue(q1,value);
+	}
+	deQueue(q);
+	while(q1.Rear!=-1)
+	{
+		int value=deQueue(q1);
+		enQueue(q,value);
+	}
+	xuat(q);
+}
+//them pt cuoi Queue
+void enLast(Queue &q, int x)
+{
+	if(isFull(q))
+		printf("Queue day !");
+	else
+	{
+		q.elems[++q.Rear] = x;
+		q.count++;
+	}
+	xuat(q);
+}
+int main()
+//them pt co gt x vao dau Queue va vt thu k
+{
+	Queue q,q1;
+	Init(q);
+	nhap(q);
+	xuat(q);
+	printf("\n-Xoa phan tu cuoi\n");
+	deLast(q,q1);
+	printf("\n-Them phan tu cuoi\n");
+	enLast(q,10);
+	printf("\n-Xoa phan tu dau\n");
+	deQueue(q);
+	xuat(q);
+}
