@@ -1,0 +1,13 @@
+
+---------------------------------------------
+
+nHangSX: Honda
+mau xe: yellow
+Bien so: 97b1
+Gia: 20.5
+---------------------------------------------
+
+nHangSX: Exciter
+mau xe: red
+Bien so: 29h2
+Gia: 18.756
