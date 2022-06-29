@@ -1,0 +1,10 @@
+D:\Data App\CSharp\WinForm\Button\TestWF02\bin\Release\TestWF02.exe.config
+D:\Data App\CSharp\WinForm\Button\TestWF02\bin\Release\TestWF02.exe
+D:\Data App\CSharp\WinForm\Button\TestWF02\bin\Release\TestWF02.pdb
+D:\Data App\CSharp\WinForm\Button\TestWF02\obj\Release\TestWF02.csprojAssemblyReference.cache
+D:\Data App\CSharp\WinForm\Button\TestWF02\obj\Release\TestWF02.Form1.resources
+D:\Data App\CSharp\WinForm\Button\TestWF02\obj\Release\TestWF02.Properties.Resources.resources
+D:\Data App\CSharp\WinForm\Button\TestWF02\obj\Release\TestWF02.csproj.GenerateResource.cache
+D:\Data App\CSharp\WinForm\Button\TestWF02\obj\Release\TestWF02.csproj.CoreCompileInputs.cache
+D:\Data App\CSharp\WinForm\Button\TestWF02\obj\Release\TestWF02.exe
+D:\Data App\CSharp\WinForm\Button\TestWF02\obj\Release\TestWF02.pdb

@@ -1,0 +1,30 @@
+D:\Data App\CSharp\WinForm\Process\TestWF20\obj\Debug\TestWF20.csprojAssemblyReference.cache
+D:\Data App\CSharp\WinForm\Process\TestWF20\obj\Debug\TestWF20.Form1.resources
+D:\Data App\CSharp\WinForm\Process\TestWF20\obj\Debug\TestWF20.Properties.Resources.resources
+D:\Data App\CSharp\WinForm\Process\TestWF20\obj\Debug\TestWF20.csproj.GenerateResource.cache
+D:\Data App\CSharp\WinForm\Process\TestWF20\obj\Debug\TestWF20.csproj.CoreCompileInputs.cache
+D:\Data App\CSharp\WinForm\Process\TestWF20\bin\Debug\TestWF20.exe.config
+D:\Data App\CSharp\WinForm\Process\TestWF20\bin\Debug\TestWF20.exe
+D:\Data App\CSharp\WinForm\Process\TestWF20\bin\Debug\TestWF20.pdb
+D:\Data App\CSharp\WinForm\Process\TestWF20\obj\Debug\TestWF20.exe
+D:\Data App\CSharp\WinForm\Process\TestWF20\obj\Debug\TestWF20.pdb
+E:\Desktop\CSharp\Template\CSharp\WinForm\Process\TestWF20\bin\Debug\TestWF20.exe.config
+E:\Desktop\CSharp\Template\CSharp\WinForm\Process\TestWF20\bin\Debug\TestWF20.exe
+E:\Desktop\CSharp\Template\CSharp\WinForm\Process\TestWF20\bin\Debug\TestWF20.pdb
+E:\Desktop\CSharp\Template\CSharp\WinForm\Process\TestWF20\obj\Debug\TestWF20.csprojAssemblyReference.cache
+E:\Desktop\CSharp\Template\CSharp\WinForm\Process\TestWF20\obj\Debug\TestWF20.Form1.resources
+E:\Desktop\CSharp\Template\CSharp\WinForm\Process\TestWF20\obj\Debug\TestWF20.Properties.Resources.resources
+E:\Desktop\CSharp\Template\CSharp\WinForm\Process\TestWF20\obj\Debug\TestWF20.csproj.GenerateResource.cache
+E:\Desktop\CSharp\Template\CSharp\WinForm\Process\TestWF20\obj\Debug\TestWF20.csproj.CoreCompileInputs.cache
+E:\Desktop\CSharp\Template\CSharp\WinForm\Process\TestWF20\obj\Debug\TestWF20.exe
+E:\Desktop\CSharp\Template\CSharp\WinForm\Process\TestWF20\obj\Debug\TestWF20.pdb
+D:\Code\CSharp\Template\CSharp\WinForm\Process\TestWF20\bin\Debug\TestWF20.exe.config
+D:\Code\CSharp\Template\CSharp\WinForm\Process\TestWF20\bin\Debug\TestWF20.exe
+D:\Code\CSharp\Template\CSharp\WinForm\Process\TestWF20\bin\Debug\TestWF20.pdb
+D:\Code\CSharp\Template\CSharp\WinForm\Process\TestWF20\obj\Debug\TestWF20.csprojAssemblyReference.cache
+D:\Code\CSharp\Template\CSharp\WinForm\Process\TestWF20\obj\Debug\TestWF20.Form1.resources
+D:\Code\CSharp\Template\CSharp\WinForm\Process\TestWF20\obj\Debug\TestWF20.Properties.Resources.resources
+D:\Code\CSharp\Template\CSharp\WinForm\Process\TestWF20\obj\Debug\TestWF20.csproj.GenerateResource.cache
+D:\Code\CSharp\Template\CSharp\WinForm\Process\TestWF20\obj\Debug\TestWF20.csproj.CoreCompileInputs.cache
+D:\Code\CSharp\Template\CSharp\WinForm\Process\TestWF20\obj\Debug\TestWF20.exe
+D:\Code\CSharp\Template\CSharp\WinForm\Process\TestWF20\obj\Debug\TestWF20.pdb

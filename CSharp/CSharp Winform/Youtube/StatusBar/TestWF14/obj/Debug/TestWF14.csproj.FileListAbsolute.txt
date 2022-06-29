@@ -1,0 +1,10 @@
+D:\Data App\CSharp\WinForm\StatusBar\TestWF14\bin\Debug\TestWF14.exe.config
+D:\Data App\CSharp\WinForm\StatusBar\TestWF14\bin\Debug\TestWF14.exe
+D:\Data App\CSharp\WinForm\StatusBar\TestWF14\bin\Debug\TestWF14.pdb
+D:\Data App\CSharp\WinForm\StatusBar\TestWF14\obj\Debug\TestWF14.csprojAssemblyReference.cache
+D:\Data App\CSharp\WinForm\StatusBar\TestWF14\obj\Debug\TestWF14.Form1.resources
+D:\Data App\CSharp\WinForm\StatusBar\TestWF14\obj\Debug\TestWF14.Properties.Resources.resources
+D:\Data App\CSharp\WinForm\StatusBar\TestWF14\obj\Debug\TestWF14.csproj.GenerateResource.cache
+D:\Data App\CSharp\WinForm\StatusBar\TestWF14\obj\Debug\TestWF14.csproj.CoreCompileInputs.cache
+D:\Data App\CSharp\WinForm\StatusBar\TestWF14\obj\Debug\TestWF14.exe
+D:\Data App\CSharp\WinForm\StatusBar\TestWF14\obj\Debug\TestWF14.pdb

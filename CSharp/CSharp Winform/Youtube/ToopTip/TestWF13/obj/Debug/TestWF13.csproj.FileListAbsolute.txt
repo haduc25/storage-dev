@@ -1,0 +1,9 @@
+D:\Data App\CSharp\WinForm\ToopTip\TestWF13\bin\Debug\TestWF13.exe.config
+D:\Data App\CSharp\WinForm\ToopTip\TestWF13\bin\Debug\TestWF13.exe
+D:\Data App\CSharp\WinForm\ToopTip\TestWF13\bin\Debug\TestWF13.pdb
+D:\Data App\CSharp\WinForm\ToopTip\TestWF13\obj\Debug\TestWF13.Form1.resources
+D:\Data App\CSharp\WinForm\ToopTip\TestWF13\obj\Debug\TestWF13.Properties.Resources.resources
+D:\Data App\CSharp\WinForm\ToopTip\TestWF13\obj\Debug\TestWF13.csproj.GenerateResource.cache
+D:\Data App\CSharp\WinForm\ToopTip\TestWF13\obj\Debug\TestWF13.csproj.CoreCompileInputs.cache
+D:\Data App\CSharp\WinForm\ToopTip\TestWF13\obj\Debug\TestWF13.exe
+D:\Data App\CSharp\WinForm\ToopTip\TestWF13\obj\Debug\TestWF13.pdb

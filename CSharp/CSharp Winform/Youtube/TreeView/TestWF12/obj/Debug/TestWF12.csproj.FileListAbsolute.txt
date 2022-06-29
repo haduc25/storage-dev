@@ -1,0 +1,10 @@
+D:\Data App\CSharp\WinForm\TreeView\TestWF12\bin\Debug\TestWF12.exe.config
+D:\Data App\CSharp\WinForm\TreeView\TestWF12\bin\Debug\TestWF12.exe
+D:\Data App\CSharp\WinForm\TreeView\TestWF12\bin\Debug\TestWF12.pdb
+D:\Data App\CSharp\WinForm\TreeView\TestWF12\obj\Debug\TestWF12.Properties.Resources.resources
+D:\Data App\CSharp\WinForm\TreeView\TestWF12\obj\Debug\TestWF12.csproj.GenerateResource.cache
+D:\Data App\CSharp\WinForm\TreeView\TestWF12\obj\Debug\TestWF12.csproj.CoreCompileInputs.cache
+D:\Data App\CSharp\WinForm\TreeView\TestWF12\obj\Debug\TestWF12.exe
+D:\Data App\CSharp\WinForm\TreeView\TestWF12\obj\Debug\TestWF12.pdb
+D:\Data App\CSharp\WinForm\TreeView\TestWF12\obj\Debug\TestWF12.csprojAssemblyReference.cache
+D:\Data App\CSharp\WinForm\TreeView\TestWF12\obj\Debug\TestWF12.Form1.resources

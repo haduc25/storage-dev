@@ -1,0 +1,10 @@
+D:\Data App\CSharp\WinForm\Timer\TestWF18\bin\Debug\TestWF18.exe.config
+D:\Data App\CSharp\WinForm\Timer\TestWF18\bin\Debug\TestWF18.exe
+D:\Data App\CSharp\WinForm\Timer\TestWF18\bin\Debug\TestWF18.pdb
+D:\Data App\CSharp\WinForm\Timer\TestWF18\obj\Debug\TestWF18.csprojAssemblyReference.cache
+D:\Data App\CSharp\WinForm\Timer\TestWF18\obj\Debug\TestWF18.Form1.resources
+D:\Data App\CSharp\WinForm\Timer\TestWF18\obj\Debug\TestWF18.Properties.Resources.resources
+D:\Data App\CSharp\WinForm\Timer\TestWF18\obj\Debug\TestWF18.csproj.GenerateResource.cache
+D:\Data App\CSharp\WinForm\Timer\TestWF18\obj\Debug\TestWF18.csproj.CoreCompileInputs.cache
+D:\Data App\CSharp\WinForm\Timer\TestWF18\obj\Debug\TestWF18.exe
+D:\Data App\CSharp\WinForm\Timer\TestWF18\obj\Debug\TestWF18.pdb

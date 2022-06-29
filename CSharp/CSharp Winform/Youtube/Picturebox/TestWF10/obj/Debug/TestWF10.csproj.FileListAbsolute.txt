@@ -1,0 +1,9 @@
+D:\Data App\CSharp\WinForm\Picturebox\TestWF10\bin\Debug\TestWF10.exe.config
+D:\Data App\CSharp\WinForm\Picturebox\TestWF10\bin\Debug\TestWF10.exe
+D:\Data App\CSharp\WinForm\Picturebox\TestWF10\bin\Debug\TestWF10.pdb
+D:\Data App\CSharp\WinForm\Picturebox\TestWF10\obj\Debug\TestWF10.Form1.resources
+D:\Data App\CSharp\WinForm\Picturebox\TestWF10\obj\Debug\TestWF10.Properties.Resources.resources
+D:\Data App\CSharp\WinForm\Picturebox\TestWF10\obj\Debug\TestWF10.csproj.GenerateResource.cache
+D:\Data App\CSharp\WinForm\Picturebox\TestWF10\obj\Debug\TestWF10.csproj.CoreCompileInputs.cache
+D:\Data App\CSharp\WinForm\Picturebox\TestWF10\obj\Debug\TestWF10.exe
+D:\Data App\CSharp\WinForm\Picturebox\TestWF10\obj\Debug\TestWF10.pdb

@@ -1,0 +1,20 @@
+D:\Data App\CSharp\WinForm\ComboBox\TWF9\bin\Debug\TWF9.exe.config
+D:\Data App\CSharp\WinForm\ComboBox\TWF9\bin\Debug\TWF9.exe
+D:\Data App\CSharp\WinForm\ComboBox\TWF9\bin\Debug\TWF9.pdb
+D:\Data App\CSharp\WinForm\ComboBox\TWF9\obj\Debug\TWF9.csprojAssemblyReference.cache
+D:\Data App\CSharp\WinForm\ComboBox\TWF9\obj\Debug\TWF9.Form1.resources
+D:\Data App\CSharp\WinForm\ComboBox\TWF9\obj\Debug\TWF9.Properties.Resources.resources
+D:\Data App\CSharp\WinForm\ComboBox\TWF9\obj\Debug\TWF9.csproj.GenerateResource.cache
+D:\Data App\CSharp\WinForm\ComboBox\TWF9\obj\Debug\TWF9.csproj.CoreCompileInputs.cache
+D:\Data App\CSharp\WinForm\ComboBox\TWF9\obj\Debug\TWF9.exe
+D:\Data App\CSharp\WinForm\ComboBox\TWF9\obj\Debug\TWF9.pdb
+E:\Desktop\CSharp\Template\CSharp\WinForm\ComboBox\TWF9\bin\Debug\TWF9.exe.config
+E:\Desktop\CSharp\Template\CSharp\WinForm\ComboBox\TWF9\bin\Debug\TWF9.exe
+E:\Desktop\CSharp\Template\CSharp\WinForm\ComboBox\TWF9\bin\Debug\TWF9.pdb
+E:\Desktop\CSharp\Template\CSharp\WinForm\ComboBox\TWF9\obj\Debug\TWF9.csprojAssemblyReference.cache
+E:\Desktop\CSharp\Template\CSharp\WinForm\ComboBox\TWF9\obj\Debug\TWF9.Form1.resources
+E:\Desktop\CSharp\Template\CSharp\WinForm\ComboBox\TWF9\obj\Debug\TWF9.Properties.Resources.resources
+E:\Desktop\CSharp\Template\CSharp\WinForm\ComboBox\TWF9\obj\Debug\TWF9.csproj.GenerateResource.cache
+E:\Desktop\CSharp\Template\CSharp\WinForm\ComboBox\TWF9\obj\Debug\TWF9.csproj.CoreCompileInputs.cache
+E:\Desktop\CSharp\Template\CSharp\WinForm\ComboBox\TWF9\obj\Debug\TWF9.exe
+E:\Desktop\CSharp\Template\CSharp\WinForm\ComboBox\TWF9\obj\Debug\TWF9.pdb
