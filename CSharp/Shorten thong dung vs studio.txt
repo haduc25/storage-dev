@@ -1,0 +1,17 @@
+tao get, set
+
+Ctrl + R + E
+
+
+format code
+https://stackoverflow.com/questions/5755942/how-do-you-auto-format-code-in-visual-studio
+
+Để định dạng lựa chọn: Ctrl+ K, Ctrl+F
+
+Để định dạng tài liệu: Ctrl+ K, Ctrl+D
+
+//boi den tu same (giong ctrl + d trong sublinetext)
+
+Shift + Alt + . or Shift + Alt + ;
+ 
+Edit -> Multiple..
