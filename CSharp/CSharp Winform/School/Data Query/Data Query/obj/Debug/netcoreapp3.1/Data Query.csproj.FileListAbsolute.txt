@@ -1,0 +1,22 @@
+D:\Code Developer\Subjects\BT CSharp\Winform\Bai2\Data Query\Data Query\bin\Debug\netcoreapp3.1\Data Query.exe
+D:\Code Developer\Subjects\BT CSharp\Winform\Bai2\Data Query\Data Query\bin\Debug\netcoreapp3.1\Data Query.deps.json
+D:\Code Developer\Subjects\BT CSharp\Winform\Bai2\Data Query\Data Query\bin\Debug\netcoreapp3.1\Data Query.runtimeconfig.json
+D:\Code Developer\Subjects\BT CSharp\Winform\Bai2\Data Query\Data Query\bin\Debug\netcoreapp3.1\Data Query.runtimeconfig.dev.json
+D:\Code Developer\Subjects\BT CSharp\Winform\Bai2\Data Query\Data Query\bin\Debug\netcoreapp3.1\Data Query.dll
+D:\Code Developer\Subjects\BT CSharp\Winform\Bai2\Data Query\Data Query\bin\Debug\netcoreapp3.1\Data Query.pdb
+D:\Code Developer\Subjects\BT CSharp\Winform\Bai2\Data Query\Data Query\obj\Debug\netcoreapp3.1\Data Query.csprojAssemblyReference.cache
+D:\Code Developer\Subjects\BT CSharp\Winform\Bai2\Data Query\Data Query\obj\Debug\netcoreapp3.1\Data_Query.Form1.resources
+D:\Code Developer\Subjects\BT CSharp\Winform\Bai2\Data Query\Data Query\obj\Debug\netcoreapp3.1\Data Query.csproj.GenerateResource.cache
+D:\Code Developer\Subjects\BT CSharp\Winform\Bai2\Data Query\Data Query\obj\Debug\netcoreapp3.1\Data Query.AssemblyInfoInputs.cache
+D:\Code Developer\Subjects\BT CSharp\Winform\Bai2\Data Query\Data Query\obj\Debug\netcoreapp3.1\Data Query.AssemblyInfo.cs
+D:\Code Developer\Subjects\BT CSharp\Winform\Bai2\Data Query\Data Query\obj\Debug\netcoreapp3.1\Data Query.csproj.CoreCompileInputs.cache
+D:\Code Developer\Subjects\BT CSharp\Winform\Bai2\Data Query\Data Query\obj\Debug\netcoreapp3.1\Data Query.dll
+D:\Code Developer\Subjects\BT CSharp\Winform\Bai2\Data Query\Data Query\obj\Debug\netcoreapp3.1\Data Query.pdb
+D:\Code Developer\Subjects\BT CSharp\Winform\Bai2\Data Query\Data Query\obj\Debug\netcoreapp3.1\Data Query.genruntimeconfig.cache
+D:\Code Developer\Subjects\BT CSharp\Winform\Bai2\Data Query\Data Query\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\Code Developer\Subjects\BT CSharp\Winform\Bai2\Data Query\Data Query\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Code Developer\Subjects\BT CSharp\Winform\Bai2\Data Query\Data Query\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Code Developer\Subjects\BT CSharp\Winform\Bai2\Data Query\Data Query\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Code Developer\Subjects\BT CSharp\Winform\Bai2\Data Query\Data Query\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Code Developer\Subjects\BT CSharp\Winform\Bai2\Data Query\Data Query\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Code Developer\Subjects\BT CSharp\Winform\Bai2\Data Query\Data Query\obj\Debug\netcoreapp3.1\Data Query.csproj.CopyComplete
