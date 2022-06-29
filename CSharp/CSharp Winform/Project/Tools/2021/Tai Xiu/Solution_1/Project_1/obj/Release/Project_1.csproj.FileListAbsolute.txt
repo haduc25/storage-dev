@@ -1,0 +1,11 @@
+D:\Code\Project_CSharp\Winfrom\Solution_1\Project_1\obj\Release\Project_1.Form1.resources
+D:\Code\Project_CSharp\Winfrom\Solution_1\Project_1\obj\Release\Project_1.Form2.resources
+D:\Code\Project_CSharp\Winfrom\Solution_1\Project_1\obj\Release\Project_1.Properties.Resources.resources
+D:\Code\Project_CSharp\Winfrom\Solution_1\Project_1\obj\Release\Project_1.csproj.GenerateResource.cache
+D:\Code\Project_CSharp\Winfrom\Solution_1\Project_1\obj\Release\Project_1.csproj.CoreCompileInputs.cache
+D:\Code\Project_CSharp\Winfrom\Solution_1\Project_1\bin\Release\Hi This is Testing.exe.config
+D:\Code\Project_CSharp\Winfrom\Solution_1\Project_1\bin\Release\Hi This is Testing.exe
+D:\Code\Project_CSharp\Winfrom\Solution_1\Project_1\bin\Release\Hi This is Testing.pdb
+D:\Code\Project_CSharp\Winfrom\Solution_1\Project_1\obj\Release\Project_1.csprojAssemblyReference.cache
+D:\Code\Project_CSharp\Winfrom\Solution_1\Project_1\obj\Release\Hi This is Testing.exe
+D:\Code\Project_CSharp\Winfrom\Solution_1\Project_1\obj\Release\Hi This is Testing.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30002.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RandCode", "RandCode\RandCode.csproj", "{7500E6EF-3CB9-47B8-AC51-E7275E8ACCF6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7500E6EF-3CB9-47B8-AC51-E7275E8ACCF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7500E6EF-3CB9-47B8-AC51-E7275E8ACCF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7500E6EF-3CB9-47B8-AC51-E7275E8ACCF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7500E6EF-3CB9-47B8-AC51-E7275E8ACCF6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {23B7D6B8-3E81-4DE1-961C-BA964F388A76}
+	EndGlobalSection
+EndGlobal

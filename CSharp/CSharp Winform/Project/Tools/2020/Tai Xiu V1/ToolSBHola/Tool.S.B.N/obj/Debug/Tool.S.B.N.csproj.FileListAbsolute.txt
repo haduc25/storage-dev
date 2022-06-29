@@ -1,0 +1,30 @@
+D:\Data App\CSharp\Advanced\Project\ToolSBHola\Tool.S.B.N\bin\Debug\Tool.S.B.N.exe.config
+D:\Data App\CSharp\Advanced\Project\ToolSBHola\Tool.S.B.N\bin\Debug\Tool.S.B.N.exe
+D:\Data App\CSharp\Advanced\Project\ToolSBHola\Tool.S.B.N\bin\Debug\Tool.S.B.N.pdb
+D:\Data App\CSharp\Advanced\Project\ToolSBHola\Tool.S.B.N\obj\Debug\Tool.S.B.N.Properties.Resources.resources
+D:\Data App\CSharp\Advanced\Project\ToolSBHola\Tool.S.B.N\obj\Debug\Tool.S.B.N.csproj.GenerateResource.cache
+D:\Data App\CSharp\Advanced\Project\ToolSBHola\Tool.S.B.N\obj\Debug\Tool.S.B.N.csproj.CoreCompileInputs.cache
+D:\Data App\CSharp\Advanced\Project\ToolSBHola\Tool.S.B.N\obj\Debug\Tool.S.B.N.exe
+D:\Data App\CSharp\Advanced\Project\ToolSBHola\Tool.S.B.N\obj\Debug\Tool.S.B.N.pdb
+D:\Data App\CSharp\Advanced\Project\ToolSBHola\Tool.S.B.N\obj\Debug\Tool.S.B.N.Form1.resources
+D:\Data App\CSharp\Advanced\Project\ToolSBHola\Tool.S.B.N\obj\Debug\Tool.S.B.N.csprojAssemblyReference.cache
+F:\Data_CSharp\Winfrom\Project\ToolSBHola\Tool.S.B.N\bin\Debug\Tool.S.B.N.exe.config
+F:\Data_CSharp\Winfrom\Project\ToolSBHola\Tool.S.B.N\bin\Debug\Tool.S.B.N.exe
+F:\Data_CSharp\Winfrom\Project\ToolSBHola\Tool.S.B.N\bin\Debug\Tool.S.B.N.pdb
+F:\Data_CSharp\Winfrom\Project\ToolSBHola\Tool.S.B.N\obj\Debug\Tool.S.B.N.csprojAssemblyReference.cache
+F:\Data_CSharp\Winfrom\Project\ToolSBHola\Tool.S.B.N\obj\Debug\Tool.S.B.N.Form1.resources
+F:\Data_CSharp\Winfrom\Project\ToolSBHola\Tool.S.B.N\obj\Debug\Tool.S.B.N.Properties.Resources.resources
+F:\Data_CSharp\Winfrom\Project\ToolSBHola\Tool.S.B.N\obj\Debug\Tool.S.B.N.csproj.GenerateResource.cache
+F:\Data_CSharp\Winfrom\Project\ToolSBHola\Tool.S.B.N\obj\Debug\Tool.S.B.N.csproj.CoreCompileInputs.cache
+F:\Data_CSharp\Winfrom\Project\ToolSBHola\Tool.S.B.N\obj\Debug\Tool.S.B.N.exe
+F:\Data_CSharp\Winfrom\Project\ToolSBHola\Tool.S.B.N\obj\Debug\Tool.S.B.N.pdb
+D:\New folder\Data_CSharp\Winfrom\Project\ToolSBHola\Tool.S.B.N\bin\Debug\Tool.S.B.N.exe.config
+D:\New folder\Data_CSharp\Winfrom\Project\ToolSBHola\Tool.S.B.N\bin\Debug\Tool.S.B.N.exe
+D:\New folder\Data_CSharp\Winfrom\Project\ToolSBHola\Tool.S.B.N\bin\Debug\Tool.S.B.N.pdb
+D:\New folder\Data_CSharp\Winfrom\Project\ToolSBHola\Tool.S.B.N\obj\Debug\Tool.S.B.N.csprojAssemblyReference.cache
+D:\New folder\Data_CSharp\Winfrom\Project\ToolSBHola\Tool.S.B.N\obj\Debug\Tool.S.B.N.Form1.resources
+D:\New folder\Data_CSharp\Winfrom\Project\ToolSBHola\Tool.S.B.N\obj\Debug\Tool.S.B.N.Properties.Resources.resources
+D:\New folder\Data_CSharp\Winfrom\Project\ToolSBHola\Tool.S.B.N\obj\Debug\Tool.S.B.N.csproj.GenerateResource.cache
+D:\New folder\Data_CSharp\Winfrom\Project\ToolSBHola\Tool.S.B.N\obj\Debug\Tool.S.B.N.csproj.CoreCompileInputs.cache
+D:\New folder\Data_CSharp\Winfrom\Project\ToolSBHola\Tool.S.B.N\obj\Debug\Tool.S.B.N.exe
+D:\New folder\Data_CSharp\Winfrom\Project\ToolSBHola\Tool.S.B.N\obj\Debug\Tool.S.B.N.pdb

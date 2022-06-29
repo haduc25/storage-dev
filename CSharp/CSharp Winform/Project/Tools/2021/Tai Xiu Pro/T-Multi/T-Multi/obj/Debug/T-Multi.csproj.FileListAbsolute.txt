@@ -1,0 +1,11 @@
+E:\Visual Studio Coder\Winforms\T-Multi\T-Multi\obj\Debug\T_Multi.Form1.resources
+E:\Visual Studio Coder\Winforms\T-Multi\T-Multi\obj\Debug\T_Multi.Properties.Resources.resources
+E:\Visual Studio Coder\Winforms\T-Multi\T-Multi\obj\Debug\T-Multi.csproj.GenerateResource.cache
+E:\Visual Studio Coder\Winforms\T-Multi\T-Multi\obj\Debug\T-Multi.csproj.CoreCompileInputs.cache
+E:\Visual Studio Coder\Winforms\T-Multi\T-Multi\bin\Debug\T-Multi.exe.config
+E:\Visual Studio Coder\Winforms\T-Multi\T-Multi\bin\Debug\T-Multi.exe
+E:\Visual Studio Coder\Winforms\T-Multi\T-Multi\bin\Debug\T-Multi.pdb
+E:\Visual Studio Coder\Winforms\T-Multi\T-Multi\obj\Debug\T-Multi.exe
+E:\Visual Studio Coder\Winforms\T-Multi\T-Multi\obj\Debug\T-Multi.pdb
+E:\Visual Studio Coder\Winforms\T-Multi\T-Multi\obj\Debug\T_Multi.Form2.resources
+E:\Visual Studio Coder\Winforms\T-Multi\T-Multi\obj\Debug\T-Multi.csprojAssemblyReference.cache

@@ -1,0 +1,26 @@
+[0508/121615.811:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0508/122302.336:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0509/201536.401:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0509/202939.532:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0509/203102.049:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0512/154709.053:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0512/154709.204:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0512/154709.205:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0512/154709.205:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0512/154710.587:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0512/154716.587:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0512/154854.285:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0512/154854.322:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0512/154854.399:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0512/154854.399:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0512/154854.419:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0512/154854.482:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0512/154925.690:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0512/154929.542:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0512/154930.101:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0512/154930.741:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0512/154930.777:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0512/154930.777:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0512/154930.884:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0512/154930.884:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0519/144923.300:ERROR:file_io.cc(89)] ReadExactly: expected 36, observed 0

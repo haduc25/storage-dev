@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T-Multi", "T-Multi\T-Multi.csproj", "{29AC7358-1AA2-4A4B-A103-1F2841417F72}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "SetupTool", "SetupTool\SetupTool.vdproj", "{7C303B86-C484-4E8A-9920-522FD99A1ED0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{29AC7358-1AA2-4A4B-A103-1F2841417F72}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{29AC7358-1AA2-4A4B-A103-1F2841417F72}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{29AC7358-1AA2-4A4B-A103-1F2841417F72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29AC7358-1AA2-4A4B-A103-1F2841417F72}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C303B86-C484-4E8A-9920-522FD99A1ED0}.Debug|Any CPU.ActiveCfg = Debug
+		{7C303B86-C484-4E8A-9920-522FD99A1ED0}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0F19253B-1BAF-4A82-9E3B-204DDF481EA3}
+	EndGlobalSection
+EndGlobal

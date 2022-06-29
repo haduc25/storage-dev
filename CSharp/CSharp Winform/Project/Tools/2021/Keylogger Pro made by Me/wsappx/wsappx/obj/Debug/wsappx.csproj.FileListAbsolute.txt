@@ -1,0 +1,10 @@
+E:\Visual Studio Coder\Winforms\wsappx\wsappx\bin\Debug\wsappx.exe.config
+E:\Visual Studio Coder\Winforms\wsappx\wsappx\bin\Debug\wsappx.exe
+E:\Visual Studio Coder\Winforms\wsappx\wsappx\bin\Debug\wsappx.pdb
+E:\Visual Studio Coder\Winforms\wsappx\wsappx\obj\Debug\wsappx.csprojAssemblyReference.cache
+E:\Visual Studio Coder\Winforms\wsappx\wsappx\obj\Debug\wsappx.Form1.resources
+E:\Visual Studio Coder\Winforms\wsappx\wsappx\obj\Debug\wsappx.Properties.Resources.resources
+E:\Visual Studio Coder\Winforms\wsappx\wsappx\obj\Debug\wsappx.csproj.GenerateResource.cache
+E:\Visual Studio Coder\Winforms\wsappx\wsappx\obj\Debug\wsappx.csproj.CoreCompileInputs.cache
+E:\Visual Studio Coder\Winforms\wsappx\wsappx\obj\Debug\wsappx.exe
+E:\Visual Studio Coder\Winforms\wsappx\wsappx\obj\Debug\wsappx.pdb

@@ -1,0 +1,32 @@
+E:\Visual Studio Coder\Winforms\T-Multi\T-Multi\bin\Release\T-Multi.exe.config
+E:\Visual Studio Coder\Winforms\T-Multi\T-Multi\bin\Release\T-Multi.exe
+E:\Visual Studio Coder\Winforms\T-Multi\T-Multi\bin\Release\T-Multi.pdb
+E:\Visual Studio Coder\Winforms\T-Multi\T-Multi\obj\Release\T_Multi.Form1.resources
+E:\Visual Studio Coder\Winforms\T-Multi\T-Multi\obj\Release\T_Multi.Form2.resources
+E:\Visual Studio Coder\Winforms\T-Multi\T-Multi\obj\Release\T_Multi.Properties.Resources.resources
+E:\Visual Studio Coder\Winforms\T-Multi\T-Multi\obj\Release\T-Multi.csproj.GenerateResource.cache
+E:\Visual Studio Coder\Winforms\T-Multi\T-Multi\obj\Release\T-Multi.csproj.CoreCompileInputs.cache
+E:\Visual Studio Coder\Winforms\T-Multi\T-Multi\obj\Release\T-Multi.exe
+E:\Visual Studio Coder\Winforms\T-Multi\T-Multi\obj\Release\T-Multi.pdb
+D:\Code Developer\CSharp\Visual Studio Coder\Winforms\T-Multi\T-Multi\bin\Release\T-Multi.exe.config
+D:\Code Developer\CSharp\Visual Studio Coder\Winforms\T-Multi\T-Multi\bin\Release\T-Multi.exe
+D:\Code Developer\CSharp\Visual Studio Coder\Winforms\T-Multi\T-Multi\obj\Release\T-Multi.csprojAssemblyReference.cache
+D:\Code Developer\CSharp\Visual Studio Coder\Winforms\T-Multi\T-Multi\obj\Release\T_Multi.Form1.resources
+D:\Code Developer\CSharp\Visual Studio Coder\Winforms\T-Multi\T-Multi\obj\Release\T_Multi.Form2.resources
+D:\Code Developer\CSharp\Visual Studio Coder\Winforms\T-Multi\T-Multi\obj\Release\T_Multi.Properties.Resources.resources
+D:\Code Developer\CSharp\Visual Studio Coder\Winforms\T-Multi\T-Multi\obj\Release\T-Multi.csproj.GenerateResource.cache
+D:\Code Developer\CSharp\Visual Studio Coder\Winforms\T-Multi\T-Multi\obj\Release\T-Multi.csproj.CoreCompileInputs.cache
+D:\Code Developer\CSharp\Visual Studio Coder\Winforms\T-Multi\T-Multi\obj\Release\T-Multi.exe
+D:\Code Developer\CSharp\Visual Studio Coder\Winforms\T-Multi\T-Multi\obj\Release\T-Multi.pdb
+D:\Code Developer\CSharp\Winforms\T-Multi\T-Multi\bin\Release\T-Multi.exe.config
+D:\Code Developer\CSharp\Winforms\T-Multi\T-Multi\bin\Release\T-Multi.exe
+D:\Code Developer\CSharp\Winforms\T-Multi\T-Multi\bin\Release\T-Multi.pdb
+D:\Code Developer\CSharp\Winforms\T-Multi\T-Multi\obj\Release\T-Multi.csproj.AssemblyReference.cache
+D:\Code Developer\CSharp\Winforms\T-Multi\T-Multi\obj\Release\T-Multi.csproj.SuggestedBindingRedirects.cache
+D:\Code Developer\CSharp\Winforms\T-Multi\T-Multi\obj\Release\T_Multi.Form1.resources
+D:\Code Developer\CSharp\Winforms\T-Multi\T-Multi\obj\Release\T_Multi.Form2.resources
+D:\Code Developer\CSharp\Winforms\T-Multi\T-Multi\obj\Release\T_Multi.Properties.Resources.resources
+D:\Code Developer\CSharp\Winforms\T-Multi\T-Multi\obj\Release\T-Multi.csproj.GenerateResource.cache
+D:\Code Developer\CSharp\Winforms\T-Multi\T-Multi\obj\Release\T-Multi.csproj.CoreCompileInputs.cache
+D:\Code Developer\CSharp\Winforms\T-Multi\T-Multi\obj\Release\T-Multi.exe
+D:\Code Developer\CSharp\Winforms\T-Multi\T-Multi\obj\Release\T-Multi.pdb

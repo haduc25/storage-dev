@@ -1,0 +1,24 @@
+D:\Data App\CSharp\Advanced\Project\HereisTest_UI\HereisTest_UI\obj\Debug\HereisTest_UI.csprojAssemblyReference.cache
+D:\Data App\CSharp\Advanced\Project\HereisTest_UI\HereisTest_UI\obj\Debug\HereisTest_UI.Form1.resources
+D:\Data App\CSharp\Advanced\Project\HereisTest_UI\HereisTest_UI\obj\Debug\HereisTest_UI.Properties.Resources.resources
+D:\Data App\CSharp\Advanced\Project\HereisTest_UI\HereisTest_UI\obj\Debug\HereisTest_UI.csproj.GenerateResource.cache
+D:\Data App\CSharp\Advanced\Project\HereisTest_UI\HereisTest_UI\obj\Debug\HereisTest_UI.csproj.CoreCompileInputs.cache
+D:\Data App\CSharp\Advanced\Project\HereisTest_UI\HereisTest_UI\obj\Debug\HereisTest_UI.HereisForm.resources
+D:\Data App\CSharp\Advanced\Project\HereisTest_UI\HereisTest_UI\obj\Debug\HereisTest_UI.Form2.resources
+D:\Data App\CSharp\Advanced\Project\HereisTest_UI\HereisTest_UI\bin\Debug\UnlockAccount_PUBGM.exe.config
+D:\Data App\CSharp\Advanced\Project\HereisTest_UI\HereisTest_UI\bin\Debug\UnlockAccount_PUBGM.exe
+D:\Data App\CSharp\Advanced\Project\HereisTest_UI\HereisTest_UI\bin\Debug\UnlockAccount_PUBGM.pdb
+D:\Data App\CSharp\Advanced\Project\HereisTest_UI\HereisTest_UI\obj\Debug\UnlockAccount_PUBGM.exe
+D:\Data App\CSharp\Advanced\Project\HereisTest_UI\HereisTest_UI\obj\Debug\UnlockAccount_PUBGM.pdb
+E:\CSharp\CSharp\Advanced\Project\HereisTest_UI\HereisTest_UI\bin\Debug\UnlockAccount_PUBGM.exe.config
+E:\CSharp\CSharp\Advanced\Project\HereisTest_UI\HereisTest_UI\bin\Debug\UnlockAccount_PUBGM.exe
+E:\CSharp\CSharp\Advanced\Project\HereisTest_UI\HereisTest_UI\bin\Debug\UnlockAccount_PUBGM.pdb
+E:\CSharp\CSharp\Advanced\Project\HereisTest_UI\HereisTest_UI\obj\Debug\HereisTest_UI.csprojAssemblyReference.cache
+E:\CSharp\CSharp\Advanced\Project\HereisTest_UI\HereisTest_UI\obj\Debug\HereisTest_UI.Form1.resources
+E:\CSharp\CSharp\Advanced\Project\HereisTest_UI\HereisTest_UI\obj\Debug\HereisTest_UI.Form2.resources
+E:\CSharp\CSharp\Advanced\Project\HereisTest_UI\HereisTest_UI\obj\Debug\HereisTest_UI.HereisForm.resources
+E:\CSharp\CSharp\Advanced\Project\HereisTest_UI\HereisTest_UI\obj\Debug\HereisTest_UI.Properties.Resources.resources
+E:\CSharp\CSharp\Advanced\Project\HereisTest_UI\HereisTest_UI\obj\Debug\HereisTest_UI.csproj.GenerateResource.cache
+E:\CSharp\CSharp\Advanced\Project\HereisTest_UI\HereisTest_UI\obj\Debug\HereisTest_UI.csproj.CoreCompileInputs.cache
+E:\CSharp\CSharp\Advanced\Project\HereisTest_UI\HereisTest_UI\obj\Debug\UnlockAccount_PUBGM.exe
+E:\CSharp\CSharp\Advanced\Project\HereisTest_UI\HereisTest_UI\obj\Debug\UnlockAccount_PUBGM.pdb
