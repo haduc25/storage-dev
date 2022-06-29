@@ -1,0 +1,7 @@
+D:\Data App\CSharp\Advanced\Application\5-Queue\QueueCSharp\obj\Debug\QueueCSharp.csprojAssemblyReference.cache
+D:\Data App\CSharp\Advanced\Application\5-Queue\QueueCSharp\obj\Debug\QueueCSharp.csproj.CoreCompileInputs.cache
+D:\Data App\CSharp\Advanced\Application\5-Queue\QueueCSharp\bin\Debug\QueueCSharp.exe.config
+D:\Data App\CSharp\Advanced\Application\5-Queue\QueueCSharp\bin\Debug\QueueCSharp.exe
+D:\Data App\CSharp\Advanced\Application\5-Queue\QueueCSharp\bin\Debug\QueueCSharp.pdb
+D:\Data App\CSharp\Advanced\Application\5-Queue\QueueCSharp\obj\Debug\QueueCSharp.exe
+D:\Data App\CSharp\Advanced\Application\5-Queue\QueueCSharp\obj\Debug\QueueCSharp.pdb

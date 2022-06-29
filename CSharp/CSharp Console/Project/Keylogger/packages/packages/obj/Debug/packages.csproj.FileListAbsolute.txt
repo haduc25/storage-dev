@@ -1,0 +1,7 @@
+E:\Visual Studio Coder\Console\packages\packages\bin\Debug\packages.exe.config
+E:\Visual Studio Coder\Console\packages\packages\bin\Debug\packages.exe
+E:\Visual Studio Coder\Console\packages\packages\bin\Debug\packages.pdb
+E:\Visual Studio Coder\Console\packages\packages\obj\Debug\packages.csprojAssemblyReference.cache
+E:\Visual Studio Coder\Console\packages\packages\obj\Debug\packages.csproj.CoreCompileInputs.cache
+E:\Visual Studio Coder\Console\packages\packages\obj\Debug\packages.exe
+E:\Visual Studio Coder\Console\packages\packages\obj\Debug\packages.pdb

@@ -1,0 +1,7 @@
+D:\Data App\CSharp\Advanced\Application\3-SortedList\SortedListCSharp\bin\Debug\SortedListCSharp.exe.config
+D:\Data App\CSharp\Advanced\Application\3-SortedList\SortedListCSharp\bin\Debug\SortedListCSharp.exe
+D:\Data App\CSharp\Advanced\Application\3-SortedList\SortedListCSharp\bin\Debug\SortedListCSharp.pdb
+D:\Data App\CSharp\Advanced\Application\3-SortedList\SortedListCSharp\obj\Debug\SortedListCSharp.csprojAssemblyReference.cache
+D:\Data App\CSharp\Advanced\Application\3-SortedList\SortedListCSharp\obj\Debug\SortedListCSharp.csproj.CoreCompileInputs.cache
+D:\Data App\CSharp\Advanced\Application\3-SortedList\SortedListCSharp\obj\Debug\SortedListCSharp.exe
+D:\Data App\CSharp\Advanced\Application\3-SortedList\SortedListCSharp\obj\Debug\SortedListCSharp.pdb

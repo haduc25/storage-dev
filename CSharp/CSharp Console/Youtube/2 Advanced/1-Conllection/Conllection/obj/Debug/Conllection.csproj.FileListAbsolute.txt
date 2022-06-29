@@ -1,0 +1,14 @@
+D:\Data App\CSharp\Advanced\Application\1-Conllection\Conllection\bin\Debug\Conllection.exe.config
+D:\Data App\CSharp\Advanced\Application\1-Conllection\Conllection\bin\Debug\Conllection.exe
+D:\Data App\CSharp\Advanced\Application\1-Conllection\Conllection\bin\Debug\Conllection.pdb
+D:\Data App\CSharp\Advanced\Application\1-Conllection\Conllection\obj\Debug\Conllection.csprojAssemblyReference.cache
+D:\Data App\CSharp\Advanced\Application\1-Conllection\Conllection\obj\Debug\Conllection.csproj.CoreCompileInputs.cache
+D:\Data App\CSharp\Advanced\Application\1-Conllection\Conllection\obj\Debug\Conllection.exe
+D:\Data App\CSharp\Advanced\Application\1-Conllection\Conllection\obj\Debug\Conllection.pdb
+D:\Code Developer\CSharp\Template\CSharp\Advanced\Application\1-Conllection\Conllection\bin\Debug\Conllection.exe.config
+D:\Code Developer\CSharp\Template\CSharp\Advanced\Application\1-Conllection\Conllection\bin\Debug\Conllection.exe
+D:\Code Developer\CSharp\Template\CSharp\Advanced\Application\1-Conllection\Conllection\bin\Debug\Conllection.pdb
+D:\Code Developer\CSharp\Template\CSharp\Advanced\Application\1-Conllection\Conllection\obj\Debug\Conllection.csprojAssemblyReference.cache
+D:\Code Developer\CSharp\Template\CSharp\Advanced\Application\1-Conllection\Conllection\obj\Debug\Conllection.csproj.CoreCompileInputs.cache
+D:\Code Developer\CSharp\Template\CSharp\Advanced\Application\1-Conllection\Conllection\obj\Debug\Conllection.exe
+D:\Code Developer\CSharp\Template\CSharp\Advanced\Application\1-Conllection\Conllection\obj\Debug\Conllection.pdb

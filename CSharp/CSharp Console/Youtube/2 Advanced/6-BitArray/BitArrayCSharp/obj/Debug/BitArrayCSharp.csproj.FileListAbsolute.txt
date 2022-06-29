@@ -1,0 +1,7 @@
+D:\Data App\CSharp\Advanced\Application\6-BitArray\BitArrayCSharp\bin\Debug\BitArrayCSharp.exe.config
+D:\Data App\CSharp\Advanced\Application\6-BitArray\BitArrayCSharp\bin\Debug\BitArrayCSharp.exe
+D:\Data App\CSharp\Advanced\Application\6-BitArray\BitArrayCSharp\bin\Debug\BitArrayCSharp.pdb
+D:\Data App\CSharp\Advanced\Application\6-BitArray\BitArrayCSharp\obj\Debug\BitArrayCSharp.csprojAssemblyReference.cache
+D:\Data App\CSharp\Advanced\Application\6-BitArray\BitArrayCSharp\obj\Debug\BitArrayCSharp.csproj.CoreCompileInputs.cache
+D:\Data App\CSharp\Advanced\Application\6-BitArray\BitArrayCSharp\obj\Debug\BitArrayCSharp.exe
+D:\Data App\CSharp\Advanced\Application\6-BitArray\BitArrayCSharp\obj\Debug\BitArrayCSharp.pdb
