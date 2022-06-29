@@ -1,0 +1,19 @@
+=> (BT_Tong_Hop)
+1. Hằng số, Ép Kiểu
+2. If Else, Boxing, Unboxing, Var, Object, Dynamic, Goto, For
+3. Ve hinh vuong, Random number
+4. Biến Toàn cục và biến cục bộ
+5. Ref & Out
+
+=> (BT_Tong_Hop2_Array)
+1. Nhập,Xuất Mảng 1 Chiều,Length
+2. Nhap, xuat mang 2 chieu, GetLength
+3. Nhap, xuat mang 3 chieu, Da chieu, ZicZac, Lop Array
+
+
+=> (BT_Tong_Hop3_Class_Struct)
+1. String, StringBuilder, Chuan hoa chuoi
+2. Struct
+3. Enum
+
+

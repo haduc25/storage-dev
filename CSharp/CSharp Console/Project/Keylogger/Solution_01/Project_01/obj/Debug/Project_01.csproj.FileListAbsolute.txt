@@ -1,0 +1,29 @@
+F:\Data_CSharp\Console\Solution_01\Project_01\bin\Debug\Project_01.exe.config
+F:\Data_CSharp\Console\Solution_01\Project_01\bin\Debug\Project_01.exe
+F:\Data_CSharp\Console\Solution_01\Project_01\bin\Debug\Project_01.pdb
+F:\Data_CSharp\Console\Solution_01\Project_01\obj\Debug\Project_01.csprojAssemblyReference.cache
+F:\Data_CSharp\Console\Solution_01\Project_01\obj\Debug\Project_01.csproj.CoreCompileInputs.cache
+F:\Data_CSharp\Console\Solution_01\Project_01\obj\Debug\Project_01.exe
+F:\Data_CSharp\Console\Solution_01\Project_01\obj\Debug\Project_01.pdb
+D:\New folder\Data_CSharp\Console\Solution_01\Project_01\bin\Debug\Project_01.exe.config
+D:\New folder\Data_CSharp\Console\Solution_01\Project_01\bin\Debug\Project_01.exe
+D:\New folder\Data_CSharp\Console\Solution_01\Project_01\bin\Debug\Project_01.pdb
+D:\New folder\Data_CSharp\Console\Solution_01\Project_01\obj\Debug\Project_01.csprojAssemblyReference.cache
+D:\New folder\Data_CSharp\Console\Solution_01\Project_01\obj\Debug\Project_01.csproj.CoreCompileInputs.cache
+D:\New folder\Data_CSharp\Console\Solution_01\Project_01\obj\Debug\Project_01.exe
+D:\New folder\Data_CSharp\Console\Solution_01\Project_01\obj\Debug\Project_01.pdb
+D:\Code\Project_CSharp\Console\Solution_01\Project_01\bin\Debug\Project_01.exe.config
+D:\Code\Project_CSharp\Console\Solution_01\Project_01\bin\Debug\Project_01.exe
+D:\Code\Project_CSharp\Console\Solution_01\Project_01\bin\Debug\Project_01.pdb
+D:\Code\Project_CSharp\Console\Solution_01\Project_01\obj\Debug\Project_01.csprojAssemblyReference.cache
+D:\Code\Project_CSharp\Console\Solution_01\Project_01\obj\Debug\Project_01.csproj.CoreCompileInputs.cache
+D:\Code\Project_CSharp\Console\Solution_01\Project_01\obj\Debug\Project_01.exe
+D:\Code\Project_CSharp\Console\Solution_01\Project_01\obj\Debug\Project_01.pdb
+D:\Code Developer\CSharp\Project_CSharp\Console\Solution_01\Project_01\bin\Debug\Project_01.exe.config
+D:\Code Developer\CSharp\Project_CSharp\Console\Solution_01\Project_01\bin\Debug\Project_01.exe
+D:\Code Developer\CSharp\Project_CSharp\Console\Solution_01\Project_01\bin\Debug\Project_01.pdb
+D:\Code Developer\CSharp\Project_CSharp\Console\Solution_01\Project_01\obj\Debug\Project_01.csproj.AssemblyReference.cache
+D:\Code Developer\CSharp\Project_CSharp\Console\Solution_01\Project_01\obj\Debug\Project_01.csproj.SuggestedBindingRedirects.cache
+D:\Code Developer\CSharp\Project_CSharp\Console\Solution_01\Project_01\obj\Debug\Project_01.csproj.CoreCompileInputs.cache
+D:\Code Developer\CSharp\Project_CSharp\Console\Solution_01\Project_01\obj\Debug\Project_01.exe
+D:\Code Developer\CSharp\Project_CSharp\Console\Solution_01\Project_01\obj\Debug\Project_01.pdb

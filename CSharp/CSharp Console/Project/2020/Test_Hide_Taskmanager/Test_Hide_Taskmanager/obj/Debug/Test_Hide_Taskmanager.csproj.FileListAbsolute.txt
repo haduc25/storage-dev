@@ -1,0 +1,22 @@
+F:\Data_CSharp\Console\Test_Hide_Taskmanager\Test_Hide_Taskmanager\bin\Debug\Test_Hide_Taskmanager.exe.config
+F:\Data_CSharp\Console\Test_Hide_Taskmanager\Test_Hide_Taskmanager\bin\Debug\Test_Hide_Taskmanager.exe
+F:\Data_CSharp\Console\Test_Hide_Taskmanager\Test_Hide_Taskmanager\bin\Debug\Test_Hide_Taskmanager.pdb
+F:\Data_CSharp\Console\Test_Hide_Taskmanager\Test_Hide_Taskmanager\obj\Debug\Test_Hide_Taskmanager.csprojAssemblyReference.cache
+F:\Data_CSharp\Console\Test_Hide_Taskmanager\Test_Hide_Taskmanager\obj\Debug\Test_Hide_Taskmanager.csproj.CoreCompileInputs.cache
+F:\Data_CSharp\Console\Test_Hide_Taskmanager\Test_Hide_Taskmanager\obj\Debug\Test_Hide_Taskmanager.exe
+F:\Data_CSharp\Console\Test_Hide_Taskmanager\Test_Hide_Taskmanager\obj\Debug\Test_Hide_Taskmanager.pdb
+D:\Code\Project_CSharp\Console\Test_Hide_Taskmanager\Test_Hide_Taskmanager\bin\Debug\Test_Hide_Taskmanager.exe.config
+D:\Code\Project_CSharp\Console\Test_Hide_Taskmanager\Test_Hide_Taskmanager\bin\Debug\Test_Hide_Taskmanager.exe
+D:\Code\Project_CSharp\Console\Test_Hide_Taskmanager\Test_Hide_Taskmanager\bin\Debug\Test_Hide_Taskmanager.pdb
+D:\Code\Project_CSharp\Console\Test_Hide_Taskmanager\Test_Hide_Taskmanager\obj\Debug\Test_Hide_Taskmanager.csprojAssemblyReference.cache
+D:\Code\Project_CSharp\Console\Test_Hide_Taskmanager\Test_Hide_Taskmanager\obj\Debug\Test_Hide_Taskmanager.csproj.CoreCompileInputs.cache
+D:\Code\Project_CSharp\Console\Test_Hide_Taskmanager\Test_Hide_Taskmanager\obj\Debug\Test_Hide_Taskmanager.exe
+D:\Code\Project_CSharp\Console\Test_Hide_Taskmanager\Test_Hide_Taskmanager\obj\Debug\Test_Hide_Taskmanager.pdb
+D:\Code Developer\CSharp\Console\Test_Hide_Taskmanager\Test_Hide_Taskmanager\obj\Debug\Test_Hide_Taskmanager.csproj.AssemblyReference.cache
+D:\Code Developer\CSharp\Console\Test_Hide_Taskmanager\Test_Hide_Taskmanager\obj\Debug\Test_Hide_Taskmanager.csproj.SuggestedBindingRedirects.cache
+D:\Code Developer\CSharp\Console\Test_Hide_Taskmanager\Test_Hide_Taskmanager\obj\Debug\Test_Hide_Taskmanager.csproj.CoreCompileInputs.cache
+D:\Code Developer\CSharp\Console\Test_Hide_Taskmanager\Test_Hide_Taskmanager\obj\Debug\Test_Hide_Taskmanager.exe
+D:\Code Developer\CSharp\Console\Test_Hide_Taskmanager\Test_Hide_Taskmanager\obj\Debug\Test_Hide_Taskmanager.pdb
+D:\Code Developer\CSharp\Console\Test_Hide_Taskmanager\Test_Hide_Taskmanager\bin\Debug\Test_Hide_Taskmanager.exe.config
+D:\Code Developer\CSharp\Console\Test_Hide_Taskmanager\Test_Hide_Taskmanager\bin\Debug\Test_Hide_Taskmanager.exe
+D:\Code Developer\CSharp\Console\Test_Hide_Taskmanager\Test_Hide_Taskmanager\bin\Debug\Test_Hide_Taskmanager.pdb

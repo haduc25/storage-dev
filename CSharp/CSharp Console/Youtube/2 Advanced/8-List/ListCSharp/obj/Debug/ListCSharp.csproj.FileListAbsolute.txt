@@ -1,0 +1,7 @@
+D:\Data App\CSharp\Advanced\Application\8-List\ListCSharp\bin\Debug\ListCSharp.exe.config
+D:\Data App\CSharp\Advanced\Application\8-List\ListCSharp\bin\Debug\ListCSharp.exe
+D:\Data App\CSharp\Advanced\Application\8-List\ListCSharp\bin\Debug\ListCSharp.pdb
+D:\Data App\CSharp\Advanced\Application\8-List\ListCSharp\obj\Debug\ListCSharp.csprojAssemblyReference.cache
+D:\Data App\CSharp\Advanced\Application\8-List\ListCSharp\obj\Debug\ListCSharp.csproj.CoreCompileInputs.cache
+D:\Data App\CSharp\Advanced\Application\8-List\ListCSharp\obj\Debug\ListCSharp.exe
+D:\Data App\CSharp\Advanced\Application\8-List\ListCSharp\obj\Debug\ListCSharp.pdb

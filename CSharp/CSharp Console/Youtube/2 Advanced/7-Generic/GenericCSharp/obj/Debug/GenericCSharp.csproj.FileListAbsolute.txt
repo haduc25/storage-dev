@@ -1,0 +1,7 @@
+D:\Data App\CSharp\Advanced\Application\7-Generic\GenericCSharp\bin\Debug\GenericCSharp.exe.config
+D:\Data App\CSharp\Advanced\Application\7-Generic\GenericCSharp\bin\Debug\GenericCSharp.exe
+D:\Data App\CSharp\Advanced\Application\7-Generic\GenericCSharp\bin\Debug\GenericCSharp.pdb
+D:\Data App\CSharp\Advanced\Application\7-Generic\GenericCSharp\obj\Debug\GenericCSharp.csprojAssemblyReference.cache
+D:\Data App\CSharp\Advanced\Application\7-Generic\GenericCSharp\obj\Debug\GenericCSharp.csproj.CoreCompileInputs.cache
+D:\Data App\CSharp\Advanced\Application\7-Generic\GenericCSharp\obj\Debug\GenericCSharp.exe
+D:\Data App\CSharp\Advanced\Application\7-Generic\GenericCSharp\obj\Debug\GenericCSharp.pdb

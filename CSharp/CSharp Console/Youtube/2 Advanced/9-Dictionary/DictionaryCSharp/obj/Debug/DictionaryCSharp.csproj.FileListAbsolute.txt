@@ -1,0 +1,7 @@
+D:\Data App\CSharp\Advanced\Application\9-Dictionary\DictionaryCSharp\bin\Debug\DictionaryCSharp.exe.config
+D:\Data App\CSharp\Advanced\Application\9-Dictionary\DictionaryCSharp\bin\Debug\DictionaryCSharp.exe
+D:\Data App\CSharp\Advanced\Application\9-Dictionary\DictionaryCSharp\bin\Debug\DictionaryCSharp.pdb
+D:\Data App\CSharp\Advanced\Application\9-Dictionary\DictionaryCSharp\obj\Debug\DictionaryCSharp.csprojAssemblyReference.cache
+D:\Data App\CSharp\Advanced\Application\9-Dictionary\DictionaryCSharp\obj\Debug\DictionaryCSharp.csproj.CoreCompileInputs.cache
+D:\Data App\CSharp\Advanced\Application\9-Dictionary\DictionaryCSharp\obj\Debug\DictionaryCSharp.exe
+D:\Data App\CSharp\Advanced\Application\9-Dictionary\DictionaryCSharp\obj\Debug\DictionaryCSharp.pdb

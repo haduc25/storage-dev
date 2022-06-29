@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BT_Tong_Hop2_Array", "BT_Tong_Hop2_Array\BT_Tong_Hop2_Array.csproj", "{E67D378F-A477-4537-8ACD-32557D04DF9D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E67D378F-A477-4537-8ACD-32557D04DF9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E67D378F-A477-4537-8ACD-32557D04DF9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E67D378F-A477-4537-8ACD-32557D04DF9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E67D378F-A477-4537-8ACD-32557D04DF9D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F6037027-2043-4875-9DAE-F956BB8CF573}
+	EndGlobalSection
+EndGlobal

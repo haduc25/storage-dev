@@ -1,0 +1,15 @@
+E:\Visual Studio Coder\Console\ProcessClose\ProcessClose\bin\Debug\ProcessClose.exe.config
+E:\Visual Studio Coder\Console\ProcessClose\ProcessClose\bin\Debug\ProcessClose.exe
+E:\Visual Studio Coder\Console\ProcessClose\ProcessClose\bin\Debug\ProcessClose.pdb
+E:\Visual Studio Coder\Console\ProcessClose\ProcessClose\obj\Debug\ProcessClose.csprojAssemblyReference.cache
+E:\Visual Studio Coder\Console\ProcessClose\ProcessClose\obj\Debug\ProcessClose.csproj.CoreCompileInputs.cache
+E:\Visual Studio Coder\Console\ProcessClose\ProcessClose\obj\Debug\ProcessClose.exe
+E:\Visual Studio Coder\Console\ProcessClose\ProcessClose\obj\Debug\ProcessClose.pdb
+D:\Code Developer\CSharp\Visual Studio Coder\Console\ProcessClose\ProcessClose\bin\Debug\ProcessClose.exe.config
+D:\Code Developer\CSharp\Visual Studio Coder\Console\ProcessClose\ProcessClose\bin\Debug\ProcessClose.exe
+D:\Code Developer\CSharp\Visual Studio Coder\Console\ProcessClose\ProcessClose\bin\Debug\ProcessClose.pdb
+D:\Code Developer\CSharp\Visual Studio Coder\Console\ProcessClose\ProcessClose\obj\Debug\ProcessClose.csproj.AssemblyReference.cache
+D:\Code Developer\CSharp\Visual Studio Coder\Console\ProcessClose\ProcessClose\obj\Debug\ProcessClose.csproj.SuggestedBindingRedirects.cache
+D:\Code Developer\CSharp\Visual Studio Coder\Console\ProcessClose\ProcessClose\obj\Debug\ProcessClose.csproj.CoreCompileInputs.cache
+D:\Code Developer\CSharp\Visual Studio Coder\Console\ProcessClose\ProcessClose\obj\Debug\ProcessClose.exe
+D:\Code Developer\CSharp\Visual Studio Coder\Console\ProcessClose\ProcessClose\obj\Debug\ProcessClose.pdb

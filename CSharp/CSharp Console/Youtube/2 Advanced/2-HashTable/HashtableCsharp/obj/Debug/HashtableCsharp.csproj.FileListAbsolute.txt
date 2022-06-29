@@ -1,0 +1,7 @@
+D:\Data App\CSharp\Advanced\Application\2-Hashtable\HashtableCsharp\bin\Debug\HashtableCsharp.exe.config
+D:\Data App\CSharp\Advanced\Application\2-Hashtable\HashtableCsharp\bin\Debug\HashtableCsharp.exe
+D:\Data App\CSharp\Advanced\Application\2-Hashtable\HashtableCsharp\bin\Debug\HashtableCsharp.pdb
+D:\Data App\CSharp\Advanced\Application\2-Hashtable\HashtableCsharp\obj\Debug\HashtableCsharp.csproj.CoreCompileInputs.cache
+D:\Data App\CSharp\Advanced\Application\2-Hashtable\HashtableCsharp\obj\Debug\HashtableCsharp.exe
+D:\Data App\CSharp\Advanced\Application\2-Hashtable\HashtableCsharp\obj\Debug\HashtableCsharp.pdb
+D:\Data App\CSharp\Advanced\Application\2-HashTable\HashtableCsharp\obj\Debug\HashtableCsharp.csprojAssemblyReference.cache

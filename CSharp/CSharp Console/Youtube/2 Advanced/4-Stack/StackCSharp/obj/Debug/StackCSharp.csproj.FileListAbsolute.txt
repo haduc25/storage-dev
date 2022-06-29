@@ -1,0 +1,7 @@
+D:\Data App\CSharp\Advanced\Application\4-Stack\StackCSharp\bin\Debug\StackCSharp.exe.config
+D:\Data App\CSharp\Advanced\Application\4-Stack\StackCSharp\bin\Debug\StackCSharp.exe
+D:\Data App\CSharp\Advanced\Application\4-Stack\StackCSharp\bin\Debug\StackCSharp.pdb
+D:\Data App\CSharp\Advanced\Application\4-Stack\StackCSharp\obj\Debug\StackCSharp.csprojAssemblyReference.cache
+D:\Data App\CSharp\Advanced\Application\4-Stack\StackCSharp\obj\Debug\StackCSharp.csproj.CoreCompileInputs.cache
+D:\Data App\CSharp\Advanced\Application\4-Stack\StackCSharp\obj\Debug\StackCSharp.exe
+D:\Data App\CSharp\Advanced\Application\4-Stack\StackCSharp\obj\Debug\StackCSharp.pdb

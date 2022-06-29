@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\12-IList\IListCSharp\obj\Debug\IListCSharp.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\12-IList\IListCSharp\obj\Debug\IListCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\12-IList\IListCSharp\bin\Debug\IListCSharp.exe.config
+C:\Users\Admin\source\repos\12-IList\IListCSharp\bin\Debug\IListCSharp.exe
+C:\Users\Admin\source\repos\12-IList\IListCSharp\bin\Debug\IListCSharp.pdb
+C:\Users\Admin\source\repos\12-IList\IListCSharp\obj\Debug\IListCSharp.exe
+C:\Users\Admin\source\repos\12-IList\IListCSharp\obj\Debug\IListCSharp.pdb
+D:\Code Developer\CSharp\Template\12-IList\IListCSharp\bin\Debug\IListCSharp.exe.config
+D:\Code Developer\CSharp\Template\12-IList\IListCSharp\bin\Debug\IListCSharp.exe
+D:\Code Developer\CSharp\Template\12-IList\IListCSharp\bin\Debug\IListCSharp.pdb
+D:\Code Developer\CSharp\Template\12-IList\IListCSharp\obj\Debug\IListCSharp.csproj.AssemblyReference.cache
+D:\Code Developer\CSharp\Template\12-IList\IListCSharp\obj\Debug\IListCSharp.csproj.SuggestedBindingRedirects.cache
+D:\Code Developer\CSharp\Template\12-IList\IListCSharp\obj\Debug\IListCSharp.csproj.CoreCompileInputs.cache
+D:\Code Developer\CSharp\Template\12-IList\IListCSharp\obj\Debug\IListCSharp.exe
+D:\Code Developer\CSharp\Template\12-IList\IListCSharp\obj\Debug\IListCSharp.pdb

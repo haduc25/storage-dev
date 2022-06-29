@@ -1,0 +1,26 @@
+=>(Bai 3)
+//tinh chu vi, dien tich hinh tron
+
+=>(Bai 4)
+//tim so chinh phuong
+
+=>(Bai 5)
+//bai toan chó, gà
+
+=>(Bai 6)
+//tim snt
+
+->(Bai 7)
+// tinh gt
+
+
+->(Bai 8)
+// tinh gt
+
+
+->(Bai 9)
+// tinh dien tich hcn
+
+
+
+
