@@ -1,0 +1,16 @@
+Bài 5: Sử dụng ngôn ngữ lập
+trình C# viết chương trình giải bài toán sau:
+
+Tìm số gà và số
+chó, biết:
+
+
+Vừa
+gà vừa chó Bó lại cho tròn Ba mươi sáu con
+
+
+Một trăm chân chẵn
+
+
+Hỏi có bao nhiêu
+gà, bao nhiêu chó

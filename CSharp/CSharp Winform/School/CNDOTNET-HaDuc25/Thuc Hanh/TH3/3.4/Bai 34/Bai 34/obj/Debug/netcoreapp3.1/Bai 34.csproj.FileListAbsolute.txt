@@ -1,0 +1,13 @@
+C:\Users\Administrator\Desktop\BT CSharp\Thuc Hanh 3\Bai 34\Bai 34\bin\Debug\netcoreapp3.1\Bai 34.exe
+C:\Users\Administrator\Desktop\BT CSharp\Thuc Hanh 3\Bai 34\Bai 34\bin\Debug\netcoreapp3.1\Bai 34.deps.json
+C:\Users\Administrator\Desktop\BT CSharp\Thuc Hanh 3\Bai 34\Bai 34\bin\Debug\netcoreapp3.1\Bai 34.runtimeconfig.json
+C:\Users\Administrator\Desktop\BT CSharp\Thuc Hanh 3\Bai 34\Bai 34\bin\Debug\netcoreapp3.1\Bai 34.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\BT CSharp\Thuc Hanh 3\Bai 34\Bai 34\bin\Debug\netcoreapp3.1\Bai 34.dll
+C:\Users\Administrator\Desktop\BT CSharp\Thuc Hanh 3\Bai 34\Bai 34\bin\Debug\netcoreapp3.1\Bai 34.pdb
+C:\Users\Administrator\Desktop\BT CSharp\Thuc Hanh 3\Bai 34\Bai 34\obj\Debug\netcoreapp3.1\Bai 34.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\BT CSharp\Thuc Hanh 3\Bai 34\Bai 34\obj\Debug\netcoreapp3.1\Bai 34.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\BT CSharp\Thuc Hanh 3\Bai 34\Bai 34\obj\Debug\netcoreapp3.1\Bai 34.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\BT CSharp\Thuc Hanh 3\Bai 34\Bai 34\obj\Debug\netcoreapp3.1\Bai 34.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\BT CSharp\Thuc Hanh 3\Bai 34\Bai 34\obj\Debug\netcoreapp3.1\Bai 34.dll
+C:\Users\Administrator\Desktop\BT CSharp\Thuc Hanh 3\Bai 34\Bai 34\obj\Debug\netcoreapp3.1\Bai 34.pdb
+C:\Users\Administrator\Desktop\BT CSharp\Thuc Hanh 3\Bai 34\Bai 34\obj\Debug\netcoreapp3.1\Bai 34.genruntimeconfig.cache

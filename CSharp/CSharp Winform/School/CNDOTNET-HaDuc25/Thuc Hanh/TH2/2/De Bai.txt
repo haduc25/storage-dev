@@ -1,0 +1,39 @@
+Bài 1: Viết
+chương trình nhập vào một mảng một chiều và thực hiện:
+
+
+1)    
+Đếm số phần tử xuất hiện nhiều nhất trong mảng
+
+
+2)    
+Tìm số lẻ nhỏ nhất lớn hơn mọi số chẵn có trong mảng
+
+
+3)    
+Xoá tất cả những phần tử trùng nhau
+trong dãy chỉ giữ lại một phần tử trong đó. Ví dụ: 1 6 2 3 2 4 2 6 5 => 1 6 2 3
+4 5
+
+
+Bài 2: Viết
+chương trình nhập vào 2 mảng một chiều và thực hiện:
+
+
+Tìm dãy con chung
+dài nhất của 2 mảng đã nhập
+
+
+Bài 3: Viết chương trình nhập vào 2 ma trận và thực hiện:
+
+
+1)    
+Tính tích 2 ma trận đã nhập
+
+
+2)    
+In ra ma trận tam giác trên của ma trận kết quả
+
+
+3)    
+Tính định thức của ma trận kết quả

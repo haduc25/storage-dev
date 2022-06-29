@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\BT Nhóm\Example\Example\obj\Debug\netcoreapp3.1\Example.Form1.resources
+C:\Users\Administrator\Desktop\BT Nhóm\Example\Example\obj\Debug\netcoreapp3.1\Example.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\BT Nhóm\Example\Example\obj\Debug\netcoreapp3.1\Example.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\BT Nhóm\Example\Example\obj\Debug\netcoreapp3.1\Example.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\BT Nhóm\Example\Example\obj\Debug\netcoreapp3.1\Example.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\BT Nhóm\Example\Example\bin\Debug\netcoreapp3.1\Example.exe
+C:\Users\Administrator\Desktop\BT Nhóm\Example\Example\bin\Debug\netcoreapp3.1\Example.deps.json
+C:\Users\Administrator\Desktop\BT Nhóm\Example\Example\bin\Debug\netcoreapp3.1\Example.runtimeconfig.json
+C:\Users\Administrator\Desktop\BT Nhóm\Example\Example\bin\Debug\netcoreapp3.1\Example.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\BT Nhóm\Example\Example\bin\Debug\netcoreapp3.1\Example.dll
+C:\Users\Administrator\Desktop\BT Nhóm\Example\Example\bin\Debug\netcoreapp3.1\Example.pdb
+C:\Users\Administrator\Desktop\BT Nhóm\Example\Example\obj\Debug\netcoreapp3.1\Example.dll
+C:\Users\Administrator\Desktop\BT Nhóm\Example\Example\obj\Debug\netcoreapp3.1\Example.pdb
+C:\Users\Administrator\Desktop\BT Nhóm\Example\Example\obj\Debug\netcoreapp3.1\Example.genruntimeconfig.cache

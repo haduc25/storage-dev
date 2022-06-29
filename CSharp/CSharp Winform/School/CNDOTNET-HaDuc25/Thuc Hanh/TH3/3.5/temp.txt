@@ -1,0 +1,73 @@
+using System;
+using System.Collections.Generic;
+using System.Text;
+
+namespace Bai_35
+{
+    class TamGiac
+    {
+        private double canhA;
+        private double canhB;
+        private double canhC;
+
+        public double CanhA { get => canhA; set => canhA = value; }
+        public double CanhB { get => canhB; set => canhB = value; }
+        public double CanhC { get => canhC; set => canhC = value; }
+
+
+
+        public void isTriangle()
+        {
+            if(CanhA < CanhB + CanhC && CanhB < CanhA + CanhA + CanhC && CanhC < CanhA + CanhB)
+            {
+                if (CanhA * CanhA == CanhB * CanhB + CanhC * CanhC || CanhB * CanhB == CanhA * CanhA + CanhC * CanhC || CanhC * CanhC == CanhA * CanhA + CanhB * CanhB)
+                {
+                    //chu vi tam giac vuong
+                    double cv3gv = CanhA + CanhB + CanhC;
+                    //dien tich tam giac vuong
+                    double dt3gv = (CanhA * CanhB) / 2;
+                    Console.WriteLine("Chu vi: {0}\nDien Tich: {1}\n=>Day la tam giac vuong!",cv3gv,dt3gv);
+                }else if (CanhA == CanhB && CanhB == CanhC)
+                {
+                    double cv3gd = 3 * CanhA;
+                    double dt3gd = (1.73 * CanhA * CanhA) /  4;
+                    Console.WriteLine("Chu vi: {0}\nDien Tich: {1}\n=>Day la tam giac deu!", cv3gd, dt3gd);
+                }
+                else if(CanhA == CanhB || CanhA == CanhC || CanhB == CanhC)
+                {
+                    double cv3gc = 2 * CanhA + CanhC;
+                    double dt3gc = (1.73 * CanhA * CanhA) / 4;
+                    Console.WriteLine("Day la tam giac can");
+                }
+                else
+                {
+                    double cv3gc = CanhA + CanhB + CanhC;
+                    Console.WriteLine("Day la tam giac thuong");
+                }
+            }
+            else
+            {
+                Console.WriteLine("Canh A, B, C khong phai la 3 canh cua mot tam giac");
+            }
+              
+        }
+
+        public void Nhap()
+        {
+
+            Console.Write("Nhap canh A: ");
+            this.canhA = Convert.ToDouble(Console.ReadLine());
+            Console.Write("Nhap canh B: ");
+            this.canhB = Convert.ToDouble(Console.ReadLine());
+            Console.Write("Nhap canh C: ");
+            this.canhC = Convert.ToDouble(Console.ReadLine());
+        }
+
+        public void Xuat()
+        {
+            Console.WriteLine("Canh A: " + this.CanhA);
+            Console.WriteLine("Canh B: " + this.CanhB);
+            Console.WriteLine("Canh C: " + this.CanhC);
+        }
+    }
+}

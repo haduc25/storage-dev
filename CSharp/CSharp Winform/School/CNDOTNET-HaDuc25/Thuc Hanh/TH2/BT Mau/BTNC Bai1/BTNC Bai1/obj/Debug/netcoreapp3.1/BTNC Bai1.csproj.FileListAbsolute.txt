@@ -1,0 +1,13 @@
+D:\Code Developer\Subjects\DOT Net\TH2\BTNC Bai1\BTNC Bai1\bin\Debug\netcoreapp3.1\BTNC Bai1.exe
+D:\Code Developer\Subjects\DOT Net\TH2\BTNC Bai1\BTNC Bai1\bin\Debug\netcoreapp3.1\BTNC Bai1.deps.json
+D:\Code Developer\Subjects\DOT Net\TH2\BTNC Bai1\BTNC Bai1\bin\Debug\netcoreapp3.1\BTNC Bai1.runtimeconfig.json
+D:\Code Developer\Subjects\DOT Net\TH2\BTNC Bai1\BTNC Bai1\bin\Debug\netcoreapp3.1\BTNC Bai1.runtimeconfig.dev.json
+D:\Code Developer\Subjects\DOT Net\TH2\BTNC Bai1\BTNC Bai1\bin\Debug\netcoreapp3.1\BTNC Bai1.dll
+D:\Code Developer\Subjects\DOT Net\TH2\BTNC Bai1\BTNC Bai1\bin\Debug\netcoreapp3.1\BTNC Bai1.pdb
+D:\Code Developer\Subjects\DOT Net\TH2\BTNC Bai1\BTNC Bai1\obj\Debug\netcoreapp3.1\BTNC Bai1.csprojAssemblyReference.cache
+D:\Code Developer\Subjects\DOT Net\TH2\BTNC Bai1\BTNC Bai1\obj\Debug\netcoreapp3.1\BTNC Bai1.AssemblyInfoInputs.cache
+D:\Code Developer\Subjects\DOT Net\TH2\BTNC Bai1\BTNC Bai1\obj\Debug\netcoreapp3.1\BTNC Bai1.AssemblyInfo.cs
+D:\Code Developer\Subjects\DOT Net\TH2\BTNC Bai1\BTNC Bai1\obj\Debug\netcoreapp3.1\BTNC Bai1.csproj.CoreCompileInputs.cache
+D:\Code Developer\Subjects\DOT Net\TH2\BTNC Bai1\BTNC Bai1\obj\Debug\netcoreapp3.1\BTNC Bai1.dll
+D:\Code Developer\Subjects\DOT Net\TH2\BTNC Bai1\BTNC Bai1\obj\Debug\netcoreapp3.1\BTNC Bai1.pdb
+D:\Code Developer\Subjects\DOT Net\TH2\BTNC Bai1\BTNC Bai1\obj\Debug\netcoreapp3.1\BTNC Bai1.genruntimeconfig.cache

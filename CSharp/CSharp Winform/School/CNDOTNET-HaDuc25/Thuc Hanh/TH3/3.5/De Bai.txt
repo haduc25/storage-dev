@@ -1,0 +1,7 @@
+Bài 5: Xây dựng lớp tam giác với các thuộc tính là 3 cạnh của tam giác xây
+dựng các phương thức:
+1) Nhập tam giác, In tam giác
+2)   Xây dựng các phương thức tính chu vi, diện tích tam
+giác đó
+3)    Xây dựng phương thức kiểm tra xem
+tam giác đó là tam giác gì ( tam giác thường, cân, đều, vuông )

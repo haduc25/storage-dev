@@ -1,0 +1,13 @@
+D:\Code Developer\CSharp\Project_CSharp\Winfrom\test\test\bin\Debug\netcoreapp3.1\test.exe
+D:\Code Developer\CSharp\Project_CSharp\Winfrom\test\test\bin\Debug\netcoreapp3.1\test.deps.json
+D:\Code Developer\CSharp\Project_CSharp\Winfrom\test\test\bin\Debug\netcoreapp3.1\test.runtimeconfig.json
+D:\Code Developer\CSharp\Project_CSharp\Winfrom\test\test\bin\Debug\netcoreapp3.1\test.runtimeconfig.dev.json
+D:\Code Developer\CSharp\Project_CSharp\Winfrom\test\test\bin\Debug\netcoreapp3.1\test.dll
+D:\Code Developer\CSharp\Project_CSharp\Winfrom\test\test\bin\Debug\netcoreapp3.1\test.pdb
+D:\Code Developer\CSharp\Project_CSharp\Winfrom\test\test\obj\Debug\netcoreapp3.1\test.csprojAssemblyReference.cache
+D:\Code Developer\CSharp\Project_CSharp\Winfrom\test\test\obj\Debug\netcoreapp3.1\test.AssemblyInfoInputs.cache
+D:\Code Developer\CSharp\Project_CSharp\Winfrom\test\test\obj\Debug\netcoreapp3.1\test.AssemblyInfo.cs
+D:\Code Developer\CSharp\Project_CSharp\Winfrom\test\test\obj\Debug\netcoreapp3.1\test.csproj.CoreCompileInputs.cache
+D:\Code Developer\CSharp\Project_CSharp\Winfrom\test\test\obj\Debug\netcoreapp3.1\test.dll
+D:\Code Developer\CSharp\Project_CSharp\Winfrom\test\test\obj\Debug\netcoreapp3.1\test.pdb
+D:\Code Developer\CSharp\Project_CSharp\Winfrom\test\test\obj\Debug\netcoreapp3.1\test.genruntimeconfig.cache

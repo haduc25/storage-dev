@@ -1,0 +1,16 @@
+C:\Users\Administrator\Desktop\BaiThi\BaiThi\bin\Debug\net5.0\BaiThi.exe
+C:\Users\Administrator\Desktop\BaiThi\BaiThi\bin\Debug\net5.0\BaiThi.deps.json
+C:\Users\Administrator\Desktop\BaiThi\BaiThi\bin\Debug\net5.0\BaiThi.runtimeconfig.json
+C:\Users\Administrator\Desktop\BaiThi\BaiThi\bin\Debug\net5.0\BaiThi.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\BaiThi\BaiThi\bin\Debug\net5.0\BaiThi.dll
+C:\Users\Administrator\Desktop\BaiThi\BaiThi\bin\Debug\net5.0\ref\BaiThi.dll
+C:\Users\Administrator\Desktop\BaiThi\BaiThi\bin\Debug\net5.0\BaiThi.pdb
+C:\Users\Administrator\Desktop\BaiThi\BaiThi\obj\Debug\net5.0\BaiThi.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\BaiThi\BaiThi\obj\Debug\net5.0\BaiThi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\BaiThi\BaiThi\obj\Debug\net5.0\BaiThi.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\BaiThi\BaiThi\obj\Debug\net5.0\BaiThi.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\BaiThi\BaiThi\obj\Debug\net5.0\BaiThi.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\BaiThi\BaiThi\obj\Debug\net5.0\BaiThi.dll
+C:\Users\Administrator\Desktop\BaiThi\BaiThi\obj\Debug\net5.0\ref\BaiThi.dll
+C:\Users\Administrator\Desktop\BaiThi\BaiThi\obj\Debug\net5.0\BaiThi.pdb
+C:\Users\Administrator\Desktop\BaiThi\BaiThi\obj\Debug\net5.0\BaiThi.genruntimeconfig.cache

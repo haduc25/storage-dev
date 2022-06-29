@@ -1,0 +1,26 @@
+C:\Users\Administrator\source\repos\ViDu2\ViDu2\bin\Debug\netcoreapp3.1\ViDu2.exe
+C:\Users\Administrator\source\repos\ViDu2\ViDu2\bin\Debug\netcoreapp3.1\ViDu2.deps.json
+C:\Users\Administrator\source\repos\ViDu2\ViDu2\bin\Debug\netcoreapp3.1\ViDu2.runtimeconfig.json
+C:\Users\Administrator\source\repos\ViDu2\ViDu2\bin\Debug\netcoreapp3.1\ViDu2.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\ViDu2\ViDu2\bin\Debug\netcoreapp3.1\ViDu2.dll
+C:\Users\Administrator\source\repos\ViDu2\ViDu2\bin\Debug\netcoreapp3.1\ViDu2.pdb
+C:\Users\Administrator\source\repos\ViDu2\ViDu2\obj\Debug\netcoreapp3.1\ViDu2.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\ViDu2\ViDu2\obj\Debug\netcoreapp3.1\ViDu2.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\ViDu2\ViDu2\obj\Debug\netcoreapp3.1\ViDu2.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\ViDu2\ViDu2\obj\Debug\netcoreapp3.1\ViDu2.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\ViDu2\ViDu2\obj\Debug\netcoreapp3.1\ViDu2.dll
+C:\Users\Administrator\source\repos\ViDu2\ViDu2\obj\Debug\netcoreapp3.1\ViDu2.pdb
+C:\Users\Administrator\source\repos\ViDu2\ViDu2\obj\Debug\netcoreapp3.1\ViDu2.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\BT Nhóm\ViDu2\ViDu2\bin\Debug\netcoreapp3.1\ViDu2.exe
+C:\Users\Administrator\Desktop\BT Nhóm\ViDu2\ViDu2\bin\Debug\netcoreapp3.1\ViDu2.deps.json
+C:\Users\Administrator\Desktop\BT Nhóm\ViDu2\ViDu2\bin\Debug\netcoreapp3.1\ViDu2.runtimeconfig.json
+C:\Users\Administrator\Desktop\BT Nhóm\ViDu2\ViDu2\bin\Debug\netcoreapp3.1\ViDu2.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\BT Nhóm\ViDu2\ViDu2\bin\Debug\netcoreapp3.1\ViDu2.dll
+C:\Users\Administrator\Desktop\BT Nhóm\ViDu2\ViDu2\bin\Debug\netcoreapp3.1\ViDu2.pdb
+C:\Users\Administrator\Desktop\BT Nhóm\ViDu2\ViDu2\obj\Debug\netcoreapp3.1\ViDu2.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\BT Nhóm\ViDu2\ViDu2\obj\Debug\netcoreapp3.1\ViDu2.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\BT Nhóm\ViDu2\ViDu2\obj\Debug\netcoreapp3.1\ViDu2.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\BT Nhóm\ViDu2\ViDu2\obj\Debug\netcoreapp3.1\ViDu2.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\BT Nhóm\ViDu2\ViDu2\obj\Debug\netcoreapp3.1\ViDu2.dll
+C:\Users\Administrator\Desktop\BT Nhóm\ViDu2\ViDu2\obj\Debug\netcoreapp3.1\ViDu2.pdb
+C:\Users\Administrator\Desktop\BT Nhóm\ViDu2\ViDu2\obj\Debug\netcoreapp3.1\ViDu2.genruntimeconfig.cache

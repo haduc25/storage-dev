@@ -1,0 +1,21 @@
+Bài 1: Viết
+chương trình C# cho phép nhập các phần tử mảng một chiều, sau đó tìm tổng các
+phần tử của mảng và hiển thị kết quả trên màn
+hình.
+
+
+Mục đích: Giúp sinh viên làm quen với các khái niệm: khai báo mảng, khởi tạo
+mảng, và cách truy cập các phần tử của mảng trong C#.
+Bài 2: Viết chương trình C# cho phép nhập một mảng một chiều, thực hiện
+chèn thêm phần tử mới vào trong mảng sau đó in mảng trên màn hình.
+
+
+Mục tiêu:
+Bài tập chèn phần tử vào mảng là bài tập rất phổ biến trong
+mọi ngôn ngữ lập trình và có nhiều ứng dụng. Bài tập C# này giúp làm quen với
+các khái niệm: khai báo mảng, khởi tạo mảng, và cách truy cập các phần tử của
+mảng trong C#.
+Hướng dẫn:
+-        
+Để chèn một phần từ vào vị trí X ta
+thực hiện di chuyển các phẩn từ mảng ban đầu từ vị trí X sang bên phải một đơn vị

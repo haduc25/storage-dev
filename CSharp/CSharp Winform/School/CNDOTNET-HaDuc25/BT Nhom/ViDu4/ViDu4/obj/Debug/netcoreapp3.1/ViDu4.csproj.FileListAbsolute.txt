@@ -1,0 +1,12 @@
+C:\Users\Administrator\Desktop\BT Nhóm\ViDu4\ViDu4\bin\Debug\netcoreapp3.1\ViDu4.exe
+C:\Users\Administrator\Desktop\BT Nhóm\ViDu4\ViDu4\bin\Debug\netcoreapp3.1\ViDu4.deps.json
+C:\Users\Administrator\Desktop\BT Nhóm\ViDu4\ViDu4\bin\Debug\netcoreapp3.1\ViDu4.runtimeconfig.json
+C:\Users\Administrator\Desktop\BT Nhóm\ViDu4\ViDu4\bin\Debug\netcoreapp3.1\ViDu4.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\BT Nhóm\ViDu4\ViDu4\bin\Debug\netcoreapp3.1\ViDu4.dll
+C:\Users\Administrator\Desktop\BT Nhóm\ViDu4\ViDu4\bin\Debug\netcoreapp3.1\ViDu4.pdb
+C:\Users\Administrator\Desktop\BT Nhóm\ViDu4\ViDu4\obj\Debug\netcoreapp3.1\ViDu4.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\BT Nhóm\ViDu4\ViDu4\obj\Debug\netcoreapp3.1\ViDu4.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\BT Nhóm\ViDu4\ViDu4\obj\Debug\netcoreapp3.1\ViDu4.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\BT Nhóm\ViDu4\ViDu4\obj\Debug\netcoreapp3.1\ViDu4.dll
+C:\Users\Administrator\Desktop\BT Nhóm\ViDu4\ViDu4\obj\Debug\netcoreapp3.1\ViDu4.pdb
+C:\Users\Administrator\Desktop\BT Nhóm\ViDu4\ViDu4\obj\Debug\netcoreapp3.1\ViDu4.genruntimeconfig.cache

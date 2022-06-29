@@ -1,0 +1,16 @@
+D:\Code Developer\Subjects\DOT Net\Console\use Class1\use Class1\bin\Debug\net5.0\use Class1.exe
+D:\Code Developer\Subjects\DOT Net\Console\use Class1\use Class1\bin\Debug\net5.0\use Class1.deps.json
+D:\Code Developer\Subjects\DOT Net\Console\use Class1\use Class1\bin\Debug\net5.0\use Class1.runtimeconfig.json
+D:\Code Developer\Subjects\DOT Net\Console\use Class1\use Class1\bin\Debug\net5.0\use Class1.runtimeconfig.dev.json
+D:\Code Developer\Subjects\DOT Net\Console\use Class1\use Class1\bin\Debug\net5.0\use Class1.dll
+D:\Code Developer\Subjects\DOT Net\Console\use Class1\use Class1\bin\Debug\net5.0\ref\use Class1.dll
+D:\Code Developer\Subjects\DOT Net\Console\use Class1\use Class1\bin\Debug\net5.0\use Class1.pdb
+D:\Code Developer\Subjects\DOT Net\Console\use Class1\use Class1\obj\Debug\net5.0\use Class1.csprojAssemblyReference.cache
+D:\Code Developer\Subjects\DOT Net\Console\use Class1\use Class1\obj\Debug\net5.0\use Class1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code Developer\Subjects\DOT Net\Console\use Class1\use Class1\obj\Debug\net5.0\use Class1.AssemblyInfoInputs.cache
+D:\Code Developer\Subjects\DOT Net\Console\use Class1\use Class1\obj\Debug\net5.0\use Class1.AssemblyInfo.cs
+D:\Code Developer\Subjects\DOT Net\Console\use Class1\use Class1\obj\Debug\net5.0\use Class1.csproj.CoreCompileInputs.cache
+D:\Code Developer\Subjects\DOT Net\Console\use Class1\use Class1\obj\Debug\net5.0\use Class1.dll
+D:\Code Developer\Subjects\DOT Net\Console\use Class1\use Class1\obj\Debug\net5.0\ref\use Class1.dll
+D:\Code Developer\Subjects\DOT Net\Console\use Class1\use Class1\obj\Debug\net5.0\use Class1.pdb
+D:\Code Developer\Subjects\DOT Net\Console\use Class1\use Class1\obj\Debug\net5.0\use Class1.genruntimeconfig.cache

@@ -1,0 +1,9 @@
+Bài 6 : Sử dụng ngôn ngữ lập trình C# viết chương trình xét xem một số n có
+phải là số nguyên tố không?
+
+
+ Hướng dẫn: Nếu
+n không chia hết mọi số i có giá trị từ 2 đến n - 1 thì n là số nguyên tố. Sử
+dụng biến ok có kiểu int và có giá trị ban đầu là 1. Cho biến i chạy từ 2 đến n
+– 1. Xét n % i, nếu bằng 0 thì gán ok
+= 0. Ngược lại vẫn để nguyên ok.

@@ -1,0 +1,17 @@
+Bài 1. Viết một chương trình để
+cài đặt một hệ thống quản lý kho.
+ Hãy lưu trữ mã số, tên hàng, giá và số lượng đang có của mỗi món hàng trong một lớp. Nhập chi tiết của N (N nhập từ bàn phím) món hàng hiển thị tên từng món hàng và tổng giá trị của nó.
+Bài 2. Viết một chương trình để lưu trữ các sinh viên gồm: mã sinh viên, họ và
+tên và điểm trung bình của N (N nhập từ bàn phím) sinh viên.
+Hãy sắp xếp danh sách sinh viên này theo
+thứ tự điểm trung bình giảm dần. Hiển thị 3 sinh viên có điểm trung bình cao
+nhất.
+Bài 3: Xây dựng lớp
+Stack để mô phỏng một stack bao gồm:
+Phương thức khởi tạo không tham số với việc khởi tạo stack ngầm định có 20 phần tử và stack rỗng
+Phương thức khởi tạo một tham số với việc khởi tạo số phần tử của stack được truyền vào thông qua đối số của
+phương thức và stack rỗng
+Phương thức IsEmpty kiểm tra xem stack có rỗng không
+Phương thức IsFull kiểm tra xem stack có đầy không
+Phương thức Push và Pop để thêm
+vào, lấy ra một phần tử Hãy viết chương trình cài đặt lớp Stack và lớp sử dụng Stack.

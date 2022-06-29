@@ -1,0 +1,13 @@
+C:\Users\Administrator\Desktop\BT Nhóm\ExamWithPath\ExamWithPath\bin\Debug\netcoreapp3.1\ExamWithPath.exe
+C:\Users\Administrator\Desktop\BT Nhóm\ExamWithPath\ExamWithPath\bin\Debug\netcoreapp3.1\ExamWithPath.deps.json
+C:\Users\Administrator\Desktop\BT Nhóm\ExamWithPath\ExamWithPath\bin\Debug\netcoreapp3.1\ExamWithPath.runtimeconfig.json
+C:\Users\Administrator\Desktop\BT Nhóm\ExamWithPath\ExamWithPath\bin\Debug\netcoreapp3.1\ExamWithPath.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\BT Nhóm\ExamWithPath\ExamWithPath\bin\Debug\netcoreapp3.1\ExamWithPath.dll
+C:\Users\Administrator\Desktop\BT Nhóm\ExamWithPath\ExamWithPath\bin\Debug\netcoreapp3.1\ExamWithPath.pdb
+C:\Users\Administrator\Desktop\BT Nhóm\ExamWithPath\ExamWithPath\obj\Debug\netcoreapp3.1\ExamWithPath.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\BT Nhóm\ExamWithPath\ExamWithPath\obj\Debug\netcoreapp3.1\ExamWithPath.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\BT Nhóm\ExamWithPath\ExamWithPath\obj\Debug\netcoreapp3.1\ExamWithPath.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\BT Nhóm\ExamWithPath\ExamWithPath\obj\Debug\netcoreapp3.1\ExamWithPath.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\BT Nhóm\ExamWithPath\ExamWithPath\obj\Debug\netcoreapp3.1\ExamWithPath.dll
+C:\Users\Administrator\Desktop\BT Nhóm\ExamWithPath\ExamWithPath\obj\Debug\netcoreapp3.1\ExamWithPath.pdb
+C:\Users\Administrator\Desktop\BT Nhóm\ExamWithPath\ExamWithPath\obj\Debug\netcoreapp3.1\ExamWithPath.genruntimeconfig.cache

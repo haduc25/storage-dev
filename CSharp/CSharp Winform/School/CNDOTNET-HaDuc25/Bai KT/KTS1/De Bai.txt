@@ -1,0 +1,18 @@
+CẤU TRÚC ĐỀ THI
+ BA CÂU HỎI(2 BÀI TẬP, CÂU HỎI GIÁO VIÊN), HÌNH THỨC THI VẤN ĐÁP MÁY
+ CÂU 1: (3 ĐIỂM)
+ - C# căn bản
+ - Lập trình hướng đối tượng với C#
+ CÂU 2: (5 ĐIỂM)
+ - Windows Form
+ - Kết nối CSDL (ADO.NET)
+ CÂU 3: (2 ĐIỂM) HỎI THÊM
+CHO CSDL QUẢN LÝ THU VIỆN GỒM 3 BẢNG:
+
+
+ -- YÊU CẦU:
+ 1. TẠO GIAO DIỆN GỒM CÁC FORM:
+ - 3 FORM NHẬP (NHẬP SÁCH, NHẬP ĐỘC GIẢ, CHO MƯỢN SÁCH) (HIỂN THỊ DỮ LIỆU VỪA NHẬP)
+-- CHỨC NĂNG SỬA DỮ LIỆU
+-- CHỨC NĂNG XÓA DỮ LIỆU
+-- CHỨC NĂNG TÌM KIẾM

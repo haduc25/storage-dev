@@ -1,0 +1,23 @@
+Bài 2: Viết chương trình nhập vào
+một ma trận và thực hiện:
+
+
+1)    
+Tính tổng các phần tử trên cùng một dòng
+
+
+2)    
+Tính tổng các phần tử trên cùng một cột
+
+
+3)    
+Tính tổng các phần tử trên đường chéo chính
+
+
+4)    
+Tìm ma trận chuyển vị của ma trận vừa nhập
+
+
+5)    
+Sắp xếp các phần tử của ma trận theo chiều tăng,
+giảm dần

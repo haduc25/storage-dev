@@ -1,0 +1,15 @@
+D:\Code Developer\Subjects\BT CSharp\Thuc hanh 4\Bai45\Bai45\bin\Debug\netcoreapp3.1\Bai45.exe
+D:\Code Developer\Subjects\BT CSharp\Thuc hanh 4\Bai45\Bai45\bin\Debug\netcoreapp3.1\Bai45.deps.json
+D:\Code Developer\Subjects\BT CSharp\Thuc hanh 4\Bai45\Bai45\bin\Debug\netcoreapp3.1\Bai45.runtimeconfig.json
+D:\Code Developer\Subjects\BT CSharp\Thuc hanh 4\Bai45\Bai45\bin\Debug\netcoreapp3.1\Bai45.runtimeconfig.dev.json
+D:\Code Developer\Subjects\BT CSharp\Thuc hanh 4\Bai45\Bai45\bin\Debug\netcoreapp3.1\Bai45.dll
+D:\Code Developer\Subjects\BT CSharp\Thuc hanh 4\Bai45\Bai45\bin\Debug\netcoreapp3.1\Bai45.pdb
+D:\Code Developer\Subjects\BT CSharp\Thuc hanh 4\Bai45\Bai45\obj\Debug\netcoreapp3.1\Bai45.csprojAssemblyReference.cache
+D:\Code Developer\Subjects\BT CSharp\Thuc hanh 4\Bai45\Bai45\obj\Debug\netcoreapp3.1\Bai45.Form1.resources
+D:\Code Developer\Subjects\BT CSharp\Thuc hanh 4\Bai45\Bai45\obj\Debug\netcoreapp3.1\Bai45.csproj.GenerateResource.cache
+D:\Code Developer\Subjects\BT CSharp\Thuc hanh 4\Bai45\Bai45\obj\Debug\netcoreapp3.1\Bai45.AssemblyInfoInputs.cache
+D:\Code Developer\Subjects\BT CSharp\Thuc hanh 4\Bai45\Bai45\obj\Debug\netcoreapp3.1\Bai45.AssemblyInfo.cs
+D:\Code Developer\Subjects\BT CSharp\Thuc hanh 4\Bai45\Bai45\obj\Debug\netcoreapp3.1\Bai45.csproj.CoreCompileInputs.cache
+D:\Code Developer\Subjects\BT CSharp\Thuc hanh 4\Bai45\Bai45\obj\Debug\netcoreapp3.1\Bai45.dll
+D:\Code Developer\Subjects\BT CSharp\Thuc hanh 4\Bai45\Bai45\obj\Debug\netcoreapp3.1\Bai45.pdb
+D:\Code Developer\Subjects\BT CSharp\Thuc hanh 4\Bai45\Bai45\obj\Debug\netcoreapp3.1\Bai45.genruntimeconfig.cache

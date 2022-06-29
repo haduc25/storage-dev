@@ -1,0 +1,31 @@
+Bài 1 : Viết chương trình nhập vào một mảng một chiều và thực
+hiện:
+
+
+1)    
+Liệt kê các phần tử
+dương
+
+
+2)    
+Liệt kê các phần tử lẽ ở vị trị chẵn.
+
+
+3)    
+Liệt kê các số nguyên tố, số chính phương, số hoàn
+hảo trong mảng.
+
+
+4)    
+Tìm phần tử lớn nhất, nhỏ nhất trong mảng một chiều
+
+
+5)    
+Xóa một phần tử khỏi mảng
+
+
+6)    
+Xóa tất cả phần tử = x.
+
+Sắp xếp mảng theo
+chiều tăng , giảm dần.

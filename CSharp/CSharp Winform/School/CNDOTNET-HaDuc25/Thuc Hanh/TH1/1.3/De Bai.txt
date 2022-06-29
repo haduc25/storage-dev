@@ -1,0 +1,4 @@
+Bài 3: Viết chương trình nhập bán kính hình tròn, xuất chu vi, diện tích của hình tròn đó.
+Hướng dẫn:
+-         Đặt const double pi = 3.14
+-         Tính chu vi và diện tích hình tròn

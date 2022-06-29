@@ -1,0 +1,13 @@
+C:\Users\Administrator\Desktop\BT Nhóm\ViDu5\ViDu5\bin\Debug\netcoreapp3.1\ViDu5.exe
+C:\Users\Administrator\Desktop\BT Nhóm\ViDu5\ViDu5\bin\Debug\netcoreapp3.1\ViDu5.deps.json
+C:\Users\Administrator\Desktop\BT Nhóm\ViDu5\ViDu5\bin\Debug\netcoreapp3.1\ViDu5.runtimeconfig.json
+C:\Users\Administrator\Desktop\BT Nhóm\ViDu5\ViDu5\bin\Debug\netcoreapp3.1\ViDu5.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\BT Nhóm\ViDu5\ViDu5\bin\Debug\netcoreapp3.1\ViDu5.dll
+C:\Users\Administrator\Desktop\BT Nhóm\ViDu5\ViDu5\bin\Debug\netcoreapp3.1\ViDu5.pdb
+C:\Users\Administrator\Desktop\BT Nhóm\ViDu5\ViDu5\obj\Debug\netcoreapp3.1\ViDu5.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\BT Nhóm\ViDu5\ViDu5\obj\Debug\netcoreapp3.1\ViDu5.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\BT Nhóm\ViDu5\ViDu5\obj\Debug\netcoreapp3.1\ViDu5.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\BT Nhóm\ViDu5\ViDu5\obj\Debug\netcoreapp3.1\ViDu5.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\BT Nhóm\ViDu5\ViDu5\obj\Debug\netcoreapp3.1\ViDu5.dll
+C:\Users\Administrator\Desktop\BT Nhóm\ViDu5\ViDu5\obj\Debug\netcoreapp3.1\ViDu5.pdb
+C:\Users\Administrator\Desktop\BT Nhóm\ViDu5\ViDu5\obj\Debug\netcoreapp3.1\ViDu5.genruntimeconfig.cache

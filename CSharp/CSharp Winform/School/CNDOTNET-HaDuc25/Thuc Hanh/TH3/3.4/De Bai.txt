@@ -1,0 +1,9 @@
+Bài 4 Viết chương trình quản lý sinh viên của một trường. Biết rằng mỗi sinh
+viên gồm có các thuộc tính sau: mã sinh viên, Họ tên, ngày tháng năm sinh, Điểm
+toán, điểm văn, điểm anh, chuyên ngành đào tạo
+1)    Chương trình cho phép nhập danh
+sách sinh viên, sau đó in danh sách sinh viên
+cùng với điểm trung bình của họ ra màn hình điểm trung bình được tính là (điểm
+toán + điểm văn +điểm anh )/3
+2)  In ra danh sách những sinh viên có điểm trung bình cao trên 5.0 ra màn hình.
+Thông tin hiển thị có dạng Họ tên, Chuyên ngành đào tạo, Điểm trung bình.
