@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "3ce7650d-de5e-4df0-82c1-a2036cac98dc": {
+      "ProjectGuid": "3ce7650d-de5e-4df0-82c1-a2036cac98dc",
+      "DisplayName": "Facebook auto Login",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

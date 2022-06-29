@@ -1,0 +1,14 @@
+D:\Code Developer\CSharp\Project_CSharp\Winfrom\Project 2021\getUser\getUser\bin\Debug\net48\getUser.exe.config
+D:\Code Developer\CSharp\Project_CSharp\Winfrom\Project 2021\getUser\getUser\bin\Debug\net48\getUser.exe
+D:\Code Developer\CSharp\Project_CSharp\Winfrom\Project 2021\getUser\getUser\bin\Debug\net48\getUser.pdb
+D:\Code Developer\CSharp\Project_CSharp\Winfrom\Project 2021\getUser\getUser\bin\Debug\net48\System.CodeDom.dll
+D:\Code Developer\CSharp\Project_CSharp\Winfrom\Project 2021\getUser\getUser\obj\Debug\net48\getUser.Form1.resources
+D:\Code Developer\CSharp\Project_CSharp\Winfrom\Project 2021\getUser\getUser\obj\Debug\net48\getUser.csproj.GenerateResource.cache
+D:\Code Developer\CSharp\Project_CSharp\Winfrom\Project 2021\getUser\getUser\obj\Debug\net48\getUser.AssemblyInfoInputs.cache
+D:\Code Developer\CSharp\Project_CSharp\Winfrom\Project 2021\getUser\getUser\obj\Debug\net48\getUser.AssemblyInfo.cs
+D:\Code Developer\CSharp\Project_CSharp\Winfrom\Project 2021\getUser\getUser\obj\Debug\net48\getUser.csproj.CoreCompileInputs.cache
+D:\Code Developer\CSharp\Project_CSharp\Winfrom\Project 2021\getUser\getUser\obj\Debug\net48\getUser.csproj.CopyComplete
+D:\Code Developer\CSharp\Project_CSharp\Winfrom\Project 2021\getUser\getUser\obj\Debug\net48\getUser.exe
+D:\Code Developer\CSharp\Project_CSharp\Winfrom\Project 2021\getUser\getUser\obj\Debug\net48\getUser.pdb
+D:\Code Developer\CSharp\Project_CSharp\Winfrom\Project 2021\getUser\getUser\obj\Debug\net48\getUser.csprojAssemblyReference.cache
+D:\Code Developer\CSharp\Project_CSharp\Winfrom\Project 2021\getUser\getUser\bin\Debug\net48\Ionic.Zip.dll

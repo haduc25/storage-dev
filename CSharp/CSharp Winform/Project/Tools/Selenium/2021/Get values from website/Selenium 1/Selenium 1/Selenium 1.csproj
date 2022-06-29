@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>Selenium_1</RootNamespace>
+    <UseWindowsForms>true</UseWindowsForms>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Selenium.WebDriver" Version="4.1.0" />
+    <PackageReference Include="Selenium.WebDriver.ChromeDriver" Version="96.0.4664.4500" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="AutoItX3.Assembly">
+      <HintPath>bin\AutoITX3\AutoItX3.Assembly.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

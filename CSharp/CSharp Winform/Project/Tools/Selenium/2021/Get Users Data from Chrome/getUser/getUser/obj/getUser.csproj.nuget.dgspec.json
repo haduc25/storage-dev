@@ -1,0 +1,50 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Code Developer\\CSharp\\Winforms\\Project 2021\\getUser\\getUser\\getUser.csproj": {}
+  },
+  "projects": {
+    "D:\\Code Developer\\CSharp\\Winforms\\Project 2021\\getUser\\getUser\\getUser.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Code Developer\\CSharp\\Winforms\\Project 2021\\getUser\\getUser\\getUser.csproj",
+        "projectName": "getUser",
+        "projectPath": "D:\\Code Developer\\CSharp\\Winforms\\Project 2021\\getUser\\getUser\\getUser.csproj",
+        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+        "outputPath": "D:\\Code Developer\\CSharp\\Winforms\\Project 2021\\getUser\\getUser\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net48"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net48": {
+            "targetAlias": "net48",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net48": {
+          "targetAlias": "net48",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win7-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

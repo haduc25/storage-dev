@@ -1,0 +1,39 @@
+D:\Code Developer\CSharp\Project_CSharp\Winfrom\Project 2021\Facebook auto Login\Facebook auto Login\bin\Debug\netcoreapp3.1\Facebook auto Login.exe
+D:\Code Developer\CSharp\Project_CSharp\Winfrom\Project 2021\Facebook auto Login\Facebook auto Login\bin\Debug\netcoreapp3.1\Facebook auto Login.deps.json
+D:\Code Developer\CSharp\Project_CSharp\Winfrom\Project 2021\Facebook auto Login\Facebook auto Login\bin\Debug\netcoreapp3.1\Facebook auto Login.runtimeconfig.json
+D:\Code Developer\CSharp\Project_CSharp\Winfrom\Project 2021\Facebook auto Login\Facebook auto Login\bin\Debug\netcoreapp3.1\Facebook auto Login.runtimeconfig.dev.json
+D:\Code Developer\CSharp\Project_CSharp\Winfrom\Project 2021\Facebook auto Login\Facebook auto Login\bin\Debug\netcoreapp3.1\Facebook auto Login.dll
+D:\Code Developer\CSharp\Project_CSharp\Winfrom\Project 2021\Facebook auto Login\Facebook auto Login\bin\Debug\netcoreapp3.1\Facebook auto Login.pdb
+D:\Code Developer\CSharp\Project_CSharp\Winfrom\Project 2021\Facebook auto Login\Facebook auto Login\obj\Debug\netcoreapp3.1\Facebook_auto_Login.Form1.resources
+D:\Code Developer\CSharp\Project_CSharp\Winfrom\Project 2021\Facebook auto Login\Facebook auto Login\obj\Debug\netcoreapp3.1\Facebook auto Login.csproj.GenerateResource.cache
+D:\Code Developer\CSharp\Project_CSharp\Winfrom\Project 2021\Facebook auto Login\Facebook auto Login\obj\Debug\netcoreapp3.1\Facebook auto Login.AssemblyInfoInputs.cache
+D:\Code Developer\CSharp\Project_CSharp\Winfrom\Project 2021\Facebook auto Login\Facebook auto Login\obj\Debug\netcoreapp3.1\Facebook auto Login.AssemblyInfo.cs
+D:\Code Developer\CSharp\Project_CSharp\Winfrom\Project 2021\Facebook auto Login\Facebook auto Login\obj\Debug\netcoreapp3.1\Facebook auto Login.csproj.CoreCompileInputs.cache
+D:\Code Developer\CSharp\Project_CSharp\Winfrom\Project 2021\Facebook auto Login\Facebook auto Login\obj\Debug\netcoreapp3.1\Facebook auto Login.dll
+D:\Code Developer\CSharp\Project_CSharp\Winfrom\Project 2021\Facebook auto Login\Facebook auto Login\obj\Debug\netcoreapp3.1\Facebook auto Login.pdb
+D:\Code Developer\CSharp\Project_CSharp\Winfrom\Project 2021\Facebook auto Login\Facebook auto Login\obj\Debug\netcoreapp3.1\Facebook auto Login.genruntimeconfig.cache
+D:\Code Developer\CSharp\Project_CSharp\Winfrom\Project 2021\Facebook auto Login\Facebook auto Login\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Code Developer\CSharp\Project_CSharp\Winfrom\Project 2021\Facebook auto Login\Facebook auto Login\bin\Debug\netcoreapp3.1\WebDriver.dll
+D:\Code Developer\CSharp\Project_CSharp\Winfrom\Project 2021\Facebook auto Login\Facebook auto Login\obj\Debug\netcoreapp3.1\Facebook auto Login.csproj.CopyComplete
+D:\Code Developer\CSharp\Project_CSharp\Winfrom\Project 2021\Facebook auto Login\Facebook auto Login\obj\Debug\netcoreapp3.1\Facebook auto Login.csprojAssemblyReference.cache
+D:\Code Developer\CSharp\Project_CSharp\Winfrom\Project 2021\Facebook auto Login\Facebook auto Login\bin\Debug\netcoreapp3.1\HtmlAgilityPack.dll
+D:\Code Developer\CSharp\Winforms\Project 2021\Facebook auto Login\Facebook auto Login\bin\Debug\netcoreapp3.1\Facebook auto Login.exe
+D:\Code Developer\CSharp\Winforms\Project 2021\Facebook auto Login\Facebook auto Login\bin\Debug\netcoreapp3.1\Facebook auto Login.deps.json
+D:\Code Developer\CSharp\Winforms\Project 2021\Facebook auto Login\Facebook auto Login\bin\Debug\netcoreapp3.1\Facebook auto Login.runtimeconfig.json
+D:\Code Developer\CSharp\Winforms\Project 2021\Facebook auto Login\Facebook auto Login\bin\Debug\netcoreapp3.1\Facebook auto Login.runtimeconfig.dev.json
+D:\Code Developer\CSharp\Winforms\Project 2021\Facebook auto Login\Facebook auto Login\bin\Debug\netcoreapp3.1\Facebook auto Login.dll
+D:\Code Developer\CSharp\Winforms\Project 2021\Facebook auto Login\Facebook auto Login\bin\Debug\netcoreapp3.1\Facebook auto Login.pdb
+D:\Code Developer\CSharp\Winforms\Project 2021\Facebook auto Login\Facebook auto Login\bin\Debug\netcoreapp3.1\HtmlAgilityPack.dll
+D:\Code Developer\CSharp\Winforms\Project 2021\Facebook auto Login\Facebook auto Login\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Code Developer\CSharp\Winforms\Project 2021\Facebook auto Login\Facebook auto Login\bin\Debug\netcoreapp3.1\WebDriver.dll
+D:\Code Developer\CSharp\Winforms\Project 2021\Facebook auto Login\Facebook auto Login\obj\Debug\netcoreapp3.1\Facebook auto Login.csproj.AssemblyReference.cache
+D:\Code Developer\CSharp\Winforms\Project 2021\Facebook auto Login\Facebook auto Login\obj\Debug\netcoreapp3.1\Facebook_auto_Login.Form1.resources
+D:\Code Developer\CSharp\Winforms\Project 2021\Facebook auto Login\Facebook auto Login\obj\Debug\netcoreapp3.1\Facebook auto Login.csproj.GenerateResource.cache
+D:\Code Developer\CSharp\Winforms\Project 2021\Facebook auto Login\Facebook auto Login\obj\Debug\netcoreapp3.1\Facebook auto Login.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code Developer\CSharp\Winforms\Project 2021\Facebook auto Login\Facebook auto Login\obj\Debug\netcoreapp3.1\Facebook auto Login.AssemblyInfoInputs.cache
+D:\Code Developer\CSharp\Winforms\Project 2021\Facebook auto Login\Facebook auto Login\obj\Debug\netcoreapp3.1\Facebook auto Login.AssemblyInfo.cs
+D:\Code Developer\CSharp\Winforms\Project 2021\Facebook auto Login\Facebook auto Login\obj\Debug\netcoreapp3.1\Facebook auto Login.csproj.CoreCompileInputs.cache
+D:\Code Developer\CSharp\Winforms\Project 2021\Facebook auto Login\Facebook auto Login\obj\Debug\netcoreapp3.1\Facebook auto Login.csproj.CopyComplete
+D:\Code Developer\CSharp\Winforms\Project 2021\Facebook auto Login\Facebook auto Login\obj\Debug\netcoreapp3.1\Facebook auto Login.dll
+D:\Code Developer\CSharp\Winforms\Project 2021\Facebook auto Login\Facebook auto Login\obj\Debug\netcoreapp3.1\Facebook auto Login.pdb
+D:\Code Developer\CSharp\Winforms\Project 2021\Facebook auto Login\Facebook auto Login\obj\Debug\netcoreapp3.1\Facebook auto Login.genruntimeconfig.cache
