@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "10c6d718-b9ad-4ba0-8de5-05ffeafb45f8": {
+      "ProjectGuid": "10c6d718-b9ad-4ba0-8de5-05ffeafb45f8",
+      "DisplayName": "ManagerPassword",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}

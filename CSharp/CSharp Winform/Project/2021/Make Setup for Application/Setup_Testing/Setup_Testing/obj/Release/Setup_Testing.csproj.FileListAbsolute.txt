@@ -1,0 +1,9 @@
+E:\Visual Studio Coder\Winforms\Setup_Testing\Setup_Testing\bin\Release\Setup_Testing.exe.config
+E:\Visual Studio Coder\Winforms\Setup_Testing\Setup_Testing\bin\Release\Setup_Testing.exe
+E:\Visual Studio Coder\Winforms\Setup_Testing\Setup_Testing\bin\Release\Setup_Testing.pdb
+E:\Visual Studio Coder\Winforms\Setup_Testing\Setup_Testing\obj\Release\Setup_Testing.Form1.resources
+E:\Visual Studio Coder\Winforms\Setup_Testing\Setup_Testing\obj\Release\Setup_Testing.Properties.Resources.resources
+E:\Visual Studio Coder\Winforms\Setup_Testing\Setup_Testing\obj\Release\Setup_Testing.csproj.GenerateResource.cache
+E:\Visual Studio Coder\Winforms\Setup_Testing\Setup_Testing\obj\Release\Setup_Testing.csproj.CoreCompileInputs.cache
+E:\Visual Studio Coder\Winforms\Setup_Testing\Setup_Testing\obj\Release\Setup_Testing.exe
+E:\Visual Studio Coder\Winforms\Setup_Testing\Setup_Testing\obj\Release\Setup_Testing.pdb

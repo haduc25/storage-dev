@@ -1,0 +1,21 @@
+F:\Data_CSharp\Winfrom\Name_System\Name_System\bin\Debug\Name_System.exe.config
+F:\Data_CSharp\Winfrom\Name_System\Name_System\bin\Debug\Name_System.exe
+F:\Data_CSharp\Winfrom\Name_System\Name_System\bin\Debug\Name_System.pdb
+F:\Data_CSharp\Winfrom\Name_System\Name_System\obj\Debug\Name_System.csprojAssemblyReference.cache
+F:\Data_CSharp\Winfrom\Name_System\Name_System\obj\Debug\Name_System.Form1.resources
+F:\Data_CSharp\Winfrom\Name_System\Name_System\obj\Debug\Name_System.Properties.Resources.resources
+F:\Data_CSharp\Winfrom\Name_System\Name_System\obj\Debug\Name_System.csproj.GenerateResource.cache
+F:\Data_CSharp\Winfrom\Name_System\Name_System\obj\Debug\Name_System.csproj.CoreCompileInputs.cache
+F:\Data_CSharp\Winfrom\Name_System\Name_System\obj\Debug\Name_System.exe
+F:\Data_CSharp\Winfrom\Name_System\Name_System\obj\Debug\Name_System.pdb
+D:\Code Developer\CSharp\Winforms\Name_System\Name_System\bin\Debug\Name_System.exe.config
+D:\Code Developer\CSharp\Winforms\Name_System\Name_System\bin\Debug\Name_System.exe
+D:\Code Developer\CSharp\Winforms\Name_System\Name_System\bin\Debug\Name_System.pdb
+D:\Code Developer\CSharp\Winforms\Name_System\Name_System\obj\Debug\Name_System.csproj.AssemblyReference.cache
+D:\Code Developer\CSharp\Winforms\Name_System\Name_System\obj\Debug\Name_System.csproj.SuggestedBindingRedirects.cache
+D:\Code Developer\CSharp\Winforms\Name_System\Name_System\obj\Debug\Name_System.Form1.resources
+D:\Code Developer\CSharp\Winforms\Name_System\Name_System\obj\Debug\Name_System.Properties.Resources.resources
+D:\Code Developer\CSharp\Winforms\Name_System\Name_System\obj\Debug\Name_System.csproj.GenerateResource.cache
+D:\Code Developer\CSharp\Winforms\Name_System\Name_System\obj\Debug\Name_System.csproj.CoreCompileInputs.cache
+D:\Code Developer\CSharp\Winforms\Name_System\Name_System\obj\Debug\Name_System.exe
+D:\Code Developer\CSharp\Winforms\Name_System\Name_System\obj\Debug\Name_System.pdb

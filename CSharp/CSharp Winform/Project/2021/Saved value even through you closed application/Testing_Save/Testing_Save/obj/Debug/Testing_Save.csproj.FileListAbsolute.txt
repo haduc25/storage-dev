@@ -1,0 +1,21 @@
+E:\Visual Studio Coder\Winforms\Testing_Save\Testing_Save\bin\Debug\Testing_Save.exe.config
+E:\Visual Studio Coder\Winforms\Testing_Save\Testing_Save\bin\Debug\Testing_Save.exe
+E:\Visual Studio Coder\Winforms\Testing_Save\Testing_Save\bin\Debug\Testing_Save.pdb
+E:\Visual Studio Coder\Winforms\Testing_Save\Testing_Save\obj\Debug\Testing_Save.csprojAssemblyReference.cache
+E:\Visual Studio Coder\Winforms\Testing_Save\Testing_Save\obj\Debug\Testing_Save.Form1.resources
+E:\Visual Studio Coder\Winforms\Testing_Save\Testing_Save\obj\Debug\Testing_Save.Properties.Resources.resources
+E:\Visual Studio Coder\Winforms\Testing_Save\Testing_Save\obj\Debug\Testing_Save.csproj.GenerateResource.cache
+E:\Visual Studio Coder\Winforms\Testing_Save\Testing_Save\obj\Debug\Testing_Save.csproj.CoreCompileInputs.cache
+E:\Visual Studio Coder\Winforms\Testing_Save\Testing_Save\obj\Debug\Testing_Save.exe
+E:\Visual Studio Coder\Winforms\Testing_Save\Testing_Save\obj\Debug\Testing_Save.pdb
+D:\Code Developer\CSharp\Winforms\Testing_Save\Testing_Save\bin\Debug\Testing_Save.exe.config
+D:\Code Developer\CSharp\Winforms\Testing_Save\Testing_Save\bin\Debug\Testing_Save.exe
+D:\Code Developer\CSharp\Winforms\Testing_Save\Testing_Save\bin\Debug\Testing_Save.pdb
+D:\Code Developer\CSharp\Winforms\Testing_Save\Testing_Save\obj\Debug\Testing_Save.csproj.AssemblyReference.cache
+D:\Code Developer\CSharp\Winforms\Testing_Save\Testing_Save\obj\Debug\Testing_Save.csproj.SuggestedBindingRedirects.cache
+D:\Code Developer\CSharp\Winforms\Testing_Save\Testing_Save\obj\Debug\Testing_Save.Form1.resources
+D:\Code Developer\CSharp\Winforms\Testing_Save\Testing_Save\obj\Debug\Testing_Save.Properties.Resources.resources
+D:\Code Developer\CSharp\Winforms\Testing_Save\Testing_Save\obj\Debug\Testing_Save.csproj.GenerateResource.cache
+D:\Code Developer\CSharp\Winforms\Testing_Save\Testing_Save\obj\Debug\Testing_Save.csproj.CoreCompileInputs.cache
+D:\Code Developer\CSharp\Winforms\Testing_Save\Testing_Save\obj\Debug\Testing_Save.exe
+D:\Code Developer\CSharp\Winforms\Testing_Save\Testing_Save\obj\Debug\Testing_Save.pdb

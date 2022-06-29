@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a8dc95d5-f626-4a65-9120-057d7e39c76c": {
+      "ProjectGuid": "a8dc95d5-f626-4a65-9120-057d7e39c76c",
+      "DisplayName": "Encryption with AES",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

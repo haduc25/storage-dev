@@ -1,0 +1,45 @@
+E:\Folder of Desktop\CSharp\Template\CSharp\Advanced\Project\ToolFN\ToolFN\bin\Debug\ToolFN.exe.config
+E:\Folder of Desktop\CSharp\Template\CSharp\Advanced\Project\ToolFN\ToolFN\bin\Debug\ToolFN.exe
+E:\Folder of Desktop\CSharp\Template\CSharp\Advanced\Project\ToolFN\ToolFN\bin\Debug\ToolFN.pdb
+E:\Folder of Desktop\CSharp\Template\CSharp\Advanced\Project\ToolFN\ToolFN\obj\Debug\ToolFN.csprojAssemblyReference.cache
+E:\Folder of Desktop\CSharp\Template\CSharp\Advanced\Project\ToolFN\ToolFN\obj\Debug\ToolFN.Form1.resources
+E:\Folder of Desktop\CSharp\Template\CSharp\Advanced\Project\ToolFN\ToolFN\obj\Debug\ToolFN.Properties.Resources.resources
+E:\Folder of Desktop\CSharp\Template\CSharp\Advanced\Project\ToolFN\ToolFN\obj\Debug\ToolFN.csproj.GenerateResource.cache
+E:\Folder of Desktop\CSharp\Template\CSharp\Advanced\Project\ToolFN\ToolFN\obj\Debug\ToolFN.csproj.CoreCompileInputs.cache
+E:\Folder of Desktop\CSharp\Template\CSharp\Advanced\Project\ToolFN\ToolFN\obj\Debug\ToolFN.exe
+E:\Folder of Desktop\CSharp\Template\CSharp\Advanced\Project\ToolFN\ToolFN\obj\Debug\ToolFN.pdb
+E:\Folder of Desktop\CSharp\Template\CSharp\Advanced\Project\ToolFN\ToolFN\obj\Debug\ToolFN.Form2.resources
+F:\Data_CSharp\Winfrom\Project\ToolFN\ToolFN\bin\Debug\ToolFN.exe.config
+F:\Data_CSharp\Winfrom\Project\ToolFN\ToolFN\bin\Debug\ToolFN.exe
+F:\Data_CSharp\Winfrom\Project\ToolFN\ToolFN\bin\Debug\ToolFN.pdb
+F:\Data_CSharp\Winfrom\Project\ToolFN\ToolFN\obj\Debug\ToolFN.csprojAssemblyReference.cache
+F:\Data_CSharp\Winfrom\Project\ToolFN\ToolFN\obj\Debug\ToolFN.Form1.resources
+F:\Data_CSharp\Winfrom\Project\ToolFN\ToolFN\obj\Debug\ToolFN.Form2.resources
+F:\Data_CSharp\Winfrom\Project\ToolFN\ToolFN\obj\Debug\ToolFN.Properties.Resources.resources
+F:\Data_CSharp\Winfrom\Project\ToolFN\ToolFN\obj\Debug\ToolFN.csproj.GenerateResource.cache
+F:\Data_CSharp\Winfrom\Project\ToolFN\ToolFN\obj\Debug\ToolFN.csproj.CoreCompileInputs.cache
+F:\Data_CSharp\Winfrom\Project\ToolFN\ToolFN\obj\Debug\ToolFN.exe
+F:\Data_CSharp\Winfrom\Project\ToolFN\ToolFN\obj\Debug\ToolFN.pdb
+D:\Code Developer\CSharp\Project_CSharp\Winfrom\Project\ToolFN\ToolFN\bin\Debug\ToolFN.exe.config
+D:\Code Developer\CSharp\Project_CSharp\Winfrom\Project\ToolFN\ToolFN\bin\Debug\ToolFN.exe
+D:\Code Developer\CSharp\Project_CSharp\Winfrom\Project\ToolFN\ToolFN\bin\Debug\ToolFN.pdb
+D:\Code Developer\CSharp\Project_CSharp\Winfrom\Project\ToolFN\ToolFN\obj\Debug\ToolFN.csprojAssemblyReference.cache
+D:\Code Developer\CSharp\Project_CSharp\Winfrom\Project\ToolFN\ToolFN\obj\Debug\ToolFN.Form1.resources
+D:\Code Developer\CSharp\Project_CSharp\Winfrom\Project\ToolFN\ToolFN\obj\Debug\ToolFN.Form2.resources
+D:\Code Developer\CSharp\Project_CSharp\Winfrom\Project\ToolFN\ToolFN\obj\Debug\ToolFN.Properties.Resources.resources
+D:\Code Developer\CSharp\Project_CSharp\Winfrom\Project\ToolFN\ToolFN\obj\Debug\ToolFN.csproj.GenerateResource.cache
+D:\Code Developer\CSharp\Project_CSharp\Winfrom\Project\ToolFN\ToolFN\obj\Debug\ToolFN.csproj.CoreCompileInputs.cache
+D:\Code Developer\CSharp\Project_CSharp\Winfrom\Project\ToolFN\ToolFN\obj\Debug\ToolFN.exe
+D:\Code Developer\CSharp\Project_CSharp\Winfrom\Project\ToolFN\ToolFN\obj\Debug\ToolFN.pdb
+D:\Code Developer\CSharp\Winforms\Project 2020\ToolFN\ToolFN\bin\Debug\ToolFN.exe.config
+D:\Code Developer\CSharp\Winforms\Project 2020\ToolFN\ToolFN\bin\Debug\ToolFN.exe
+D:\Code Developer\CSharp\Winforms\Project 2020\ToolFN\ToolFN\bin\Debug\ToolFN.pdb
+D:\Code Developer\CSharp\Winforms\Project 2020\ToolFN\ToolFN\obj\Debug\ToolFN.csproj.AssemblyReference.cache
+D:\Code Developer\CSharp\Winforms\Project 2020\ToolFN\ToolFN\obj\Debug\ToolFN.csproj.SuggestedBindingRedirects.cache
+D:\Code Developer\CSharp\Winforms\Project 2020\ToolFN\ToolFN\obj\Debug\ToolFN.Form1.resources
+D:\Code Developer\CSharp\Winforms\Project 2020\ToolFN\ToolFN\obj\Debug\ToolFN.Form2.resources
+D:\Code Developer\CSharp\Winforms\Project 2020\ToolFN\ToolFN\obj\Debug\ToolFN.Properties.Resources.resources
+D:\Code Developer\CSharp\Winforms\Project 2020\ToolFN\ToolFN\obj\Debug\ToolFN.csproj.GenerateResource.cache
+D:\Code Developer\CSharp\Winforms\Project 2020\ToolFN\ToolFN\obj\Debug\ToolFN.csproj.CoreCompileInputs.cache
+D:\Code Developer\CSharp\Winforms\Project 2020\ToolFN\ToolFN\obj\Debug\ToolFN.exe
+D:\Code Developer\CSharp\Winforms\Project 2020\ToolFN\ToolFN\obj\Debug\ToolFN.pdb

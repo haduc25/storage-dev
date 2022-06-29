@@ -1,0 +1,36 @@
+E:\CSharp\CSharp\Advanced\Project\OpenExcel\OpenExcel\bin\Debug\OpenExcel.exe.config
+E:\CSharp\CSharp\Advanced\Project\OpenExcel\OpenExcel\bin\Debug\OpenExcel.exe
+E:\CSharp\CSharp\Advanced\Project\OpenExcel\OpenExcel\bin\Debug\OpenExcel.pdb
+E:\CSharp\CSharp\Advanced\Project\OpenExcel\OpenExcel\obj\Debug\OpenExcel.Form1.resources
+E:\CSharp\CSharp\Advanced\Project\OpenExcel\OpenExcel\obj\Debug\OpenExcel.Properties.Resources.resources
+E:\CSharp\CSharp\Advanced\Project\OpenExcel\OpenExcel\obj\Debug\OpenExcel.csproj.GenerateResource.cache
+E:\CSharp\CSharp\Advanced\Project\OpenExcel\OpenExcel\obj\Debug\OpenExcel.csproj.CoreCompileInputs.cache
+E:\CSharp\CSharp\Advanced\Project\OpenExcel\OpenExcel\obj\Debug\OpenExcel.exe
+E:\CSharp\CSharp\Advanced\Project\OpenExcel\OpenExcel\obj\Debug\OpenExcel.pdb
+E:\CSharp\CSharp\Advanced\Project\OpenExcel\OpenExcel\bin\Debug\ExcelDataReader.dll
+E:\CSharp\CSharp\Advanced\Project\OpenExcel\OpenExcel\bin\Debug\ExcelDataReader.pdb
+E:\CSharp\CSharp\Advanced\Project\OpenExcel\OpenExcel\bin\Debug\ExcelDataReader.xml
+E:\CSharp\CSharp\Advanced\Project\OpenExcel\OpenExcel\obj\Debug\OpenExcel.csproj.CopyComplete
+E:\CSharp\CSharp\Advanced\Project\OpenExcel\OpenExcel\bin\Debug\ExcelDataReader.DataSet.dll
+E:\CSharp\CSharp\Advanced\Project\OpenExcel\OpenExcel\bin\Debug\ExcelDataReader.DataSet.pdb
+E:\CSharp\CSharp\Advanced\Project\OpenExcel\OpenExcel\bin\Debug\ExcelDataReader.DataSet.xml
+E:\CSharp\CSharp\Advanced\Project\OpenExcel\OpenExcel\obj\Debug\OpenExcel.csproj.ResolveComReference.cache
+D:\Code Developer\CSharp\Winforms\Project 2020\OpenExcel\OpenExcel\bin\Debug\OpenExcel.exe.config
+D:\Code Developer\CSharp\Winforms\Project 2020\OpenExcel\OpenExcel\bin\Debug\OpenExcel.exe
+D:\Code Developer\CSharp\Winforms\Project 2020\OpenExcel\OpenExcel\bin\Debug\OpenExcel.pdb
+D:\Code Developer\CSharp\Winforms\Project 2020\OpenExcel\OpenExcel\bin\Debug\ExcelDataReader.DataSet.dll
+D:\Code Developer\CSharp\Winforms\Project 2020\OpenExcel\OpenExcel\bin\Debug\ExcelDataReader.dll
+D:\Code Developer\CSharp\Winforms\Project 2020\OpenExcel\OpenExcel\bin\Debug\ExcelDataReader.pdb
+D:\Code Developer\CSharp\Winforms\Project 2020\OpenExcel\OpenExcel\bin\Debug\ExcelDataReader.xml
+D:\Code Developer\CSharp\Winforms\Project 2020\OpenExcel\OpenExcel\bin\Debug\ExcelDataReader.DataSet.pdb
+D:\Code Developer\CSharp\Winforms\Project 2020\OpenExcel\OpenExcel\bin\Debug\ExcelDataReader.DataSet.xml
+D:\Code Developer\CSharp\Winforms\Project 2020\OpenExcel\OpenExcel\obj\Debug\OpenExcel.csproj.AssemblyReference.cache
+D:\Code Developer\CSharp\Winforms\Project 2020\OpenExcel\OpenExcel\obj\Debug\OpenExcel.csproj.SuggestedBindingRedirects.cache
+D:\Code Developer\CSharp\Winforms\Project 2020\OpenExcel\OpenExcel\obj\Debug\OpenExcel.csproj.ResolveComReference.cache
+D:\Code Developer\CSharp\Winforms\Project 2020\OpenExcel\OpenExcel\obj\Debug\OpenExcel.Form1.resources
+D:\Code Developer\CSharp\Winforms\Project 2020\OpenExcel\OpenExcel\obj\Debug\OpenExcel.Properties.Resources.resources
+D:\Code Developer\CSharp\Winforms\Project 2020\OpenExcel\OpenExcel\obj\Debug\OpenExcel.csproj.GenerateResource.cache
+D:\Code Developer\CSharp\Winforms\Project 2020\OpenExcel\OpenExcel\obj\Debug\OpenExcel.csproj.CoreCompileInputs.cache
+D:\Code Developer\CSharp\Winforms\Project 2020\OpenExcel\OpenExcel\obj\Debug\OpenExcel.csproj.CopyComplete
+D:\Code Developer\CSharp\Winforms\Project 2020\OpenExcel\OpenExcel\obj\Debug\OpenExcel.exe
+D:\Code Developer\CSharp\Winforms\Project 2020\OpenExcel\OpenExcel\obj\Debug\OpenExcel.pdb

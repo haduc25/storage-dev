@@ -1,0 +1,17 @@
+D:\Code Developer\CSharp\Winforms\Project 2022\percentCalculator\percentCalculator\bin\Debug\net6.0-windows\percentCalculator.exe
+D:\Code Developer\CSharp\Winforms\Project 2022\percentCalculator\percentCalculator\bin\Debug\net6.0-windows\percentCalculator.deps.json
+D:\Code Developer\CSharp\Winforms\Project 2022\percentCalculator\percentCalculator\bin\Debug\net6.0-windows\percentCalculator.runtimeconfig.json
+D:\Code Developer\CSharp\Winforms\Project 2022\percentCalculator\percentCalculator\bin\Debug\net6.0-windows\percentCalculator.dll
+D:\Code Developer\CSharp\Winforms\Project 2022\percentCalculator\percentCalculator\bin\Debug\net6.0-windows\percentCalculator.pdb
+D:\Code Developer\CSharp\Winforms\Project 2022\percentCalculator\percentCalculator\obj\Debug\net6.0-windows\percentCalculator.csproj.AssemblyReference.cache
+D:\Code Developer\CSharp\Winforms\Project 2022\percentCalculator\percentCalculator\obj\Debug\net6.0-windows\percentCalculator.Form1.resources
+D:\Code Developer\CSharp\Winforms\Project 2022\percentCalculator\percentCalculator\obj\Debug\net6.0-windows\percentCalculator.csproj.GenerateResource.cache
+D:\Code Developer\CSharp\Winforms\Project 2022\percentCalculator\percentCalculator\obj\Debug\net6.0-windows\percentCalculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code Developer\CSharp\Winforms\Project 2022\percentCalculator\percentCalculator\obj\Debug\net6.0-windows\percentCalculator.AssemblyInfoInputs.cache
+D:\Code Developer\CSharp\Winforms\Project 2022\percentCalculator\percentCalculator\obj\Debug\net6.0-windows\percentCalculator.AssemblyInfo.cs
+D:\Code Developer\CSharp\Winforms\Project 2022\percentCalculator\percentCalculator\obj\Debug\net6.0-windows\percentCalculator.csproj.CoreCompileInputs.cache
+D:\Code Developer\CSharp\Winforms\Project 2022\percentCalculator\percentCalculator\obj\Debug\net6.0-windows\percentCalculator.dll
+D:\Code Developer\CSharp\Winforms\Project 2022\percentCalculator\percentCalculator\obj\Debug\net6.0-windows\refint\percentCalculator.dll
+D:\Code Developer\CSharp\Winforms\Project 2022\percentCalculator\percentCalculator\obj\Debug\net6.0-windows\percentCalculator.pdb
+D:\Code Developer\CSharp\Winforms\Project 2022\percentCalculator\percentCalculator\obj\Debug\net6.0-windows\percentCalculator.genruntimeconfig.cache
+D:\Code Developer\CSharp\Winforms\Project 2022\percentCalculator\percentCalculator\obj\Debug\net6.0-windows\ref\percentCalculator.dll

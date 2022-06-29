@@ -1,0 +1,21 @@
+E:\Visual Studio Coder\Winforms\Take_ThisIP\Take_ThisIP\bin\Debug\Take_ThisIP.exe.config
+E:\Visual Studio Coder\Winforms\Take_ThisIP\Take_ThisIP\bin\Debug\Take_ThisIP.exe
+E:\Visual Studio Coder\Winforms\Take_ThisIP\Take_ThisIP\bin\Debug\Take_ThisIP.pdb
+E:\Visual Studio Coder\Winforms\Take_ThisIP\Take_ThisIP\obj\Debug\Take_ThisIP.csprojAssemblyReference.cache
+E:\Visual Studio Coder\Winforms\Take_ThisIP\Take_ThisIP\obj\Debug\Take_ThisIP.Form1.resources
+E:\Visual Studio Coder\Winforms\Take_ThisIP\Take_ThisIP\obj\Debug\Take_ThisIP.Properties.Resources.resources
+E:\Visual Studio Coder\Winforms\Take_ThisIP\Take_ThisIP\obj\Debug\Take_ThisIP.csproj.GenerateResource.cache
+E:\Visual Studio Coder\Winforms\Take_ThisIP\Take_ThisIP\obj\Debug\Take_ThisIP.csproj.CoreCompileInputs.cache
+E:\Visual Studio Coder\Winforms\Take_ThisIP\Take_ThisIP\obj\Debug\Take_ThisIP.exe
+E:\Visual Studio Coder\Winforms\Take_ThisIP\Take_ThisIP\obj\Debug\Take_ThisIP.pdb
+D:\Code Developer\CSharp\Winforms\Take_ThisIP\Take_ThisIP\bin\Debug\Take_ThisIP.exe.config
+D:\Code Developer\CSharp\Winforms\Take_ThisIP\Take_ThisIP\bin\Debug\Take_ThisIP.exe
+D:\Code Developer\CSharp\Winforms\Take_ThisIP\Take_ThisIP\bin\Debug\Take_ThisIP.pdb
+D:\Code Developer\CSharp\Winforms\Take_ThisIP\Take_ThisIP\obj\Debug\Take_ThisIP.csproj.AssemblyReference.cache
+D:\Code Developer\CSharp\Winforms\Take_ThisIP\Take_ThisIP\obj\Debug\Take_ThisIP.csproj.SuggestedBindingRedirects.cache
+D:\Code Developer\CSharp\Winforms\Take_ThisIP\Take_ThisIP\obj\Debug\Take_ThisIP.Form1.resources
+D:\Code Developer\CSharp\Winforms\Take_ThisIP\Take_ThisIP\obj\Debug\Take_ThisIP.Properties.Resources.resources
+D:\Code Developer\CSharp\Winforms\Take_ThisIP\Take_ThisIP\obj\Debug\Take_ThisIP.csproj.GenerateResource.cache
+D:\Code Developer\CSharp\Winforms\Take_ThisIP\Take_ThisIP\obj\Debug\Take_ThisIP.csproj.CoreCompileInputs.cache
+D:\Code Developer\CSharp\Winforms\Take_ThisIP\Take_ThisIP\obj\Debug\Take_ThisIP.exe
+D:\Code Developer\CSharp\Winforms\Take_ThisIP\Take_ThisIP\obj\Debug\Take_ThisIP.pdb

@@ -1,0 +1,21 @@
+F:\Data_CSharp\Winfrom\Label_Text\Label_Text\bin\Debug\Label_Text.exe.config
+F:\Data_CSharp\Winfrom\Label_Text\Label_Text\bin\Debug\Label_Text.exe
+F:\Data_CSharp\Winfrom\Label_Text\Label_Text\bin\Debug\Label_Text.pdb
+F:\Data_CSharp\Winfrom\Label_Text\Label_Text\obj\Debug\Label_Text.csprojAssemblyReference.cache
+F:\Data_CSharp\Winfrom\Label_Text\Label_Text\obj\Debug\Label_Text.Form1.resources
+F:\Data_CSharp\Winfrom\Label_Text\Label_Text\obj\Debug\Label_Text.Properties.Resources.resources
+F:\Data_CSharp\Winfrom\Label_Text\Label_Text\obj\Debug\Label_Text.csproj.GenerateResource.cache
+F:\Data_CSharp\Winfrom\Label_Text\Label_Text\obj\Debug\Label_Text.csproj.CoreCompileInputs.cache
+F:\Data_CSharp\Winfrom\Label_Text\Label_Text\obj\Debug\Label_Text.exe
+F:\Data_CSharp\Winfrom\Label_Text\Label_Text\obj\Debug\Label_Text.pdb
+D:\Code Developer\CSharp\Winforms\Label_Text\Label_Text\bin\Debug\Label_Text.exe.config
+D:\Code Developer\CSharp\Winforms\Label_Text\Label_Text\bin\Debug\Label_Text.exe
+D:\Code Developer\CSharp\Winforms\Label_Text\Label_Text\bin\Debug\Label_Text.pdb
+D:\Code Developer\CSharp\Winforms\Label_Text\Label_Text\obj\Debug\Label_Text.csproj.AssemblyReference.cache
+D:\Code Developer\CSharp\Winforms\Label_Text\Label_Text\obj\Debug\Label_Text.csproj.SuggestedBindingRedirects.cache
+D:\Code Developer\CSharp\Winforms\Label_Text\Label_Text\obj\Debug\Label_Text.Form1.resources
+D:\Code Developer\CSharp\Winforms\Label_Text\Label_Text\obj\Debug\Label_Text.Properties.Resources.resources
+D:\Code Developer\CSharp\Winforms\Label_Text\Label_Text\obj\Debug\Label_Text.csproj.GenerateResource.cache
+D:\Code Developer\CSharp\Winforms\Label_Text\Label_Text\obj\Debug\Label_Text.csproj.CoreCompileInputs.cache
+D:\Code Developer\CSharp\Winforms\Label_Text\Label_Text\obj\Debug\Label_Text.exe
+D:\Code Developer\CSharp\Winforms\Label_Text\Label_Text\obj\Debug\Label_Text.pdb

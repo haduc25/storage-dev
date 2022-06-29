@@ -1,0 +1,30 @@
+D:\Data App\CSharp\Advanced\Project\Read and Write File txt\RWtxt\bin\Debug\RWtxt.exe.config
+D:\Data App\CSharp\Advanced\Project\Read and Write File txt\RWtxt\bin\Debug\RWtxt.exe
+D:\Data App\CSharp\Advanced\Project\Read and Write File txt\RWtxt\bin\Debug\RWtxt.pdb
+D:\Data App\CSharp\Advanced\Project\Read and Write File txt\RWtxt\obj\Debug\RWtxt.Form1.resources
+D:\Data App\CSharp\Advanced\Project\Read and Write File txt\RWtxt\obj\Debug\RWtxt.Properties.Resources.resources
+D:\Data App\CSharp\Advanced\Project\Read and Write File txt\RWtxt\obj\Debug\RWtxt.csproj.GenerateResource.cache
+D:\Data App\CSharp\Advanced\Project\Read and Write File txt\RWtxt\obj\Debug\RWtxt.csproj.CoreCompileInputs.cache
+D:\Data App\CSharp\Advanced\Project\Read and Write File txt\RWtxt\obj\Debug\RWtxt.exe
+D:\Data App\CSharp\Advanced\Project\Read and Write File txt\RWtxt\obj\Debug\RWtxt.pdb
+E:\Desktop\CSharp\Template\CSharp\Advanced\Project\Read and Write File txt\RWtxt\bin\Debug\RWtxt.exe.config
+E:\Desktop\CSharp\Template\CSharp\Advanced\Project\Read and Write File txt\RWtxt\bin\Debug\RWtxt.exe
+E:\Desktop\CSharp\Template\CSharp\Advanced\Project\Read and Write File txt\RWtxt\bin\Debug\RWtxt.pdb
+E:\Desktop\CSharp\Template\CSharp\Advanced\Project\Read and Write File txt\RWtxt\obj\Debug\RWtxt.csprojAssemblyReference.cache
+E:\Desktop\CSharp\Template\CSharp\Advanced\Project\Read and Write File txt\RWtxt\obj\Debug\RWtxt.Form1.resources
+E:\Desktop\CSharp\Template\CSharp\Advanced\Project\Read and Write File txt\RWtxt\obj\Debug\RWtxt.Properties.Resources.resources
+E:\Desktop\CSharp\Template\CSharp\Advanced\Project\Read and Write File txt\RWtxt\obj\Debug\RWtxt.csproj.GenerateResource.cache
+E:\Desktop\CSharp\Template\CSharp\Advanced\Project\Read and Write File txt\RWtxt\obj\Debug\RWtxt.csproj.CoreCompileInputs.cache
+E:\Desktop\CSharp\Template\CSharp\Advanced\Project\Read and Write File txt\RWtxt\obj\Debug\RWtxt.exe
+E:\Desktop\CSharp\Template\CSharp\Advanced\Project\Read and Write File txt\RWtxt\obj\Debug\RWtxt.pdb
+D:\Code Developer\CSharp\Winforms\Project 2020\Read and Write File txt\RWtxt\bin\Debug\RWtxt.exe.config
+D:\Code Developer\CSharp\Winforms\Project 2020\Read and Write File txt\RWtxt\bin\Debug\RWtxt.exe
+D:\Code Developer\CSharp\Winforms\Project 2020\Read and Write File txt\RWtxt\bin\Debug\RWtxt.pdb
+D:\Code Developer\CSharp\Winforms\Project 2020\Read and Write File txt\RWtxt\obj\Debug\RWtxt.csproj.AssemblyReference.cache
+D:\Code Developer\CSharp\Winforms\Project 2020\Read and Write File txt\RWtxt\obj\Debug\RWtxt.csproj.SuggestedBindingRedirects.cache
+D:\Code Developer\CSharp\Winforms\Project 2020\Read and Write File txt\RWtxt\obj\Debug\RWtxt.Form1.resources
+D:\Code Developer\CSharp\Winforms\Project 2020\Read and Write File txt\RWtxt\obj\Debug\RWtxt.Properties.Resources.resources
+D:\Code Developer\CSharp\Winforms\Project 2020\Read and Write File txt\RWtxt\obj\Debug\RWtxt.csproj.GenerateResource.cache
+D:\Code Developer\CSharp\Winforms\Project 2020\Read and Write File txt\RWtxt\obj\Debug\RWtxt.csproj.CoreCompileInputs.cache
+D:\Code Developer\CSharp\Winforms\Project 2020\Read and Write File txt\RWtxt\obj\Debug\RWtxt.exe
+D:\Code Developer\CSharp\Winforms\Project 2020\Read and Write File txt\RWtxt\obj\Debug\RWtxt.pdb
