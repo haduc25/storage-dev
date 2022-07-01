@@ -1,0 +1,6 @@
+AshtonWilliams01[0]	Giảm[0]: -23% Giá[0]: 981 Name[0]: Aristocrat Ares
+AshtonWilliams01[1]	Giảm[1]: -27% Giá[1]: 1295 Name[1]: Ion Sheriff
+AshtonWilliams01[2]	Giảm[2]: -38% Giá[2]: 1085 Name[2]: Luxe Knife
+AshtonWilliams01[3]	Giảm[3]: -23% Giá[3]: 1366 Name[3]: Spline Operator
+AshtonWilliams01[4]	Giảm[4]: -32% Giá[4]: 2414 Name[4]: Magepunk Shock Gauntlet
+AshtonWilliams01[5]	Giảm[5]: -42% Giá[5]: 739 Name[5]: Aristocrat Sheriff
