@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "HpwpWmGkafAiJ1UgOsHc6dkhoeNFp9Sud5aEjrDMX6TI1ikF6CFRP44zImv02fjauxkwBCcyXa1aK3NgpKRDQg==",
+  "success": true,
+  "projectFilePath": "D:\\Code Developer\\CSharp\\Remake\\CSharp Winform\\Project\\Tools\\Selenium\\2021\\Open Private Website with my Users Data\\openSomething\\openSomething\\openSomething.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\haduc\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\haduc\\.nuget\\packages\\selenium.webdriver\\4.1.0\\selenium.webdriver.4.1.0.nupkg.sha512",
+    "C:\\Users\\haduc\\.nuget\\packages\\selenium.webdriver.chromedriver\\96.0.4664.4500\\selenium.webdriver.chromedriver.96.0.4664.4500.nupkg.sha512",
+    "C:\\Users\\haduc\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512",
+    "C:\\Users\\haduc\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\haduc\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\haduc\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

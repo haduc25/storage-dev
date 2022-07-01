@@ -1,0 +1,56 @@
+D:\Code Developer\CSharp\Project_CSharp\Winfrom\Project 2021\openSomething\openSomething\obj\Debug\netcoreapp3.1\openSomething.csprojAssemblyReference.cache
+D:\Code Developer\CSharp\Project_CSharp\Winfrom\Project 2021\openSomething\openSomething\obj\Debug\netcoreapp3.1\openSomething.Form1.resources
+D:\Code Developer\CSharp\Project_CSharp\Winfrom\Project 2021\openSomething\openSomething\obj\Debug\netcoreapp3.1\openSomething.csproj.GenerateResource.cache
+D:\Code Developer\CSharp\Project_CSharp\Winfrom\Project 2021\openSomething\openSomething\obj\Debug\netcoreapp3.1\openSomething.AssemblyInfoInputs.cache
+D:\Code Developer\CSharp\Project_CSharp\Winfrom\Project 2021\openSomething\openSomething\obj\Debug\netcoreapp3.1\openSomething.AssemblyInfo.cs
+D:\Code Developer\CSharp\Project_CSharp\Winfrom\Project 2021\openSomething\openSomething\obj\Debug\netcoreapp3.1\openSomething.csproj.CoreCompileInputs.cache
+D:\Code Developer\CSharp\Project_CSharp\Winfrom\Project 2021\openSomething\openSomething\bin\Debug\netcoreapp3.1\openSomething.exe
+D:\Code Developer\CSharp\Project_CSharp\Winfrom\Project 2021\openSomething\openSomething\bin\Debug\netcoreapp3.1\openSomething.deps.json
+D:\Code Developer\CSharp\Project_CSharp\Winfrom\Project 2021\openSomething\openSomething\bin\Debug\netcoreapp3.1\openSomething.runtimeconfig.json
+D:\Code Developer\CSharp\Project_CSharp\Winfrom\Project 2021\openSomething\openSomething\bin\Debug\netcoreapp3.1\openSomething.runtimeconfig.dev.json
+D:\Code Developer\CSharp\Project_CSharp\Winfrom\Project 2021\openSomething\openSomething\bin\Debug\netcoreapp3.1\openSomething.dll
+D:\Code Developer\CSharp\Project_CSharp\Winfrom\Project 2021\openSomething\openSomething\bin\Debug\netcoreapp3.1\openSomething.pdb
+D:\Code Developer\CSharp\Project_CSharp\Winfrom\Project 2021\openSomething\openSomething\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Code Developer\CSharp\Project_CSharp\Winfrom\Project 2021\openSomething\openSomething\bin\Debug\netcoreapp3.1\WebDriver.dll
+D:\Code Developer\CSharp\Project_CSharp\Winfrom\Project 2021\openSomething\openSomething\obj\Debug\netcoreapp3.1\openSomething.csproj.CopyComplete
+D:\Code Developer\CSharp\Project_CSharp\Winfrom\Project 2021\openSomething\openSomething\obj\Debug\netcoreapp3.1\openSomething.dll
+D:\Code Developer\CSharp\Project_CSharp\Winfrom\Project 2021\openSomething\openSomething\obj\Debug\netcoreapp3.1\openSomething.pdb
+D:\Code Developer\CSharp\Project_CSharp\Winfrom\Project 2021\openSomething\openSomething\obj\Debug\netcoreapp3.1\openSomething.genruntimeconfig.cache
+D:\Code Developer\CSharp\Winforms\Project 2021\openSomething\openSomething\bin\Debug\netcoreapp3.1\openSomething.exe
+D:\Code Developer\CSharp\Winforms\Project 2021\openSomething\openSomething\bin\Debug\netcoreapp3.1\openSomething.deps.json
+D:\Code Developer\CSharp\Winforms\Project 2021\openSomething\openSomething\bin\Debug\netcoreapp3.1\openSomething.runtimeconfig.json
+D:\Code Developer\CSharp\Winforms\Project 2021\openSomething\openSomething\bin\Debug\netcoreapp3.1\openSomething.runtimeconfig.dev.json
+D:\Code Developer\CSharp\Winforms\Project 2021\openSomething\openSomething\bin\Debug\netcoreapp3.1\openSomething.dll
+D:\Code Developer\CSharp\Winforms\Project 2021\openSomething\openSomething\bin\Debug\netcoreapp3.1\openSomething.pdb
+D:\Code Developer\CSharp\Winforms\Project 2021\openSomething\openSomething\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Code Developer\CSharp\Winforms\Project 2021\openSomething\openSomething\bin\Debug\netcoreapp3.1\WebDriver.dll
+D:\Code Developer\CSharp\Winforms\Project 2021\openSomething\openSomething\obj\Debug\netcoreapp3.1\openSomething.csproj.AssemblyReference.cache
+D:\Code Developer\CSharp\Winforms\Project 2021\openSomething\openSomething\obj\Debug\netcoreapp3.1\openSomething.Form1.resources
+D:\Code Developer\CSharp\Winforms\Project 2021\openSomething\openSomething\obj\Debug\netcoreapp3.1\openSomething.csproj.GenerateResource.cache
+D:\Code Developer\CSharp\Winforms\Project 2021\openSomething\openSomething\obj\Debug\netcoreapp3.1\openSomething.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code Developer\CSharp\Winforms\Project 2021\openSomething\openSomething\obj\Debug\netcoreapp3.1\openSomething.AssemblyInfoInputs.cache
+D:\Code Developer\CSharp\Winforms\Project 2021\openSomething\openSomething\obj\Debug\netcoreapp3.1\openSomething.AssemblyInfo.cs
+D:\Code Developer\CSharp\Winforms\Project 2021\openSomething\openSomething\obj\Debug\netcoreapp3.1\openSomething.csproj.CoreCompileInputs.cache
+D:\Code Developer\CSharp\Winforms\Project 2021\openSomething\openSomething\obj\Debug\netcoreapp3.1\openSomething.csproj.CopyComplete
+D:\Code Developer\CSharp\Winforms\Project 2021\openSomething\openSomething\obj\Debug\netcoreapp3.1\openSomething.dll
+D:\Code Developer\CSharp\Winforms\Project 2021\openSomething\openSomething\obj\Debug\netcoreapp3.1\openSomething.pdb
+D:\Code Developer\CSharp\Winforms\Project 2021\openSomething\openSomething\obj\Debug\netcoreapp3.1\openSomething.genruntimeconfig.cache
+D:\Code Developer\CSharp\Remake\CSharp Winform\Project\Tools\Selenium\2021\Open Private Website with my Users Data\openSomething\openSomething\bin\Debug\netcoreapp3.1\openSomething.exe
+D:\Code Developer\CSharp\Remake\CSharp Winform\Project\Tools\Selenium\2021\Open Private Website with my Users Data\openSomething\openSomething\bin\Debug\netcoreapp3.1\openSomething.deps.json
+D:\Code Developer\CSharp\Remake\CSharp Winform\Project\Tools\Selenium\2021\Open Private Website with my Users Data\openSomething\openSomething\bin\Debug\netcoreapp3.1\openSomething.runtimeconfig.json
+D:\Code Developer\CSharp\Remake\CSharp Winform\Project\Tools\Selenium\2021\Open Private Website with my Users Data\openSomething\openSomething\bin\Debug\netcoreapp3.1\openSomething.runtimeconfig.dev.json
+D:\Code Developer\CSharp\Remake\CSharp Winform\Project\Tools\Selenium\2021\Open Private Website with my Users Data\openSomething\openSomething\bin\Debug\netcoreapp3.1\openSomething.dll
+D:\Code Developer\CSharp\Remake\CSharp Winform\Project\Tools\Selenium\2021\Open Private Website with my Users Data\openSomething\openSomething\bin\Debug\netcoreapp3.1\openSomething.pdb
+D:\Code Developer\CSharp\Remake\CSharp Winform\Project\Tools\Selenium\2021\Open Private Website with my Users Data\openSomething\openSomething\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Code Developer\CSharp\Remake\CSharp Winform\Project\Tools\Selenium\2021\Open Private Website with my Users Data\openSomething\openSomething\bin\Debug\netcoreapp3.1\WebDriver.dll
+D:\Code Developer\CSharp\Remake\CSharp Winform\Project\Tools\Selenium\2021\Open Private Website with my Users Data\openSomething\openSomething\obj\Debug\netcoreapp3.1\openSomething.csproj.AssemblyReference.cache
+D:\Code Developer\CSharp\Remake\CSharp Winform\Project\Tools\Selenium\2021\Open Private Website with my Users Data\openSomething\openSomething\obj\Debug\netcoreapp3.1\openSomething.Form1.resources
+D:\Code Developer\CSharp\Remake\CSharp Winform\Project\Tools\Selenium\2021\Open Private Website with my Users Data\openSomething\openSomething\obj\Debug\netcoreapp3.1\openSomething.csproj.GenerateResource.cache
+D:\Code Developer\CSharp\Remake\CSharp Winform\Project\Tools\Selenium\2021\Open Private Website with my Users Data\openSomething\openSomething\obj\Debug\netcoreapp3.1\openSomething.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code Developer\CSharp\Remake\CSharp Winform\Project\Tools\Selenium\2021\Open Private Website with my Users Data\openSomething\openSomething\obj\Debug\netcoreapp3.1\openSomething.AssemblyInfoInputs.cache
+D:\Code Developer\CSharp\Remake\CSharp Winform\Project\Tools\Selenium\2021\Open Private Website with my Users Data\openSomething\openSomething\obj\Debug\netcoreapp3.1\openSomething.AssemblyInfo.cs
+D:\Code Developer\CSharp\Remake\CSharp Winform\Project\Tools\Selenium\2021\Open Private Website with my Users Data\openSomething\openSomething\obj\Debug\netcoreapp3.1\openSomething.csproj.CoreCompileInputs.cache
+D:\Code Developer\CSharp\Remake\CSharp Winform\Project\Tools\Selenium\2021\Open Private Website with my Users Data\openSomething\openSomething\obj\Debug\netcoreapp3.1\openSomething.csproj.CopyComplete
+D:\Code Developer\CSharp\Remake\CSharp Winform\Project\Tools\Selenium\2021\Open Private Website with my Users Data\openSomething\openSomething\obj\Debug\netcoreapp3.1\openSomething.dll
+D:\Code Developer\CSharp\Remake\CSharp Winform\Project\Tools\Selenium\2021\Open Private Website with my Users Data\openSomething\openSomething\obj\Debug\netcoreapp3.1\openSomething.pdb
+D:\Code Developer\CSharp\Remake\CSharp Winform\Project\Tools\Selenium\2021\Open Private Website with my Users Data\openSomething\openSomething\obj\Debug\netcoreapp3.1\openSomething.genruntimeconfig.cache
