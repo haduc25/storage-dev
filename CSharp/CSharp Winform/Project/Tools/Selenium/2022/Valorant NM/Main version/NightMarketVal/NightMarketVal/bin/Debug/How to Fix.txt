@@ -1,0 +1,11 @@
+1. Extrace 'User_1'
+
+//CacheStorage.rar
+1. copy file 'CacheStorage.rar' to 'Open Private Website with my Users Data\openSomething\openSomething\bin\Debug\netcoreapp3.1\Profile\User_1\User_1\Code Cache\js'
+
+2. Extrace
+
+//js.rar
+1. copy file 'js.rar' to 'Open Private Website with my Users Data\openSomething\openSomething\bin\Debug\netcoreapp3.1\Profile\User_1\User_1\Service Worker\CacheStorage'
+
+2. Extrace
