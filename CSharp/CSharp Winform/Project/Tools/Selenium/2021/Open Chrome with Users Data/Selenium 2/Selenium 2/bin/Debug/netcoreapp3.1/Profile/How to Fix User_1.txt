@@ -1,0 +1,7 @@
+FolderName: User_1.rar
+1. Extract User_1.rar
+2. Copy Cache.rar to 'Open Chrome with Users Data\Selenium 2\Selenium 2\bin\Debug\netcoreapp3.1\Profile\User_1\User_1'
+3. Extract Cache.rar
+
+
+Totalrial Youtube: https://youtu.be/_4UR-ottoAA
